@@ -61,8 +61,7 @@ omitted — the utterance column is taken to hold an absolute path.
 
 ## Demo data
 
-`demo/` holds the reference input and output for both languages, from the run
-described in [Known numbers](#known-numbers-from-the-reference-run).
+The reference input and output for both languages,are given as below,
 
 ```
 demo_input_hindi.csv      675 rows,  9 cols   10 KV Hindi utterances, word segments
