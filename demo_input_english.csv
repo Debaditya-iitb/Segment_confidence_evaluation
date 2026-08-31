@@ -1,0 +1,742 @@
+WavFileName,canonical_word,decoded_word,label,start_time,end_time,span_dur,speech_dur,ctm_entry,canonical_phone_seq
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,long,अंग,s,0.96,1.17,0.21,0.21,अंग,L AO NG
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,long,long,c,1.17,1.56,0.39,0.39,long,L AO NG
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,ago,ago,c,1.56,2.01,0.45,0.45,ago,AH G OW
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,the,the,c,2.01,2.28,0.27,0.27,the,DH AH
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,peacock,peacock,c,2.28,2.79,0.51,0.51,peacock,P IY K AO K
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,had,had,c,2.79,3.09,0.3,0.3,had,HH AE D
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,a,a,c,3.09,3.21,0.12,0.12,a,AH
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,lovely,lovely,c,3.21,3.69,0.48,0.48,lovely,L AH V L IY
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,voice,voice,c,3.69,4.14,0.45,0.45,voice,V OY S
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,and,and,c,4.14,4.38,0.24,0.24,and,AE N D
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,beautiful,beautiful,c,4.38,4.95,0.57,0.57,beautiful,B Y UW T IH F UH L
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,feathers,फिदर्स,s,4.95,5.58,0.63,0.63,फिदर्स,F EH DH AH R Z
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,every,every,c,5.94,6.39,0.45,0.45,every,EH V R IY
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,day,day,c,6.39,6.72,0.33,0.33,day,D EY
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,he,he,c,6.72,6.9,0.18,0.18,he,HH IY
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,walked,walked,c,6.9,7.47,0.57,0.57,walked,W AO K D
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,in,in,c,7.71,8.07,0.36,0.36,in,IH N
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,front,front,c,8.22,8.7,0.48,0.48,front,F R AH N T
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,of,of,c,8.73,9.06,0.33,0.33,of,AO F
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,all,all,c,9.21,9.57,0.36,0.36,all,AO L
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,the,the,c,9.57,10.02,0.45,0.45,the,DH AH
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,other,other,c,10.02,10.47,0.45,0.45,other,AH DH AH R
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,animals,animals,c,10.47,11.28,0.81,0.81,animals,AE N IH M AH L S
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,he,he,c,11.58,11.88,0.3,0.3,he,HH IY
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,liked,लाइद,s,11.88,12.63,0.75,0.75,लाइद,L AY K D
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,to,to,c,12.66,12.93,0.27,0.27,to,T UW
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,show,so,s,12.93,13.44,0.51,0.51,so,SH OW
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,off,off,c,13.5,13.89,0.39,0.39,off,AO F
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,his,his,c,14.19,14.73,0.54,0.54,his,HH IH Z
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,beautiful,beautiful,c,14.73,15.39,0.66,0.66,beautiful,B Y UW T IH F UH L
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,feathers,feathers,c,15.39,16.02,0.63,0.63,feathers,F EH DH AH R Z
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,the,the,c,16.26,16.89,0.63,0.63,the,DH AH
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,animals,animals,c,16.89,17.49,0.6,0.6,animals,AE N IH M AH L S
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,always,always,c,17.49,17.97,0.48,0.48,always,AO L W EH Z
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,smiled,smiled,c,18.0,18.57,0.57,0.57,smiled,S M AY L D
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,at,at,c,18.57,18.93,0.36,0.36,at,AE T
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,him,him,c,18.93,19.35,0.42,0.42,him,HH IH M
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,but,but,c,19.35,19.74,0.39,0.39,but,B AH T
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,one,one,c,20.04,20.46,0.42,0.42,one,W AH N
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,day,day,c,20.46,20.85,0.39,0.39,day,D EY
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,the,the,c,21.6,22.14,0.54,0.54,the,DH AH
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,animals,animals,c,22.14,22.83,0.69,0.69,animals,AE N IH M AH L S
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,were,were,c,23.1,23.4,0.3,0.3,were,W AH R
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,angry,angry,c,23.4,24.06,0.66,0.66,angry,AE NG R IY
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,with,with,c,24.06,24.57,0.51,0.51,with,W IH DH
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,him,him,c,24.57,25.05,0.48,0.48,him,HH IH M
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,because,because,c,25.23,25.89,0.66,0.66,because,B IH K AO Z
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,he,he,c,25.89,26.25,0.36,0.36,he,HH IY
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,was,was,c,26.25,26.76,0.51,0.51,was,W AO Z
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,proud,proud,c,26.94,27.42,0.48,0.48,proud,P R AW D
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,and,and,c,27.42,27.81,0.39,0.39,and,AE N D
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,they,they,c,27.81,28.05,0.24,0.24,they,DH EY
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,ran,rain,s,28.05,28.59,0.54,0.54,rain,R AE N
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,away,away,c,28.77,29.34,0.57,0.57,away,AH W EY
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,the,the,c,29.52,29.79,0.27,0.27,the,DH AH
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,peacock,peacock,c,29.79,30.33,0.54,0.54,peacock,P IY K AO K
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,shouted,साउटेड,s,30.33,30.93,0.6,0.6,साउटेड,SH AW T EH D
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,and,and,c,30.93,31.17,0.24,0.24,and,AE N D
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,shouted,साउटेड,s,31.17,31.68,0.51,0.51,साउटेड,SH AW T EH D
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,[INS:all they],all they,i,31.68,32.55,0.87,0.87,all+they,
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,all,all,c,32.79,33.12,0.33,0.33,all,AO L
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,day,day,c,33.12,33.54,0.42,0.42,day,D EY
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,long,long,c,33.87,34.32,0.45,0.45,long,L AO NG
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,hoping,hoping,c,34.32,35.01,0.69,0.69,hoping,HH OW P IH NG
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,for,for,c,35.25,35.61,0.36,0.36,for,F AO R
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,them,them,c,35.61,36.0,0.39,0.39,them,DH EH M
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,to,to,c,36.0,36.33,0.33,0.33,to,T UW
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,come,come,c,36.33,36.72,0.39,0.39,come,K AH M
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,back,back,c,36.72,37.08,0.36,0.36,back,B AE K
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,but,but,c,37.08,37.44,0.36,0.36,but,B AH T
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,the,the,c,37.44,37.92,0.48,0.48,the,DH AH
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,animals,animals,c,38.34,38.91,0.57,0.57,animals,AE N IH M AH L S
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,did,did,c,38.91,39.21,0.3,0.3,did,D IH D
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,not,not,c,39.21,39.6,0.39,0.39,not,N AO T
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,come,come,c,39.6,39.87,0.27,0.27,come,K AH M
+aa_3-a-1_kv_kv-no1-gorakhpur_06082025-000000-1_EN-OL-RC-235_1,back,back,c,39.87,40.2,0.33,0.33,back,B AE K
+aw_3-a-1_kv_kv-ssb-campus-gadania-palia-kalan-lakhimpur-kheri_06082025-000000-1_EN-OL-RC-248_2,many,many,c,0.99,1.44,0.45,0.45,many,M EH N IY
+aw_3-a-1_kv_kv-ssb-campus-gadania-palia-kalan-lakhimpur-kheri_06082025-000000-1_EN-OL-RC-248_2,of,of,c,1.44,1.71,0.27,0.27,of,AO F
+aw_3-a-1_kv_kv-ssb-campus-gadania-palia-kalan-lakhimpur-kheri_06082025-000000-1_EN-OL-RC-248_2,them,them,c,1.71,2.25,0.54,0.54,them,DH EH M
+aw_3-a-1_kv_kv-ssb-campus-gadania-palia-kalan-lakhimpur-kheri_06082025-000000-1_EN-OL-RC-248_2,go,go,c,2.31,2.52,0.21,0.21,go,G OW
+aw_3-a-1_kv_kv-ssb-campus-gadania-palia-kalan-lakhimpur-kheri_06082025-000000-1_EN-OL-RC-248_2,faster,faster,c,2.52,3.06,0.54,0.54,faster,F AA S T AH R
+aw_3-a-1_kv_kv-ssb-campus-gadania-palia-kalan-lakhimpur-kheri_06082025-000000-1_EN-OL-RC-248_2,than,than,c,3.09,3.45,0.36,0.36,than,TH AE N
+aw_3-a-1_kv_kv-ssb-campus-gadania-palia-kalan-lakhimpur-kheri_06082025-000000-1_EN-OL-RC-248_2,the,the,c,3.45,3.63,0.18,0.18,the,DH AH
+aw_3-a-1_kv_kv-ssb-campus-gadania-palia-kalan-lakhimpur-kheri_06082025-000000-1_EN-OL-RC-248_2,moon,moon,c,3.63,4.23,0.6,0.6,moon,M UW N
+aw_3-a-1_kv_kv-ssb-campus-gadania-palia-kalan-lakhimpur-kheri_06082025-000000-1_EN-OL-RC-248_2,some,some,c,4.47,4.83,0.36,0.36,some,S AH M
+aw_3-a-1_kv_kv-ssb-campus-gadania-palia-kalan-lakhimpur-kheri_06082025-000000-1_EN-OL-RC-248_2,go,go,c,4.83,5.07,0.24,0.24,go,G OW
+aw_3-a-1_kv_kv-ssb-campus-gadania-palia-kalan-lakhimpur-kheri_06082025-000000-1_EN-OL-RC-248_2,round,round,c,5.07,5.58,0.51,0.51,round,R AW N D
+aw_3-a-1_kv_kv-ssb-campus-gadania-palia-kalan-lakhimpur-kheri_06082025-000000-1_EN-OL-RC-248_2,the,the,c,5.61,6.06,0.45,0.45,the,DH AH
+aw_3-a-1_kv_kv-ssb-campus-gadania-palia-kalan-lakhimpur-kheri_06082025-000000-1_EN-OL-RC-248_2,earth,earth,c,6.45,6.81,0.36,0.36,earth,AH R TH
+aw_3-a-1_kv_kv-ssb-campus-gadania-palia-kalan-lakhimpur-kheri_06082025-000000-1_EN-OL-RC-248_2,in,in,c,7.26,7.56,0.3,0.3,in,IH N
+aw_3-a-1_kv_kv-ssb-campus-gadania-palia-kalan-lakhimpur-kheri_06082025-000000-1_EN-OL-RC-248_2,a,a,c,7.59,7.86,0.27,0.27,a,AH
+aw_3-a-1_kv_kv-ssb-campus-gadania-palia-kalan-lakhimpur-kheri_06082025-000000-1_EN-OL-RC-248_2,day,day,c,7.86,8.34,0.48,0.48,day,D EY
+aw_3-a-1_kv_kv-ssb-campus-gadania-palia-kalan-lakhimpur-kheri_06082025-000000-1_EN-OL-RC-248_2,these,these,c,8.55,8.85,0.3,0.3,these,DH IY Z
+aw_3-a-1_kv_kv-ssb-campus-gadania-palia-kalan-lakhimpur-kheri_06082025-000000-1_EN-OL-RC-248_2,man,man,c,8.88,9.18,0.3,0.3,man,M AE N
+aw_3-a-1_kv_kv-ssb-campus-gadania-palia-kalan-lakhimpur-kheri_06082025-000000-1_EN-OL-RC-248_2,made,made,c,9.18,9.48,0.3,0.3,made,M EY D
+aw_3-a-1_kv_kv-ssb-campus-gadania-palia-kalan-lakhimpur-kheri_06082025-000000-1_EN-OL-RC-248_2,satellites,satellites,c,9.48,10.2,0.72,0.72,satellites,S AE T AH L AY T S
+aw_3-a-1_kv_kv-ssb-campus-gadania-palia-kalan-lakhimpur-kheri_06082025-000000-1_EN-OL-RC-248_2,work,work,c,10.2,10.53,0.33,0.33,work,W AH R K
+aw_3-a-1_kv_kv-ssb-campus-gadania-palia-kalan-lakhimpur-kheri_06082025-000000-1_EN-OL-RC-248_2,for,for,c,10.59,10.92,0.33,0.33,for,F AO R
+aw_3-a-1_kv_kv-ssb-campus-gadania-palia-kalan-lakhimpur-kheri_06082025-000000-1_EN-OL-RC-248_2,us,us,c,10.95,11.34,0.39,0.39,us,AH S
+aw_3-a-1_kv_kv-ssb-campus-gadania-palia-kalan-lakhimpur-kheri_06082025-000000-1_EN-OL-RC-248_2,some,some,c,11.61,12.12,0.51,0.51,some,S AH M
+aw_3-a-1_kv_kv-ssb-campus-gadania-palia-kalan-lakhimpur-kheri_06082025-000000-1_EN-OL-RC-248_2,of,of,c,12.84,13.17,0.33,0.33,of,AO F
+aw_3-a-1_kv_kv-ssb-campus-gadania-palia-kalan-lakhimpur-kheri_06082025-000000-1_EN-OL-RC-248_2,them,them,c,13.17,13.53,0.36,0.36,them,DH EH M
+aw_3-a-1_kv_kv-ssb-campus-gadania-palia-kalan-lakhimpur-kheri_06082025-000000-1_EN-OL-RC-248_2,tell,tell,c,13.53,13.92,0.39,0.39,tell,T EH L
+aw_3-a-1_kv_kv-ssb-campus-gadania-palia-kalan-lakhimpur-kheri_06082025-000000-1_EN-OL-RC-248_2,us,us,c,14.01,14.28,0.27,0.27,us,AH S
+aw_3-a-1_kv_kv-ssb-campus-gadania-palia-kalan-lakhimpur-kheri_06082025-000000-1_EN-OL-RC-248_2,about,about,c,14.31,14.82,0.51,0.51,about,AH B AW T
+aw_3-a-1_kv_kv-ssb-campus-gadania-palia-kalan-lakhimpur-kheri_06082025-000000-1_EN-OL-RC-248_2,the,the,c,14.82,15.0,0.18,0.18,the,DH AH
+aw_3-a-1_kv_kv-ssb-campus-gadania-palia-kalan-lakhimpur-kheri_06082025-000000-1_EN-OL-RC-248_2,weather,weather,c,15.0,15.51,0.51,0.51,weather,W EH DH AH R
+aw_3-a-1_kv_kv-ssb-campus-gadania-palia-kalan-lakhimpur-kheri_06082025-000000-1_EN-OL-RC-248_2,they,they,c,15.84,16.32,0.48,0.48,they,DH EY
+aw_3-a-1_kv_kv-ssb-campus-gadania-palia-kalan-lakhimpur-kheri_06082025-000000-1_EN-OL-RC-248_2,tell,tell,c,16.32,16.8,0.48,0.48,tell,T EH L
+aw_3-a-1_kv_kv-ssb-campus-gadania-palia-kalan-lakhimpur-kheri_06082025-000000-1_EN-OL-RC-248_2,us,us,c,16.86,17.28,0.42,0.42,us,AH S
+aw_3-a-1_kv_kv-ssb-campus-gadania-palia-kalan-lakhimpur-kheri_06082025-000000-1_EN-OL-RC-248_2,if,if,c,17.34,17.76,0.42,0.42,if,IH F
+aw_3-a-1_kv_kv-ssb-campus-gadania-palia-kalan-lakhimpur-kheri_06082025-000000-1_EN-OL-RC-248_2,it's,it's,c,17.76,18.09,0.33,0.33,it's,IH T S
+aw_3-a-1_kv_kv-ssb-campus-gadania-palia-kalan-lakhimpur-kheri_06082025-000000-1_EN-OL-RC-248_2,going,going,c,18.15,18.63,0.48,0.48,going,G OW IH NG
+aw_3-a-1_kv_kv-ssb-campus-gadania-palia-kalan-lakhimpur-kheri_06082025-000000-1_EN-OL-RC-248_2,to,to,c,18.63,19.2,0.57,0.57,to,T UW
+aw_3-a-1_kv_kv-ssb-campus-gadania-palia-kalan-lakhimpur-kheri_06082025-000000-1_EN-OL-RC-248_2,rain,rain,c,19.35,20.19,0.84,0.84,rain,R EY N
+aw_3-a-1_kv_kv-ssb-campus-gadania-palia-kalan-lakhimpur-kheri_06082025-000000-1_EN-OL-RC-248_2,or,<eps>,d,,,,,,AO R
+aw_3-a-1_kv_kv-ssb-campus-gadania-palia-kalan-lakhimpur-kheri_06082025-000000-1_EN-OL-RC-248_2,if,if,c,20.22,20.46,0.24,0.24,if,IH F
+aw_3-a-1_kv_kv-ssb-campus-gadania-palia-kalan-lakhimpur-kheri_06082025-000000-1_EN-OL-RC-248_2,it's,it's,c,20.58,20.88,0.3,0.3,it's,IH T S
+aw_3-a-1_kv_kv-ssb-campus-gadania-palia-kalan-lakhimpur-kheri_06082025-000000-1_EN-OL-RC-248_2,going,going,c,20.91,21.42,0.51,0.51,going,G OW IH NG
+aw_3-a-1_kv_kv-ssb-campus-gadania-palia-kalan-lakhimpur-kheri_06082025-000000-1_EN-OL-RC-248_2,to,to,c,21.42,21.72,0.3,0.3,to,T UW
+aw_3-a-1_kv_kv-ssb-campus-gadania-palia-kalan-lakhimpur-kheri_06082025-000000-1_EN-OL-RC-248_2,be,be,c,21.72,21.96,0.24,0.24,be,B IY
+aw_3-a-1_kv_kv-ssb-campus-gadania-palia-kalan-lakhimpur-kheri_06082025-000000-1_EN-OL-RC-248_2,sunny,sunny,c,21.96,22.44,0.48,0.48,sunny,S AH N IY
+aw_3-a-1_kv_kv-ssb-campus-gadania-palia-kalan-lakhimpur-kheri_06082025-000000-1_EN-OL-RC-248_2,some,some,c,22.65,23.04,0.39,0.39,some,S AH M
+aw_3-a-1_kv_kv-ssb-campus-gadania-palia-kalan-lakhimpur-kheri_06082025-000000-1_EN-OL-RC-248_2,of,of,c,23.04,23.25,0.21,0.21,of,AO F
+aw_3-a-1_kv_kv-ssb-campus-gadania-palia-kalan-lakhimpur-kheri_06082025-000000-1_EN-OL-RC-248_2,them,them,c,23.25,23.79,0.54,0.54,them,DH EH M
+aw_3-a-1_kv_kv-ssb-campus-gadania-palia-kalan-lakhimpur-kheri_06082025-000000-1_EN-OL-RC-248_2,send,say,s,24.0,24.27,0.27,0.27,say,S EH N D
+aw_3-a-1_kv_kv-ssb-campus-gadania-palia-kalan-lakhimpur-kheri_06082025-000000-1_EN-OL-RC-248_2,telephone,telephone,c,24.3,25.26,0.96,0.96,telephone,T EH L EH F OW N
+aw_3-a-1_kv_kv-ssb-campus-gadania-palia-kalan-lakhimpur-kheri_06082025-000000-1_EN-OL-RC-248_2,calls,calls,c,25.74,26.25,0.51,0.51,calls,K AO L S
+aw_3-a-1_kv_kv-ssb-campus-gadania-palia-kalan-lakhimpur-kheri_06082025-000000-1_EN-OL-RC-248_2,round,round,c,26.79,27.24,0.45,0.45,round,R AW N D
+aw_3-a-1_kv_kv-ssb-campus-gadania-palia-kalan-lakhimpur-kheri_06082025-000000-1_EN-OL-RC-248_2,the,the,c,27.24,27.42,0.18,0.18,the,DH AH
+aw_3-a-1_kv_kv-ssb-campus-gadania-palia-kalan-lakhimpur-kheri_06082025-000000-1_EN-OL-RC-248_2,earth,earth,c,27.45,27.84,0.39,0.39,earth,AH R TH
+aw_3-a-1_kv_kv-ssb-campus-gadania-palia-kalan-lakhimpur-kheri_06082025-000000-1_EN-OL-RC-248_2,some,some,c,28.5,28.92,0.42,0.42,some,S AH M
+aw_3-a-1_kv_kv-ssb-campus-gadania-palia-kalan-lakhimpur-kheri_06082025-000000-1_EN-OL-RC-248_2,carry,carry,c,28.92,29.46,0.54,0.54,carry,K AE R IY
+aw_3-a-1_kv_kv-ssb-campus-gadania-palia-kalan-lakhimpur-kheri_06082025-000000-1_EN-OL-RC-248_2,television,television,c,29.46,30.03,0.57,0.57,television,T EH L AH V IH ZH AH N
+aw_3-a-1_kv_kv-ssb-campus-gadania-palia-kalan-lakhimpur-kheri_06082025-000000-1_EN-OL-RC-248_2,pictures,picture,s,30.03,30.63,0.6,0.6,picture,P IH K CH AH R S
+aw_3-a-1_kv_kv-ssb-campus-gadania-palia-kalan-lakhimpur-kheri_06082025-000000-1_EN-OL-RC-248_2,these,these,c,30.63,31.17,0.54,0.54,these,DH IY Z
+aw_3-a-1_kv_kv-ssb-campus-gadania-palia-kalan-lakhimpur-kheri_06082025-000000-1_EN-OL-RC-248_2,satellites,satellites,c,31.41,32.25,0.84,0.84,satellites,S AE T AH L AY T S
+aw_3-a-1_kv_kv-ssb-campus-gadania-palia-kalan-lakhimpur-kheri_06082025-000000-1_EN-OL-RC-248_2,are,are,c,32.79,33.18,0.39,0.39,are,AA R
+aw_3-a-1_kv_kv-ssb-campus-gadania-palia-kalan-lakhimpur-kheri_06082025-000000-1_EN-OL-RC-248_2,our,our,c,33.18,33.48,0.3,0.3,our,AA R
+aw_3-a-1_kv_kv-ssb-campus-gadania-palia-kalan-lakhimpur-kheri_06082025-000000-1_EN-OL-RC-248_2,helpers,helpers,c,33.48,33.84,0.36,0.36,helpers,HH EH L P AH R Z
+aw_3-a-1_kv_kv-ssb-campus-gadania-palia-kalan-lakhimpur-kheri_06082025-000000-1_EN-OL-RC-248_2,in,in,c,33.84,33.93,0.09,0.09,in,IH N
+aw_3-a-1_kv_kv-ssb-campus-gadania-palia-kalan-lakhimpur-kheri_06082025-000000-1_EN-OL-RC-248_2,the,the,c,33.93,34.02,0.09,0.09,the,DH AH
+aw_3-a-1_kv_kv-ssb-campus-gadania-palia-kalan-lakhimpur-kheri_06082025-000000-1_EN-OL-RC-248_2,sky,sky,c,34.02,34.38,0.36,0.36,sky,S K AY
+kx_3-a-23_kv_kv-no2-jammu-cantt_22082024-000000-1_EN-OL-RC-244_2,when,when,c,0.75,1.35,0.6,0.6,when,W EH N
+kx_3-a-23_kv_kv-no2-jammu-cantt_22082024-000000-1_EN-OL-RC-244_2,you,you,c,1.35,1.77,0.42,0.42,you,Y UW
+kx_3-a-23_kv_kv-no2-jammu-cantt_22082024-000000-1_EN-OL-RC-244_2,eat,eat,c,1.77,2.07,0.3,0.3,eat,IY T
+kx_3-a-23_kv_kv-no2-jammu-cantt_22082024-000000-1_EN-OL-RC-244_2,a,a,c,2.07,2.13,0.06,0.06,a,AH
+kx_3-a-23_kv_kv-no2-jammu-cantt_22082024-000000-1_EN-OL-RC-244_2,banana,banana,c,2.13,2.88,0.75,0.75,banana,B AH N AA N AA
+kx_3-a-23_kv_kv-no2-jammu-cantt_22082024-000000-1_EN-OL-RC-244_2,you,you,c,3.21,3.57,0.36,0.36,you,Y UW
+kx_3-a-23_kv_kv-no2-jammu-cantt_22082024-000000-1_EN-OL-RC-244_2,see,see,c,3.57,3.9,0.33,0.33,see,S IY
+kx_3-a-23_kv_kv-no2-jammu-cantt_22082024-000000-1_EN-OL-RC-244_2,small,small,c,3.9,4.41,0.51,0.51,small,S M AO L
+kx_3-a-23_kv_kv-no2-jammu-cantt_22082024-000000-1_EN-OL-RC-244_2,soft,soft,c,4.41,4.98,0.57,0.57,soft,S OW F T
+kx_3-a-23_kv_kv-no2-jammu-cantt_22082024-000000-1_EN-OL-RC-244_2,black,back,s,4.98,5.55,0.57,0.57,back,B L AE K
+kx_3-a-23_kv_kv-no2-jammu-cantt_22082024-000000-1_EN-OL-RC-244_2,seeds,seeds,c,5.88,6.48,0.6,0.6,seeds,S IY D S
+kx_3-a-23_kv_kv-no2-jammu-cantt_22082024-000000-1_EN-OL-RC-244_2,inside,inside,c,6.51,7.41,0.9,0.9,inside,IH N S AY D
+kx_3-a-23_kv_kv-no2-jammu-cantt_22082024-000000-1_EN-OL-RC-244_2,the,the,c,7.41,7.71,0.3,0.3,the,DH AH
+kx_3-a-23_kv_kv-no2-jammu-cantt_22082024-000000-1_EN-OL-RC-244_2,fruit,fruit,c,7.71,8.34,0.63,0.63,fruit,F R UW T
+kx_3-a-23_kv_kv-no2-jammu-cantt_22082024-000000-1_EN-OL-RC-244_2,these,these,c,8.34,8.79,0.45,0.45,these,DH IY Z
+kx_3-a-23_kv_kv-no2-jammu-cantt_22082024-000000-1_EN-OL-RC-244_2,seeds,seed,s,9.09,9.45,0.36,0.36,seed,S IY D S
+kx_3-a-23_kv_kv-no2-jammu-cantt_22082024-000000-1_EN-OL-RC-244_2,are,are,c,9.45,9.78,0.33,0.33,are,AA R
+kx_3-a-23_kv_kv-no2-jammu-cantt_22082024-000000-1_EN-OL-RC-244_2,of,of,c,10.38,10.92,0.54,0.54,of,AO F
+kx_3-a-23_kv_kv-no2-jammu-cantt_22082024-000000-1_EN-OL-RC-244_2,no,no,c,10.92,11.46,0.54,0.54,no,N OW
+kx_3-a-23_kv_kv-no2-jammu-cantt_22082024-000000-1_EN-OL-RC-244_2,use,use,c,11.76,12.48,0.72,0.72,use,Y UW Z
+kx_3-a-23_kv_kv-no2-jammu-cantt_22082024-000000-1_EN-OL-RC-244_2,at,at,c,12.54,12.99,0.45,0.45,at,AE T
+kx_3-a-23_kv_kv-no2-jammu-cantt_22082024-000000-1_EN-OL-RC-244_2,all,all,c,13.05,13.65,0.6,0.6,all,AO L
+kx_3-a-23_kv_kv-no2-jammu-cantt_22082024-000000-1_EN-OL-RC-244_2,to,to,c,13.86,14.22,0.36,0.36,to,T UW
+kx_3-a-23_kv_kv-no2-jammu-cantt_22082024-000000-1_EN-OL-RC-244_2,the,the,c,14.22,14.49,0.27,0.27,the,DH AH
+kx_3-a-23_kv_kv-no2-jammu-cantt_22082024-000000-1_EN-OL-RC-244_2,banana,banana,c,14.49,15.39,0.9,0.9,banana,B AH N AA N AA
+kx_3-a-23_kv_kv-no2-jammu-cantt_22082024-000000-1_EN-OL-RC-244_2,plant,plant,c,15.63,16.23,0.6,0.6,plant,P L AA N T
+kx_3-a-23_kv_kv-no2-jammu-cantt_22082024-000000-1_EN-OL-RC-244_2,new,new,c,16.23,16.65,0.42,0.42,new,N Y UW
+kx_3-a-23_kv_kv-no2-jammu-cantt_22082024-000000-1_EN-OL-RC-244_2,plants,plant,s,16.65,17.31,0.66,0.66,plant,P L AA N T S
+kx_3-a-23_kv_kv-no2-jammu-cantt_22082024-000000-1_EN-OL-RC-244_2,do,do,c,17.76,18.12,0.36,0.36,do,D UW
+kx_3-a-23_kv_kv-no2-jammu-cantt_22082024-000000-1_EN-OL-RC-244_2,not,not,c,18.12,18.63,0.51,0.51,not,N AO T
+kx_3-a-23_kv_kv-no2-jammu-cantt_22082024-000000-1_EN-OL-RC-244_2,grow,grow,c,18.63,19.11,0.48,0.48,grow,G R OW
+kx_3-a-23_kv_kv-no2-jammu-cantt_22082024-000000-1_EN-OL-RC-244_2,from,from,c,19.11,19.77,0.66,0.66,from,F R AO M
+kx_3-a-23_kv_kv-no2-jammu-cantt_22082024-000000-1_EN-OL-RC-244_2,the,the,c,20.01,20.22,0.21,0.21,the,DH AH
+kx_3-a-23_kv_kv-no2-jammu-cantt_22082024-000000-1_EN-OL-RC-244_2,seeds,seeds,c,20.22,20.79,0.57,0.57,seeds,S IY D S
+kx_3-a-23_kv_kv-no2-jammu-cantt_22082024-000000-1_EN-OL-RC-244_2,new,new,c,20.79,21.3,0.51,0.51,new,N Y UW
+kx_3-a-23_kv_kv-no2-jammu-cantt_22082024-000000-1_EN-OL-RC-244_2,banana,banana,c,21.3,21.93,0.63,0.63,banana,B AH N AA N AA
+kx_3-a-23_kv_kv-no2-jammu-cantt_22082024-000000-1_EN-OL-RC-244_2,plants,plants,c,21.93,22.5,0.57,0.57,plants,P L AA N T S
+kx_3-a-23_kv_kv-no2-jammu-cantt_22082024-000000-1_EN-OL-RC-244_2,grow,grow,c,22.5,23.07,0.57,0.57,grow,G R OW
+kx_3-a-23_kv_kv-no2-jammu-cantt_22082024-000000-1_EN-OL-RC-244_2,from,from,c,23.49,24.12,0.63,0.63,from,F R AO M
+kx_3-a-23_kv_kv-no2-jammu-cantt_22082024-000000-1_EN-OL-RC-244_2,the,the,c,24.12,24.6,0.48,0.48,the,DH AH
+kx_3-a-23_kv_kv-no2-jammu-cantt_22082024-000000-1_EN-OL-RC-244_2,old,old,c,24.72,25.23,0.51,0.51,old,OW L D
+kx_3-a-23_kv_kv-no2-jammu-cantt_22082024-000000-1_EN-OL-RC-244_2,plant,plant,c,25.23,25.83,0.6,0.6,plant,P L AA N T
+kx_3-a-23_kv_kv-no2-jammu-cantt_22082024-000000-1_EN-OL-RC-244_2,they,they,c,25.83,26.13,0.3,0.3,they,DH EY
+kx_3-a-23_kv_kv-no2-jammu-cantt_22082024-000000-1_EN-OL-RC-244_2,look,look,c,26.13,26.55,0.42,0.42,look,L UH K
+kx_3-a-23_kv_kv-no2-jammu-cantt_22082024-000000-1_EN-OL-RC-244_2,just,just,c,26.55,27.03,0.48,0.48,just,JH AH S T
+kx_3-a-23_kv_kv-no2-jammu-cantt_22082024-000000-1_EN-OL-RC-244_2,like,like,c,27.03,27.57,0.54,0.54,like,L AY K
+kx_3-a-23_kv_kv-no2-jammu-cantt_22082024-000000-1_EN-OL-RC-244_2,the,the,c,27.57,27.84,0.27,0.27,the,DH AH
+kx_3-a-23_kv_kv-no2-jammu-cantt_22082024-000000-1_EN-OL-RC-244_2,full,full,c,27.84,28.26,0.42,0.42,full,F UH L
+kx_3-a-23_kv_kv-no2-jammu-cantt_22082024-000000-1_EN-OL-RC-244_2,grown,grown,c,28.65,29.37,0.72,0.72,grown,G R OW N
+kx_3-a-23_kv_kv-no2-jammu-cantt_22082024-000000-1_EN-OL-RC-244_2,plant,plant,c,29.37,29.91,0.54,0.54,plant,P L AA N T
+kx_3-a-23_kv_kv-no2-jammu-cantt_22082024-000000-1_EN-OL-RC-244_2,there,there,c,29.91,30.48,0.57,0.57,there,DH EY R
+kx_3-a-23_kv_kv-no2-jammu-cantt_22082024-000000-1_EN-OL-RC-244_2,are,are,c,30.75,30.99,0.24,0.24,are,AA R
+kx_3-a-23_kv_kv-no2-jammu-cantt_22082024-000000-1_EN-OL-RC-244_2,some,some,c,30.99,31.35,0.36,0.36,some,S AH M
+kx_3-a-23_kv_kv-no2-jammu-cantt_22082024-000000-1_EN-OL-RC-244_2,bananas,bananas,c,31.35,31.95,0.6,0.6,bananas,B AH N AA N AA Z
+kx_3-a-23_kv_kv-no2-jammu-cantt_22082024-000000-1_EN-OL-RC-244_2,which,which,c,31.95,32.37,0.42,0.42,which,W IH CH
+kx_3-a-23_kv_kv-no2-jammu-cantt_22082024-000000-1_EN-OL-RC-244_2,are,are,c,32.76,33.06,0.3,0.3,are,AA R
+kx_3-a-23_kv_kv-no2-jammu-cantt_22082024-000000-1_EN-OL-RC-244_2,called,called,c,33.06,33.72,0.66,0.66,called,K AO L D
+kx_3-a-23_kv_kv-no2-jammu-cantt_22082024-000000-1_EN-OL-RC-244_2,plantains,plantains,c,34.17,35.22,1.05,1.05,plantains,P L AH N T EY N Z
+kx_3-a-23_kv_kv-no2-jammu-cantt_22082024-000000-1_EN-OL-RC-244_2,in,in,c,36.21,36.6,0.39,0.39,in,IH N
+kx_3-a-23_kv_kv-no2-jammu-cantt_22082024-000000-1_EN-OL-RC-244_2,many,many,c,36.6,37.2,0.6,0.6,many,M EH N IY
+kx_3-a-23_kv_kv-no2-jammu-cantt_22082024-000000-1_EN-OL-RC-244_2,countries,countries,c,37.2,38.16,0.96,0.96,countries,K AH N T R IY Z
+kx_3-a-23_kv_kv-no2-jammu-cantt_22082024-000000-1_EN-OL-RC-244_2,plantains,plantains,c,39.3,40.29,0.99,0.99,plantains,P L AH N T EY N Z
+kx_3-a-23_kv_kv-no2-jammu-cantt_22082024-000000-1_EN-OL-RC-244_2,are,are,c,40.32,40.68,0.36,0.36,are,AA R
+kx_3-a-23_kv_kv-no2-jammu-cantt_22082024-000000-1_EN-OL-RC-244_2,not,not,c,40.68,41.22,0.54,0.54,not,N AO T
+kx_3-a-23_kv_kv-no2-jammu-cantt_22082024-000000-1_EN-OL-RC-244_2,eaten,eaten,c,41.28,42.03,0.75,0.75,eaten,IY T EH N
+kx_3-a-23_kv_kv-no2-jammu-cantt_22082024-000000-1_EN-OL-RC-244_2,as,as,c,43.14,43.74,0.6,0.6,as,AE Z
+kx_3-a-23_kv_kv-no2-jammu-cantt_22082024-000000-1_EN-OL-RC-244_2,fruit,fruit,c,43.77,44.34,0.57,0.57,fruit,F R UW T
+kx_3-a-23_kv_kv-no2-jammu-cantt_22082024-000000-1_EN-OL-RC-244_2,they,they,c,44.37,44.79,0.42,0.42,they,DH EY
+kx_3-a-23_kv_kv-no2-jammu-cantt_22082024-000000-1_EN-OL-RC-244_2,are,are,c,44.79,45.24,0.45,0.45,are,AA R
+kx_3-a-23_kv_kv-no2-jammu-cantt_22082024-000000-1_EN-OL-RC-244_2,cooked,cooked,c,45.36,45.93,0.57,0.57,cooked,K UH K D
+kx_3-a-23_kv_kv-no2-jammu-cantt_22082024-000000-1_EN-OL-RC-244_2,as,as,c,45.96,46.5,0.54,0.54,as,AE Z
+kx_3-a-23_kv_kv-no2-jammu-cantt_22082024-000000-1_EN-OL-RC-244_2,vegetables,vegetables,c,46.56,47.4,0.84,0.84,vegetables,V EH JH IH T EY B AH L S
+ak_4-a-5_kv_kv-khargone_06082025-000000-1_EN-OL-RC-313_2,a,a,c,1.02,1.32,0.3,0.3,a,AH
+ak_4-a-5_kv_kv-khargone_06082025-000000-1_EN-OL-RC-313_2,hand,hand,c,1.32,1.83,0.51,0.51,hand,HH AE N D
+ak_4-a-5_kv_kv-khargone_06082025-000000-1_EN-OL-RC-313_2,went,went,c,1.83,2.43,0.6,0.6,went,W EH N T
+ak_4-a-5_kv_kv-khargone_06082025-000000-1_EN-OL-RC-313_2,over,our,s,2.49,3.0,0.51,0.51,our,OW V AH R
+ak_4-a-5_kv_kv-khargone_06082025-000000-1_EN-OL-RC-313_2,his,his,c,3.0,3.48,0.48,0.48,his,HH IH Z
+ak_4-a-5_kv_kv-khargone_06082025-000000-1_EN-OL-RC-313_2,eyes,eyes,c,3.54,3.99,0.45,0.45,eyes,AA IY Z
+ak_4-a-5_kv_kv-khargone_06082025-000000-1_EN-OL-RC-313_2,very,very,c,3.99,4.53,0.54,0.54,very,V EH R IY
+ak_4-a-5_kv_kv-khargone_06082025-000000-1_EN-OL-RC-313_2,gently,gently,c,4.53,5.25,0.72,0.72,gently,JH EH N T L IY
+ak_4-a-5_kv_kv-khargone_06082025-000000-1_EN-OL-RC-313_2,someone,someone,c,5.25,6.03,0.78,0.78,someone,S AH M W AH N
+ak_4-a-5_kv_kv-khargone_06082025-000000-1_EN-OL-RC-313_2,was,was,c,6.12,6.81,0.69,0.69,was,W AO Z
+ak_4-a-5_kv_kv-khargone_06082025-000000-1_EN-OL-RC-313_2,putting,putting,c,7.26,7.92,0.66,0.66,putting,P UH T IH NG
+ak_4-a-5_kv_kv-khargone_06082025-000000-1_EN-OL-RC-313_2,something,something,c,8.13,8.82,0.69,0.69,something,S AH M TH IH NG
+ak_4-a-5_kv_kv-khargone_06082025-000000-1_EN-OL-RC-313_2,[INS:one],one,i,8.82,9.75,0.93,0.93,one,
+ak_4-a-5_kv_kv-khargone_06082025-000000-1_EN-OL-RC-313_2,on,on,c,9.81,10.26,0.45,0.45,on,AO N
+ak_4-a-5_kv_kv-khargone_06082025-000000-1_EN-OL-RC-313_2,them,them,c,10.26,10.74,0.48,0.48,them,DH EH M
+ak_4-a-5_kv_kv-khargone_06082025-000000-1_EN-OL-RC-313_2,the,the,c,10.77,11.19,0.42,0.42,the,DH AH
+ak_4-a-5_kv_kv-khargone_06082025-000000-1_EN-OL-RC-313_2,kind,kind,c,11.46,11.97,0.51,0.51,kind,K AY N D
+ak_4-a-5_kv_kv-khargone_06082025-000000-1_EN-OL-RC-313_2,man,when,s,11.97,12.39,0.42,0.42,when,M AE N
+ak_4-a-5_kv_kv-khargone_06082025-000000-1_EN-OL-RC-313_2,then,then,c,12.39,12.93,0.54,0.54,then,DH EH N
+ak_4-a-5_kv_kv-khargone_06082025-000000-1_EN-OL-RC-313_2,told,told,c,13.02,13.56,0.54,0.54,told,T OW L D
+ak_4-a-5_kv_kv-khargone_06082025-000000-1_EN-OL-RC-313_2,him,him,c,13.56,14.04,0.48,0.48,him,HH IH M
+ak_4-a-5_kv_kv-khargone_06082025-000000-1_EN-OL-RC-313_2,that,that,c,14.04,14.43,0.39,0.39,that,DH AE T
+ak_4-a-5_kv_kv-khargone_06082025-000000-1_EN-OL-RC-313_2,he,he,c,14.43,14.79,0.36,0.36,he,HH IY
+ak_4-a-5_kv_kv-khargone_06082025-000000-1_EN-OL-RC-313_2,had,had,c,14.79,15.33,0.54,0.54,had,HH AE D
+ak_4-a-5_kv_kv-khargone_06082025-000000-1_EN-OL-RC-313_2,put,put,c,15.72,16.08,0.36,0.36,put,P UH T
+ak_4-a-5_kv_kv-khargone_06082025-000000-1_EN-OL-RC-313_2,something,something,c,16.08,16.86,0.78,0.78,something,S AH M TH IH NG
+ak_4-a-5_kv_kv-khargone_06082025-000000-1_EN-OL-RC-313_2,on,on,c,17.34,17.73,0.39,0.39,on,AO N
+ak_4-a-5_kv_kv-khargone_06082025-000000-1_EN-OL-RC-313_2,his,his,c,17.73,18.15,0.42,0.42,his,HH IH Z
+ak_4-a-5_kv_kv-khargone_06082025-000000-1_EN-OL-RC-313_2,eyes,eyes,c,18.21,18.57,0.36,0.36,eyes,AA IY Z
+ak_4-a-5_kv_kv-khargone_06082025-000000-1_EN-OL-RC-313_2,and,and,c,18.75,19.26,0.51,0.51,and,AE N D
+ak_4-a-5_kv_kv-khargone_06082025-000000-1_EN-OL-RC-313_2,instructed,इंस्ट्रकशेड,s,19.29,20.67,1.38,1.38,इंस्ट्रकशेड,IH N S T R AH K T EH D
+ak_4-a-5_kv_kv-khargone_06082025-000000-1_EN-OL-RC-313_2,him,him,c,20.73,21.27,0.54,0.54,him,HH IH M
+ak_4-a-5_kv_kv-khargone_06082025-000000-1_EN-OL-RC-313_2,to,to,c,21.6,21.96,0.36,0.36,to,T UW
+ak_4-a-5_kv_kv-khargone_06082025-000000-1_EN-OL-RC-313_2,wash,wash,c,21.96,22.44,0.48,0.48,wash,W AO SH
+ak_4-a-5_kv_kv-khargone_06082025-000000-1_EN-OL-RC-313_2,them,them,c,22.44,22.86,0.42,0.42,them,DH EH M
+ak_4-a-5_kv_kv-khargone_06082025-000000-1_EN-OL-RC-313_2,in,in,c,22.92,23.4,0.48,0.48,in,IH N
+ak_4-a-5_kv_kv-khargone_06082025-000000-1_EN-OL-RC-313_2,the,the,c,23.76,24.06,0.3,0.3,the,DH AH
+ak_4-a-5_kv_kv-khargone_06082025-000000-1_EN-OL-RC-313_2,pool,pool,c,24.06,24.45,0.39,0.39,pool,P UW L
+ak_4-a-5_kv_kv-khargone_06082025-000000-1_EN-OL-RC-313_2,the,the,c,24.45,24.75,0.3,0.3,the,DH AH
+ak_4-a-5_kv_kv-khargone_06082025-000000-1_EN-OL-RC-313_2,first,first,c,24.78,25.26,0.48,0.48,first,F AH R S T
+ak_4-a-5_kv_kv-khargone_06082025-000000-1_EN-OL-RC-313_2,man,man,c,25.29,25.8,0.51,0.51,man,M AE N
+ak_4-a-5_kv_kv-khargone_06082025-000000-1_EN-OL-RC-313_2,advised,अडवायझेड,s,26.07,27.03,0.96,0.96,अडवायझेड,AH D V AY Z D
+ak_4-a-5_kv_kv-khargone_06082025-000000-1_EN-OL-RC-313_2,him,him,c,27.03,27.51,0.48,0.48,him,HH IH M
+ak_4-a-5_kv_kv-khargone_06082025-000000-1_EN-OL-RC-313_2,to,to,c,27.51,27.84,0.33,0.33,to,T UW
+ak_4-a-5_kv_kv-khargone_06082025-000000-1_EN-OL-RC-313_2,follow,follow,c,27.84,28.44,0.6,0.6,follow,F AO L OW
+ak_4-a-5_kv_kv-khargone_06082025-000000-1_EN-OL-RC-313_2,jesus's,जुसे,s,28.8,29.7,0.9,0.9,जुसे,JH IY S AH S IH Z
+ak_4-a-5_kv_kv-khargone_06082025-000000-1_EN-OL-RC-313_2,instructions,इंट्र्क्संस,s,30.18,31.5,1.32,1.32,इंट्र्क्संस,IH N S T R AH K SH AH N Z
+ak_4-a-5_kv_kv-khargone_06082025-000000-1_EN-OL-RC-313_2,jacob,jacob,c,31.65,32.4,0.75,0.75,jacob,JH EY K AH B
+ak_4-a-5_kv_kv-khargone_06082025-000000-1_EN-OL-RC-313_2,walked,walked,c,32.4,33.06,0.66,0.66,walked,W AO K D
+ak_4-a-5_kv_kv-khargone_06082025-000000-1_EN-OL-RC-313_2,towards,towards,c,33.33,34.17,0.84,0.84,towards,T UH W AH R D S
+ak_4-a-5_kv_kv-khargone_06082025-000000-1_EN-OL-RC-313_2,the,the,c,34.17,34.44,0.27,0.27,the,DH AH
+ak_4-a-5_kv_kv-khargone_06082025-000000-1_EN-OL-RC-313_2,pool,pool,c,34.44,34.92,0.48,0.48,pool,P UW L
+ak_4-a-5_kv_kv-khargone_06082025-000000-1_EN-OL-RC-313_2,he,he,c,34.92,35.34,0.42,0.42,he,HH IY
+ak_4-a-5_kv_kv-khargone_06082025-000000-1_EN-OL-RC-313_2,washed,washed,c,35.43,36.12,0.69,0.69,washed,W AO SH D
+ak_4-a-5_kv_kv-khargone_06082025-000000-1_EN-OL-RC-313_2,his,his,c,36.12,36.72,0.6,0.6,his,HH IH Z
+ak_4-a-5_kv_kv-khargone_06082025-000000-1_EN-OL-RC-313_2,eyes,eyes,c,37.05,37.47,0.42,0.42,eyes,AA IY Z
+ak_4-a-5_kv_kv-khargone_06082025-000000-1_EN-OL-RC-313_2,in,in,c,37.71,38.13,0.42,0.42,in,IH N
+ak_4-a-5_kv_kv-khargone_06082025-000000-1_EN-OL-RC-313_2,the,the,c,38.13,38.34,0.21,0.21,the,DH AH
+ak_4-a-5_kv_kv-khargone_06082025-000000-1_EN-OL-RC-313_2,water,water,c,38.34,38.82,0.48,0.48,water,W AO T AH R
+ak_4-a-5_kv_kv-khargone_06082025-000000-1_EN-OL-RC-313_2,slowly,slowly,c,38.82,39.66,0.84,0.84,slowly,S L OW L IY
+ak_4-a-5_kv_kv-khargone_06082025-000000-1_EN-OL-RC-313_2,he,he,c,39.84,40.17,0.33,0.33,he,HH IY
+ak_4-a-5_kv_kv-khargone_06082025-000000-1_EN-OL-RC-313_2,opened,opened,c,40.17,40.92,0.75,0.75,opened,OW P AH N D
+ak_4-a-5_kv_kv-khargone_06082025-000000-1_EN-OL-RC-313_2,his,his,c,41.25,41.64,0.39,0.39,his,HH IH Z
+ak_4-a-5_kv_kv-khargone_06082025-000000-1_EN-OL-RC-313_2,eyes,eyes,c,41.7,42.12,0.42,0.42,eyes,AA IY Z
+ak_4-a-5_kv_kv-khargone_06082025-000000-1_EN-OL-RC-313_2,he,he,c,42.12,42.48,0.36,0.36,he,HH IY
+ak_4-a-5_kv_kv-khargone_06082025-000000-1_EN-OL-RC-313_2,could,could,c,42.48,42.81,0.33,0.33,could,K UH D
+ak_4-a-5_kv_kv-khargone_06082025-000000-1_EN-OL-RC-313_2,see,see,c,42.81,43.23,0.42,0.42,see,S IY
+ak_4-a-5_kv_kv-khargone_06082025-000000-1_EN-OL-RC-313_2,everything,everything,c,43.26,43.95,0.69,0.69,everything,EH V R IY TH IH NG
+ax_4-a-1_kv_kv-no1-golconda_06082025-000000-1_EN-OL-RC-331_2,so,so,c,0.99,1.47,0.48,0.48,so,S OW
+ax_4-a-1_kv_kv-no1-golconda_06082025-000000-1_EN-OL-RC-331_2,it,it,c,1.5,1.77,0.27,0.27,it,IH T
+ax_4-a-1_kv_kv-no1-golconda_06082025-000000-1_EN-OL-RC-331_2,is,is,c,1.77,2.04,0.27,0.27,is,IH Z
+ax_4-a-1_kv_kv-no1-golconda_06082025-000000-1_EN-OL-RC-331_2,not,not,c,2.04,2.58,0.54,0.54,not,N AO T
+ax_4-a-1_kv_kv-no1-golconda_06082025-000000-1_EN-OL-RC-331_2,easy,easy,c,2.58,3.0,0.42,0.42,easy,IY Z IY
+ax_4-a-1_kv_kv-no1-golconda_06082025-000000-1_EN-OL-RC-331_2,to,to,c,3.0,3.21,0.21,0.21,to,T UW
+ax_4-a-1_kv_kv-no1-golconda_06082025-000000-1_EN-OL-RC-331_2,find,find,c,3.21,3.81,0.6,0.6,find,F AY N D
+ax_4-a-1_kv_kv-no1-golconda_06082025-000000-1_EN-OL-RC-331_2,out,out,c,3.81,4.29,0.48,0.48,out,AW T
+ax_4-a-1_kv_kv-no1-golconda_06082025-000000-1_EN-OL-RC-331_2,how,how,c,4.29,4.8,0.51,0.51,how,HH AW
+ax_4-a-1_kv_kv-no1-golconda_06082025-000000-1_EN-OL-RC-331_2,long,long,c,4.8,5.28,0.48,0.48,long,L AO NG
+ax_4-a-1_kv_kv-no1-golconda_06082025-000000-1_EN-OL-RC-331_2,animals,animals,c,5.31,6.39,1.08,1.08,animals,AE N IH M AH L S
+ax_4-a-1_kv_kv-no1-golconda_06082025-000000-1_EN-OL-RC-331_2,live,live,c,6.72,7.17,0.45,0.45,live,L IH V
+ax_4-a-1_kv_kv-no1-golconda_06082025-000000-1_EN-OL-RC-331_2,scientists,scientists,c,7.74,8.82,1.08,1.08,scientists,S AY AH N T IH S T S
+ax_4-a-1_kv_kv-no1-golconda_06082025-000000-1_EN-OL-RC-331_2,believe,believe,c,9.3,9.93,0.63,0.63,believe,B IH L IY V
+ax_4-a-1_kv_kv-no1-golconda_06082025-000000-1_EN-OL-RC-331_2,that,that,c,9.93,10.44,0.51,0.51,that,DH AE T
+ax_4-a-1_kv_kv-no1-golconda_06082025-000000-1_EN-OL-RC-331_2,animals,animal,s,10.59,11.43,0.84,0.84,animal,AE N IH M AH L S
+ax_4-a-1_kv_kv-no1-golconda_06082025-000000-1_EN-OL-RC-331_2,in,is,d,,,,,,IH N
+ax_4-a-1_kv_kv-no1-golconda_06082025-000000-1_EN-OL-RC-331_2,the,the,c,11.49,11.79,0.3,0.3,is,DH AH
+ax_4-a-1_kv_kv-no1-golconda_06082025-000000-1_EN-OL-RC-331_2,sea,sea,c,11.79,12.24,0.45,0.45,the,S IY
+ax_4-a-1_kv_kv-no1-golconda_06082025-000000-1_EN-OL-RC-331_2,generally,generally,c,12.84,13.5,0.66,0.66,sea,JH EH N R AH L IY
+ax_4-a-1_kv_kv-no1-golconda_06082025-000000-1_EN-OL-RC-331_2,live,live,c,13.5,14.61,1.11,1.11,generally,L IH V
+ax_4-a-1_kv_kv-no1-golconda_06082025-000000-1_EN-OL-RC-331_2,for,for,c,15.12,15.72,0.6,0.6,live,F AO R
+ax_4-a-1_kv_kv-no1-golconda_06082025-000000-1_EN-OL-RC-331_2,a,a,c,15.72,16.2,0.48,0.48,for,AH
+ax_4-a-1_kv_kv-no1-golconda_06082025-000000-1_EN-OL-RC-331_2,longer,longer,c,16.23,16.59,0.36,0.36,a,L AO NG G AH R
+ax_4-a-1_kv_kv-no1-golconda_06082025-000000-1_EN-OL-RC-331_2,time,time,c,16.59,17.34,0.75,0.75,longer,T AY M
+ax_4-a-1_kv_kv-no1-golconda_06082025-000000-1_EN-OL-RC-331_2,than,than,c,17.34,17.91,0.57,0.57,time,TH AE N
+ax_4-a-1_kv_kv-no1-golconda_06082025-000000-1_EN-OL-RC-331_2,those,those,c,17.94,18.57,0.63,0.63,than,DH OW Z
+ax_4-a-1_kv_kv-no1-golconda_06082025-000000-1_EN-OL-RC-331_2,on,on,c,19.11,19.77,0.66,0.66,those,AO N
+ax_4-a-1_kv_kv-no1-golconda_06082025-000000-1_EN-OL-RC-331_2,land,land,c,19.86,20.7,0.84,0.84,on,L AE N D
+ax_4-a-1_kv_kv-no1-golconda_06082025-000000-1_EN-OL-RC-331_2,the,the,c,21.18,21.75,0.57,0.57,land,DH AH
+ax_4-a-1_kv_kv-no1-golconda_06082025-000000-1_EN-OL-RC-331_2,water,water,c,22.83,23.31,0.48,0.48,the,W AO T AH R
+ax_4-a-1_kv_kv-no1-golconda_06082025-000000-1_EN-OL-RC-331_2,carries,carries,c,23.37,24.03,0.66,0.66,water,K AE R IY Z
+ax_4-a-1_kv_kv-no1-golconda_06082025-000000-1_EN-OL-RC-331_2,their,the,s,24.03,24.69,0.66,0.66,carries,DH EY AH R
+ax_4-a-1_kv_kv-no1-golconda_06082025-000000-1_EN-OL-RC-331_2,weight,weight,c,24.69,25.2,0.51,0.51,the,W EY T
+ax_4-a-1_kv_kv-no1-golconda_06082025-000000-1_EN-OL-RC-331_2,and,and,c,25.53,26.1,0.57,0.57,weight,AE N D
+ax_4-a-1_kv_kv-no1-golconda_06082025-000000-1_EN-OL-RC-331_2,so,so,c,26.19,26.73,0.54,0.54,and,S OW
+ax_4-a-1_kv_kv-no1-golconda_06082025-000000-1_EN-OL-RC-331_2,they,they,c,26.73,27.18,0.45,0.45,so,DH EY
+ax_4-a-1_kv_kv-no1-golconda_06082025-000000-1_EN-OL-RC-331_2,are,<eps>,d,,,,,,AA R
+ax_4-a-1_kv_kv-no1-golconda_06082025-000000-1_EN-OL-RC-331_2,not,not,c,27.18,27.75,0.57,0.57,they,N AO T
+ax_4-a-1_kv_kv-no1-golconda_06082025-000000-1_EN-OL-RC-331_2,tired,tired,c,28.05,28.71,0.66,0.66,not,T AY R D
+ax_4-a-1_kv_kv-no1-golconda_06082025-000000-1_EN-OL-RC-331_2,out,out,c,28.74,29.34,0.6,0.6,tired,AW T
+ax_4-a-1_kv_kv-no1-golconda_06082025-000000-1_EN-OL-RC-331_2,as,as,c,29.37,29.94,0.57,0.57,out,AE Z
+ax_4-a-1_kv_kv-no1-golconda_06082025-000000-1_EN-OL-RC-331_2,quickly,quickly,c,30.0,30.54,0.54,0.54,as,K W IH K L IY
+ax_4-a-1_kv_kv-no1-golconda_06082025-000000-1_EN-OL-RC-331_2,as,as,c,30.57,31.53,0.96,0.96,quickly,AE Z
+ax_4-a-1_kv_kv-no1-golconda_06082025-000000-1_EN-OL-RC-331_2,land,land,c,31.68,32.04,0.36,0.36,as,L AE N D
+ax_4-a-1_kv_kv-no1-golconda_06082025-000000-1_EN-OL-RC-331_2,animals,animals,c,32.04,32.58,0.54,0.54,land,AE N IH M AH L S
+ax_4-a-1_kv_kv-no1-golconda_06082025-000000-1_EN-OL-RC-331_2,many,many,c,33.6,34.2,0.6,0.6,animals,M EH N IY
+ax_4-a-1_kv_kv-no1-golconda_06082025-000000-1_EN-OL-RC-331_2,animals,animal,s,35.07,35.37,0.3,0.3,many,AE N IH M AH L S
+ax_4-a-1_kv_kv-no1-golconda_06082025-000000-1_EN-OL-RC-331_2,such,such,c,35.4,36.03,0.63,0.63,animal,S AH CH
+ax_4-a-1_kv_kv-no1-golconda_06082025-000000-1_EN-OL-RC-331_2,as,as,c,36.03,36.42,0.39,0.39,such,AE Z
+ax_4-a-1_kv_kv-no1-golconda_06082025-000000-1_EN-OL-RC-331_2,snakes,snakes,c,36.45,36.81,0.36,0.36,as,S N EY K S
+ax_4-a-1_kv_kv-no1-golconda_06082025-000000-1_EN-OL-RC-331_2,and,and,c,36.81,37.26,0.45,0.45,snakes,AE N D
+ax_4-a-1_kv_kv-no1-golconda_06082025-000000-1_EN-OL-RC-331_2,lizards,lizards,c,37.92,38.19,0.27,0.27,and,L IH Z AH R D Z
+ax_4-a-1_kv_kv-no1-golconda_06082025-000000-1_EN-OL-RC-331_2,keep,keep,c,38.19,39.06,0.87,0.87,lizards,K IY P
+ax_4-a-1_kv_kv-no1-golconda_06082025-000000-1_EN-OL-RC-331_2,growing,growing,c,39.42,40.14,0.72,0.72,keep,G R OW IH NG
+ax_4-a-1_kv_kv-no1-golconda_06082025-000000-1_EN-OL-RC-331_2,until,until,c,40.2,40.86,0.66,0.66,growing,AH N T IH L
+ax_4-a-1_kv_kv-no1-golconda_06082025-000000-1_EN-OL-RC-331_2,they,they,c,40.92,41.52,0.6,0.6,until,DH EY
+ax_4-a-1_kv_kv-no1-golconda_06082025-000000-1_EN-OL-RC-331_2,die,die,c,41.52,41.79,0.27,0.27,they,D AY
+ax_4-a-1_kv_kv-no1-golconda_06082025-000000-1_EN-OL-RC-331_2,so,so,c,41.79,42.27,0.48,0.48,die,S OW
+ax_4-a-1_kv_kv-no1-golconda_06082025-000000-1_EN-OL-RC-331_2,if,if,c,43.05,43.56,0.51,0.51,so,IH F
+ax_4-a-1_kv_kv-no1-golconda_06082025-000000-1_EN-OL-RC-331_2,they,they,c,43.59,43.89,0.3,0.3,if,DH EY
+ax_4-a-1_kv_kv-no1-golconda_06082025-000000-1_EN-OL-RC-331_2,are,are,c,43.95,44.49,0.54,0.54,they,AA R
+ax_4-a-1_kv_kv-no1-golconda_06082025-000000-1_EN-OL-RC-331_2,looked,looked,c,44.73,45.09,0.36,0.36,are,L UH K D
+ax_4-a-1_kv_kv-no1-golconda_06082025-000000-1_EN-OL-RC-331_2,after,after,c,45.09,45.45,0.36,0.36,looked,AA F T AH R
+ax_4-a-1_kv_kv-no1-golconda_06082025-000000-1_EN-OL-RC-331_2,well,well,c,45.51,46.2,0.69,0.69,after,W EH L
+ax_4-a-1_kv_kv-no1-golconda_06082025-000000-1_EN-OL-RC-331_2,such,such,c,46.2,46.71,0.51,0.51,well,S AH CH
+ax_4-a-1_kv_kv-no1-golconda_06082025-000000-1_EN-OL-RC-331_2,animals,animals,c,47.34,47.76,0.42,0.42,such,AE N IH M AH L S
+ax_4-a-1_kv_kv-no1-golconda_06082025-000000-1_EN-OL-RC-331_2,should,should,c,47.79,48.48,0.69,0.69,animals,SH UH D
+ax_4-a-1_kv_kv-no1-golconda_06082025-000000-1_EN-OL-RC-331_2,live,live,c,48.48,48.93,0.45,0.45,should,L IH V
+ax_4-a-1_kv_kv-no1-golconda_06082025-000000-1_EN-OL-RC-331_2,forever,forever,c,48.93,49.44,0.51,0.51,live,F AO R EH V AH R
+lb_4-b-39_kv_kv-dewas_22082024-000000-1_EN-OL-RC-331_2,so,so,c,1.02,1.86,0.84,0.84,so,S OW
+lb_4-b-39_kv_kv-dewas_22082024-000000-1_EN-OL-RC-331_2,it,it,c,1.89,2.25,0.36,0.36,it,IH T
+lb_4-b-39_kv_kv-dewas_22082024-000000-1_EN-OL-RC-331_2,is,is,c,2.31,2.67,0.36,0.36,is,IH Z
+lb_4-b-39_kv_kv-dewas_22082024-000000-1_EN-OL-RC-331_2,not,not,c,2.67,3.21,0.54,0.54,not,N AO T
+lb_4-b-39_kv_kv-dewas_22082024-000000-1_EN-OL-RC-331_2,easy,easy,c,3.21,3.87,0.66,0.66,easy,IY Z IY
+lb_4-b-39_kv_kv-dewas_22082024-000000-1_EN-OL-RC-331_2,to,to,c,3.87,4.26,0.39,0.39,to,T UW
+lb_4-b-39_kv_kv-dewas_22082024-000000-1_EN-OL-RC-331_2,find,find,c,4.26,4.83,0.57,0.57,find,F AY N D
+lb_4-b-39_kv_kv-dewas_22082024-000000-1_EN-OL-RC-331_2,out,out,c,4.86,5.25,0.39,0.39,out,AW T
+lb_4-b-39_kv_kv-dewas_22082024-000000-1_EN-OL-RC-331_2,how,how,c,5.25,5.64,0.39,0.39,how,HH AW
+lb_4-b-39_kv_kv-dewas_22082024-000000-1_EN-OL-RC-331_2,long,long,c,5.64,6.09,0.45,0.45,long,L AO NG
+lb_4-b-39_kv_kv-dewas_22082024-000000-1_EN-OL-RC-331_2,animals,animal,s,6.09,6.63,0.54,0.54,animal,AE N IH M AH L S
+lb_4-b-39_kv_kv-dewas_22082024-000000-1_EN-OL-RC-331_2,live,live,c,6.63,6.93,0.3,0.3,live,L IH V
+lb_4-b-39_kv_kv-dewas_22082024-000000-1_EN-OL-RC-331_2,scientists,scientists,c,6.93,7.62,0.69,0.69,scientists,S AY AH N T IH S T S
+lb_4-b-39_kv_kv-dewas_22082024-000000-1_EN-OL-RC-331_2,believe,believe,c,8.01,8.67,0.66,0.66,believe,B IH L IY V
+lb_4-b-39_kv_kv-dewas_22082024-000000-1_EN-OL-RC-331_2,that,that,c,8.67,9.21,0.54,0.54,that,DH AE T
+lb_4-b-39_kv_kv-dewas_22082024-000000-1_EN-OL-RC-331_2,animals,animal,s,9.21,9.9,0.69,0.69,animal,AE N IH M AH L S
+lb_4-b-39_kv_kv-dewas_22082024-000000-1_EN-OL-RC-331_2,in,in,c,9.9,10.32,0.42,0.42,in,IH N
+lb_4-b-39_kv_kv-dewas_22082024-000000-1_EN-OL-RC-331_2,the,the,c,10.32,10.59,0.27,0.27,the,DH AH
+lb_4-b-39_kv_kv-dewas_22082024-000000-1_EN-OL-RC-331_2,sea,sea,c,10.59,11.13,0.54,0.54,sea,S IY
+lb_4-b-39_kv_kv-dewas_22082024-000000-1_EN-OL-RC-331_2,generally,generally,c,11.58,12.54,0.96,0.96,generally,JH EH N R AH L IY
+lb_4-b-39_kv_kv-dewas_22082024-000000-1_EN-OL-RC-331_2,live,live,c,12.54,12.96,0.42,0.42,live,L IH V
+lb_4-b-39_kv_kv-dewas_22082024-000000-1_EN-OL-RC-331_2,for,for,c,12.96,13.53,0.57,0.57,for,F AO R
+lb_4-b-39_kv_kv-dewas_22082024-000000-1_EN-OL-RC-331_2,a,a,c,13.53,13.71,0.18,0.18,a,AH
+lb_4-b-39_kv_kv-dewas_22082024-000000-1_EN-OL-RC-331_2,longer,long,s,13.71,14.31,0.6,0.6,long,L AO NG G AH R
+lb_4-b-39_kv_kv-dewas_22082024-000000-1_EN-OL-RC-331_2,time,time,c,14.31,14.82,0.51,0.51,time,T AY M
+lb_4-b-39_kv_kv-dewas_22082024-000000-1_EN-OL-RC-331_2,than,that,s,14.85,15.33,0.48,0.48,that,TH AE N
+lb_4-b-39_kv_kv-dewas_22082024-000000-1_EN-OL-RC-331_2,those,those,c,15.63,16.26,0.63,0.63,those,DH OW Z
+lb_4-b-39_kv_kv-dewas_22082024-000000-1_EN-OL-RC-331_2,on,on,c,16.32,16.83,0.51,0.51,on,AO N
+lb_4-b-39_kv_kv-dewas_22082024-000000-1_EN-OL-RC-331_2,[INS:the],the,i,16.83,17.16,0.33,0.33,the,
+lb_4-b-39_kv_kv-dewas_22082024-000000-1_EN-OL-RC-331_2,land,land,c,17.19,17.82,0.63,0.63,land,L AE N D
+lb_4-b-39_kv_kv-dewas_22082024-000000-1_EN-OL-RC-331_2,the,the,c,17.82,18.27,0.45,0.45,the,DH AH
+lb_4-b-39_kv_kv-dewas_22082024-000000-1_EN-OL-RC-331_2,water,water,c,18.3,18.96,0.66,0.66,water,W AO T AH R
+lb_4-b-39_kv_kv-dewas_22082024-000000-1_EN-OL-RC-331_2,carries,ट्रग,s,19.44,19.92,0.48,0.48,ट्रग,K AE R IY Z
+lb_4-b-39_kv_kv-dewas_22082024-000000-1_EN-OL-RC-331_2,[INS:ट्रक्स],ट्रक्स,i,19.92,20.73,0.81,0.81,ट्रक्स,
+lb_4-b-39_kv_kv-dewas_22082024-000000-1_EN-OL-RC-331_2,their,their,c,20.76,21.48,0.72,0.72,their,DH EY AH R
+lb_4-b-39_kv_kv-dewas_22082024-000000-1_EN-OL-RC-331_2,weight,weight,c,22.5,23.04,0.54,0.54,weight,W EY T
+lb_4-b-39_kv_kv-dewas_22082024-000000-1_EN-OL-RC-331_2,and,and,c,23.07,23.49,0.42,0.42,and,AE N D
+lb_4-b-39_kv_kv-dewas_22082024-000000-1_EN-OL-RC-331_2,so,so,c,23.49,24.0,0.51,0.51,so,S OW
+lb_4-b-39_kv_kv-dewas_22082024-000000-1_EN-OL-RC-331_2,they,they,c,24.0,24.51,0.51,0.51,they,DH EY
+lb_4-b-39_kv_kv-dewas_22082024-000000-1_EN-OL-RC-331_2,are,are,c,24.54,24.93,0.39,0.39,are,AA R
+lb_4-b-39_kv_kv-dewas_22082024-000000-1_EN-OL-RC-331_2,not,not,c,24.93,25.5,0.57,0.57,not,N AO T
+lb_4-b-39_kv_kv-dewas_22082024-000000-1_EN-OL-RC-331_2,tired,tried,s,25.77,26.4,0.63,0.63,tried,T AY R D
+lb_4-b-39_kv_kv-dewas_22082024-000000-1_EN-OL-RC-331_2,out,out,c,26.97,27.42,0.45,0.45,out,AW T
+lb_4-b-39_kv_kv-dewas_22082024-000000-1_EN-OL-RC-331_2,as,has,s,27.42,27.84,0.42,0.42,has,AE Z
+lb_4-b-39_kv_kv-dewas_22082024-000000-1_EN-OL-RC-331_2,quickly,quickly,c,27.84,28.47,0.63,0.63,quickly,K W IH K L IY
+lb_4-b-39_kv_kv-dewas_22082024-000000-1_EN-OL-RC-331_2,as,as,c,28.47,28.98,0.51,0.51,as,AE Z
+lb_4-b-39_kv_kv-dewas_22082024-000000-1_EN-OL-RC-331_2,land,land,c,28.98,29.58,0.6,0.6,land,L AE N D
+lb_4-b-39_kv_kv-dewas_22082024-000000-1_EN-OL-RC-331_2,animals,animal,s,29.91,30.54,0.63,0.63,animal,AE N IH M AH L S
+lb_4-b-39_kv_kv-dewas_22082024-000000-1_EN-OL-RC-331_2,many,many,c,30.54,31.11,0.57,0.57,many,M EH N IY
+lb_4-b-39_kv_kv-dewas_22082024-000000-1_EN-OL-RC-331_2,animals,animal,s,31.11,31.65,0.54,0.54,animal,AE N IH M AH L S
+lb_4-b-39_kv_kv-dewas_22082024-000000-1_EN-OL-RC-331_2,such,such,c,31.65,32.25,0.6,0.6,such,S AH CH
+lb_4-b-39_kv_kv-dewas_22082024-000000-1_EN-OL-RC-331_2,as,has,s,32.4,32.97,0.57,0.57,has,AE Z
+lb_4-b-39_kv_kv-dewas_22082024-000000-1_EN-OL-RC-331_2,snakes,snake,d,,,,,,S N EY K S
+lb_4-b-39_kv_kv-dewas_22082024-000000-1_EN-OL-RC-331_2,and,and,c,32.97,33.69,0.72,0.72,snake,AE N D
+lb_4-b-39_kv_kv-dewas_22082024-000000-1_EN-OL-RC-331_2,lizards,lizard,s,33.72,34.2,0.48,0.48,and,L IH Z AH R D Z
+lb_4-b-39_kv_kv-dewas_22082024-000000-1_EN-OL-RC-331_2,keep,keep,c,34.53,35.19,0.66,0.66,lizard,K IY P
+lb_4-b-39_kv_kv-dewas_22082024-000000-1_EN-OL-RC-331_2,growing,growing,c,35.19,35.64,0.45,0.45,keep,G R OW IH NG
+lb_4-b-39_kv_kv-dewas_22082024-000000-1_EN-OL-RC-331_2,[INS:you],you,i,35.64,36.3,0.66,0.66,growing,
+lb_4-b-39_kv_kv-dewas_22082024-000000-1_EN-OL-RC-331_2,until,अनतली,s,36.66,36.99,0.33,0.33,you,AH N T IH L
+lb_4-b-39_kv_kv-dewas_22082024-000000-1_EN-OL-RC-331_2,they,they,c,37.14,37.95,0.81,0.81,अनतली,DH EY
+lb_4-b-39_kv_kv-dewas_22082024-000000-1_EN-OL-RC-331_2,die,die,c,37.98,38.46,0.48,0.48,they,D AY
+lb_4-b-39_kv_kv-dewas_22082024-000000-1_EN-OL-RC-331_2,so,so,c,38.46,39.03,0.57,0.57,die,S OW
+lb_4-b-39_kv_kv-dewas_22082024-000000-1_EN-OL-RC-331_2,if,if,c,39.03,39.66,0.63,0.63,so,IH F
+lb_4-b-39_kv_kv-dewas_22082024-000000-1_EN-OL-RC-331_2,they,they,c,39.69,40.14,0.45,0.45,if,DH EY
+lb_4-b-39_kv_kv-dewas_22082024-000000-1_EN-OL-RC-331_2,are,are,c,40.14,40.65,0.51,0.51,they,AA R
+lb_4-b-39_kv_kv-dewas_22082024-000000-1_EN-OL-RC-331_2,looked,looked,c,40.95,41.31,0.36,0.36,are,L UH K D
+lb_4-b-39_kv_kv-dewas_22082024-000000-1_EN-OL-RC-331_2,after,after,c,41.31,41.88,0.57,0.57,looked,AA F T AH R
+lb_4-b-39_kv_kv-dewas_22082024-000000-1_EN-OL-RC-331_2,well,will,s,41.91,42.66,0.75,0.75,after,W EH L
+lb_4-b-39_kv_kv-dewas_22082024-000000-1_EN-OL-RC-331_2,such,such,c,42.66,43.05,0.39,0.39,will,S AH CH
+lb_4-b-39_kv_kv-dewas_22082024-000000-1_EN-OL-RC-331_2,animals,animal,s,43.05,43.53,0.48,0.48,such,AE N IH M AH L S
+lb_4-b-39_kv_kv-dewas_22082024-000000-1_EN-OL-RC-331_2,should,should,c,43.53,44.1,0.57,0.57,animal,SH UH D
+lb_4-b-39_kv_kv-dewas_22082024-000000-1_EN-OL-RC-331_2,live,live,c,44.1,44.52,0.42,0.42,should,L IH V
+lb_4-b-39_kv_kv-dewas_22082024-000000-1_EN-OL-RC-331_2,[INS:for a],for a,i,44.52,45.81,1.29,1.02,live+for,
+lb_4-b-39_kv_kv-dewas_22082024-000000-1_EN-OL-RC-331_2,forever,for_year,s,46.74,46.95,0.21,0.21,a,F AO R EH V AH R
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,many,many,c,1.02,1.32,0.3,0.3,many,M EH N IY
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,years,years,c,1.32,1.59,0.27,0.27,years,Y AH R S
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,ago,ago,c,1.59,1.89,0.3,0.3,ago,AH G OW
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,[INS:i used to live],i used to live,i,2.1,2.94,0.84,0.84,i+used+to+live,
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,i,i,c,3.0,3.12,0.12,0.12,i,AY
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,used,used,c,3.12,3.36,0.24,0.24,used,Y UW Z D
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,to,to,c,3.36,3.45,0.09,0.09,to,T UW
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,live,live,c,3.45,3.66,0.21,0.21,live,L IH V
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,with,with,c,3.66,3.84,0.18,0.18,with,W IH DH
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,my,my,c,3.84,4.05,0.21,0.21,my,M AY
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,uncle,uncle,c,4.05,4.41,0.36,0.36,uncle,AH NG K AH L
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,in,in,c,4.41,4.53,0.12,0.12,in,IH N
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,a,a,c,4.53,4.62,0.09,0.09,a,AH
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,village,village,c,4.62,5.01,0.39,0.39,village,V IH L EY JH
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,most,most,c,5.19,5.49,0.3,0.3,most,M OW S T
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,of,of,c,5.49,5.64,0.15,0.15,of,AO F
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,the,the,c,5.64,5.76,0.12,0.12,the,DH AH
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,people,peoples,s,5.76,6.12,0.36,0.36,peoples,P IY P AH L
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,in,in,c,6.12,6.27,0.15,0.15,in,IH N
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,the,the,c,6.27,6.39,0.12,0.12,the,DH AH
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,village,village,c,6.39,6.81,0.42,0.42,village,V IH L EY JH
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,used,used,c,6.81,7.11,0.3,0.3,used,Y UW Z D
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,to,to,c,7.11,7.23,0.12,0.12,to,T UW
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,grow,grow,c,7.23,7.47,0.24,0.24,grow,G R OW
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,rice,rice,c,7.47,7.77,0.3,0.3,rice,R AY S
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,they,they,c,8.01,8.28,0.27,0.27,they,DH EY
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,worked,worked,c,8.28,8.55,0.27,0.27,worked,W AH R K D
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,hard,hard,c,8.55,8.88,0.33,0.33,hard,HH AA R D
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,in,in,c,9.03,9.24,0.21,0.21,in,IH N
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,the,the,c,9.24,9.3,0.06,0.06,the,DH AH
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,fields,field,s,9.33,9.6,0.27,0.27,field,F IY L D S
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,every,every,c,9.6,9.9,0.3,0.3,every,EH V R IY
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,day,day,c,9.9,10.14,0.24,0.24,day,D EY
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,but,but,c,10.29,10.59,0.3,0.3,but,B AH T
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,my,<eps>,d,,,,,,M AY
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,uncle,uncle,c,10.77,11.1,0.33,0.33,uncle,AH NG K AH L
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,made,made,c,11.1,11.43,0.33,0.33,made,M EY D
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,his,his,c,11.43,11.76,0.33,0.33,his,HH IH Z
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,money,money,c,11.76,12.18,0.42,0.42,money,M AH N IY
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,[INS:keeping],keeping,i,12.3,12.72,0.42,0.42,keeping,
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,by,by,c,12.72,13.02,0.3,0.3,by,B AA EY
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,keeping,<eps>,d,,,,,,K IY P IH NG
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,goats,goats,c,13.35,13.83,0.48,0.48,goats,G OW T S
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,[INS:as],as,i,14.1,14.52,0.42,0.42,as,
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,as,as,c,14.67,14.94,0.27,0.27,as,AE Z
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,he,he,c,14.94,15.03,0.09,0.09,he,HH IY
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,could,could,c,15.03,15.48,0.45,0.45,could,K UH D
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,not,not,c,15.51,15.9,0.39,0.39,not,N AO T
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,keep,keep,c,15.9,16.23,0.33,0.33,keep,K IY P
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,a,a,c,16.29,16.59,0.3,0.3,a,AH
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,watch,watch,c,16.59,17.07,0.48,0.48,watch,W AO CH
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,on,on,c,17.1,17.43,0.33,0.33,on,AO N
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,the,the,c,17.43,17.76,0.33,0.33,the,DH AH
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,animals,animal,s,17.82,18.21,0.39,0.39,animal,AE N IH M AH L S
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,[INS:all],all,i,18.24,18.66,0.42,0.42,all,
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,all,all,c,18.84,19.11,0.27,0.27,all,AO L
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,the,the,c,19.11,19.2,0.09,0.09,the,DH AH
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,time,time,c,19.2,19.53,0.33,0.33,time,T AY M
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,my,my,c,19.56,19.83,0.27,0.27,my,M AY
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,uncle,uncle,c,19.83,20.22,0.39,0.39,uncle,AH NG K AH L
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,bought,bought,c,20.49,20.88,0.39,0.39,bought,B AO T
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,a,a,c,20.91,21.18,0.27,0.27,a,AH
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,dog,dog,c,21.27,21.84,0.57,0.57,dog,D AO G
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,[INS:to],to,i,22.05,22.5,0.45,0.45,to,
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,to,to,c,22.68,22.86,0.18,0.18,to,T UW
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,help,help,c,22.86,23.19,0.33,0.33,help,HH EH L P
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,us,us,c,23.28,23.7,0.42,0.42,us,AH S
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,look,look,c,23.73,24.18,0.45,0.45,look,L UH K
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,after,after,c,24.18,24.45,0.27,0.27,after,AA F T AH R
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,them,them,c,24.48,24.78,0.3,0.3,them,DH EH M
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,the,the,c,24.96,25.11,0.15,0.15,the,DH AH
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,dog,dog,c,25.11,25.38,0.27,0.27,dog,D AO G
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,was,was,c,25.38,25.62,0.24,0.24,was,W AO Z
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,named,named,c,25.62,25.92,0.3,0.3,named,N EY M D
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,lucky,lucky,c,25.92,26.19,0.27,0.27,lucky,L AH K IY
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,he,he,c,26.19,26.4,0.21,0.21,he,HH IY
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,was,was,c,26.4,26.67,0.27,0.27,was,W AO Z
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,a,a,c,26.67,26.73,0.06,0.06,a,AH
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,good,good,c,26.73,26.97,0.24,0.24,good,G UH D
+ac_5-a-8_kv_kv-doda-jodhpur_06082025-000000-1_EN-OL-RC-500_1,watchdog,watch_टिव_dog,s,26.97,28.05,1.08,1.02,watch+टिव+dog,W AO CH D AO G
+ar_5-a-6_kv_kv-afs-naliya_06082025-000000-1_EN-OL-RC-423_1,parrots,parrots,c,0.99,1.77,0.78,0.78,parrots,P AE R AH T S
+ar_5-a-6_kv_kv-afs-naliya_06082025-000000-1_EN-OL-RC-423_1,talk,talk,c,1.77,2.22,0.45,0.45,talk,T AO K
+ar_5-a-6_kv_kv-afs-naliya_06082025-000000-1_EN-OL-RC-423_1,because,because,c,2.25,2.76,0.51,0.51,because,B IH K AO Z
+ar_5-a-6_kv_kv-afs-naliya_06082025-000000-1_EN-OL-RC-423_1,their,their,c,2.76,3.0,0.24,0.24,their,DH EY AH R
+ar_5-a-6_kv_kv-afs-naliya_06082025-000000-1_EN-OL-RC-423_1,voices,voice,s,3.0,3.48,0.48,0.48,voice,V OY S EH Z
+ar_5-a-6_kv_kv-afs-naliya_06082025-000000-1_EN-OL-RC-423_1,and,and,c,3.48,3.75,0.27,0.27,and,AE N D
+ar_5-a-6_kv_kv-afs-naliya_06082025-000000-1_EN-OL-RC-423_1,hearing,hearing,c,3.75,4.23,0.48,0.48,hearing,HH IH AH R IH NG
+ar_5-a-6_kv_kv-afs-naliya_06082025-000000-1_EN-OL-RC-423_1,work,work,c,4.23,4.62,0.39,0.39,work,W AH R K
+ar_5-a-6_kv_kv-afs-naliya_06082025-000000-1_EN-OL-RC-423_1,more,more,c,4.65,5.07,0.42,0.42,more,M OW R
+ar_5-a-6_kv_kv-afs-naliya_06082025-000000-1_EN-OL-RC-423_1,slowly,slowly,c,5.07,5.55,0.48,0.48,slowly,S L OW L IY
+ar_5-a-6_kv_kv-afs-naliya_06082025-000000-1_EN-OL-RC-423_1,than,than,c,5.55,5.91,0.36,0.36,than,TH AE N
+ar_5-a-6_kv_kv-afs-naliya_06082025-000000-1_EN-OL-RC-423_1,those,those,c,5.91,6.27,0.36,0.36,those,DH OW Z
+ar_5-a-6_kv_kv-afs-naliya_06082025-000000-1_EN-OL-RC-423_1,of,of,c,6.27,6.54,0.27,0.27,of,AO F
+ar_5-a-6_kv_kv-afs-naliya_06082025-000000-1_EN-OL-RC-423_1,other,other,c,6.54,6.9,0.36,0.36,other,AH DH AH R
+ar_5-a-6_kv_kv-afs-naliya_06082025-000000-1_EN-OL-RC-423_1,birds,birds,c,6.9,7.29,0.39,0.39,birds,B AH R D S
+ar_5-a-6_kv_kv-afs-naliya_06082025-000000-1_EN-OL-RC-423_1,and,and,c,7.92,8.19,0.27,0.27,and,AE N D
+ar_5-a-6_kv_kv-afs-naliya_06082025-000000-1_EN-OL-RC-423_1,perhaps,perhaps,c,8.19,8.7,0.51,0.51,perhaps,P AH R HH AE P S
+ar_5-a-6_kv_kv-afs-naliya_06082025-000000-1_EN-OL-RC-423_1,also,also,c,9.24,9.78,0.54,0.54,also,AO L S OW
+ar_5-a-6_kv_kv-afs-naliya_06082025-000000-1_EN-OL-RC-423_1,the,the,c,9.78,10.17,0.39,0.39,the,DH AH
+ar_5-a-6_kv_kv-afs-naliya_06082025-000000-1_EN-OL-RC-423_1,sounds,sounds,c,10.32,10.77,0.45,0.45,sounds,S AW N D S
+ar_5-a-6_kv_kv-afs-naliya_06082025-000000-1_EN-OL-RC-423_1,made,made,c,10.77,11.13,0.36,0.36,made,M EY D
+ar_5-a-6_kv_kv-afs-naliya_06082025-000000-1_EN-OL-RC-423_1,by,by,c,11.13,11.43,0.3,0.3,by,B AA EY
+ar_5-a-6_kv_kv-afs-naliya_06082025-000000-1_EN-OL-RC-423_1,men,man,s,11.43,11.91,0.48,0.48,man,M EH N
+ar_5-a-6_kv_kv-afs-naliya_06082025-000000-1_EN-OL-RC-423_1,are,are,c,11.94,12.39,0.45,0.45,are,AA R
+ar_5-a-6_kv_kv-afs-naliya_06082025-000000-1_EN-OL-RC-423_1,somewhat,somewhat,c,12.72,13.35,0.63,0.63,somewhat,S AH M W AH T
+ar_5-a-6_kv_kv-afs-naliya_06082025-000000-1_EN-OL-RC-423_1,like,like,c,13.5,13.86,0.36,0.36,like,L AY K
+ar_5-a-6_kv_kv-afs-naliya_06082025-000000-1_EN-OL-RC-423_1,the,the,c,13.86,14.01,0.15,0.15,the,DH AH
+ar_5-a-6_kv_kv-afs-naliya_06082025-000000-1_EN-OL-RC-423_1,sounds,sound,s,14.01,14.4,0.39,0.39,sound,S AW N D S
+ar_5-a-6_kv_kv-afs-naliya_06082025-000000-1_EN-OL-RC-423_1,usually,usually,c,14.4,15.12,0.72,0.72,usually,Y UH JH UH AH L IY
+ar_5-a-6_kv_kv-afs-naliya_06082025-000000-1_EN-OL-RC-423_1,made,made,c,15.42,15.75,0.33,0.33,made,M EY D
+ar_5-a-6_kv_kv-afs-naliya_06082025-000000-1_EN-OL-RC-423_1,by,by,c,15.75,15.96,0.21,0.21,by,B AA EY
+ar_5-a-6_kv_kv-afs-naliya_06082025-000000-1_EN-OL-RC-423_1,parrots,parrot,s,15.96,16.5,0.54,0.54,parrot,P AE R AH T S
+ar_5-a-6_kv_kv-afs-naliya_06082025-000000-1_EN-OL-RC-423_1,so,so,c,17.16,17.4,0.24,0.24,so,S OW
+ar_5-a-6_kv_kv-afs-naliya_06082025-000000-1_EN-OL-RC-423_1,it's,it's,c,17.4,17.88,0.48,0.48,it's,IH T S
+ar_5-a-6_kv_kv-afs-naliya_06082025-000000-1_EN-OL-RC-423_1,easy,easy,c,18.12,18.54,0.42,0.42,easy,IY Z IY
+ar_5-a-6_kv_kv-afs-naliya_06082025-000000-1_EN-OL-RC-423_1,for,for,c,18.54,18.81,0.27,0.27,for,F AO R
+ar_5-a-6_kv_kv-afs-naliya_06082025-000000-1_EN-OL-RC-423_1,parrots,parrot,s,18.81,19.26,0.45,0.45,parrot,P AE R AH T S
+ar_5-a-6_kv_kv-afs-naliya_06082025-000000-1_EN-OL-RC-423_1,to,to,c,19.44,19.5,0.06,0.06,to,T UW
+ar_5-a-6_kv_kv-afs-naliya_06082025-000000-1_EN-OL-RC-423_1,talk,talk,c,19.5,19.77,0.27,0.27,talk,T AO K
+ar_5-a-6_kv_kv-afs-naliya_06082025-000000-1_EN-OL-RC-423_1,like,like,c,19.77,20.07,0.3,0.3,like,L AY K
+ar_5-a-6_kv_kv-afs-naliya_06082025-000000-1_EN-OL-RC-423_1,men,men,c,20.07,20.52,0.45,0.45,men,M EH N
+ar_5-a-6_kv_kv-afs-naliya_06082025-000000-1_EN-OL-RC-423_1,parrots,parrot,s,21.06,21.6,0.54,0.54,parrot,P AE R AH T S
+ar_5-a-6_kv_kv-afs-naliya_06082025-000000-1_EN-OL-RC-423_1,are,are,c,21.81,21.99,0.18,0.18,are,AA R
+ar_5-a-6_kv_kv-afs-naliya_06082025-000000-1_EN-OL-RC-423_1,wonderful,wonderful,c,21.99,22.56,0.57,0.57,wonderful,W AH N D AH R F UH L
+ar_5-a-6_kv_kv-afs-naliya_06082025-000000-1_EN-OL-RC-423_1,birds,birds,c,22.56,22.95,0.39,0.39,birds,B AH R D S
+ar_5-a-6_kv_kv-afs-naliya_06082025-000000-1_EN-OL-RC-423_1,in,in,c,23.67,23.97,0.3,0.3,in,IH N
+ar_5-a-6_kv_kv-afs-naliya_06082025-000000-1_EN-OL-RC-423_1,other,other,c,23.97,24.36,0.39,0.39,other,AH DH AH R
+ar_5-a-6_kv_kv-afs-naliya_06082025-000000-1_EN-OL-RC-423_1,ways,ways,c,24.36,24.81,0.45,0.45,ways,W EY Z
+ar_5-a-6_kv_kv-afs-naliya_06082025-000000-1_EN-OL-RC-423_1,too,too,c,25.14,25.5,0.36,0.36,too,T UW
+ar_5-a-6_kv_kv-afs-naliya_06082025-000000-1_EN-OL-RC-423_1,they,they,c,26.16,26.4,0.24,0.24,they,DH EY
+ar_5-a-6_kv_kv-afs-naliya_06082025-000000-1_EN-OL-RC-423_1,can,can,c,26.4,26.73,0.33,0.33,can,K AE N
+ar_5-a-6_kv_kv-afs-naliya_06082025-000000-1_EN-OL-RC-423_1,live,live,c,26.73,27.06,0.33,0.33,live,L IH V
+ar_5-a-6_kv_kv-afs-naliya_06082025-000000-1_EN-OL-RC-423_1,in,in,c,28.11,28.32,0.21,0.21,in,IH N
+ar_5-a-6_kv_kv-afs-naliya_06082025-000000-1_EN-OL-RC-423_1,any,any,c,28.32,28.77,0.45,0.45,any,EH N IY
+ar_5-a-6_kv_kv-afs-naliya_06082025-000000-1_EN-OL-RC-423_1,kind,kind,c,28.8,29.19,0.39,0.39,kind,K AY N D
+ar_5-a-6_kv_kv-afs-naliya_06082025-000000-1_EN-OL-RC-423_1,of,of,c,29.19,29.43,0.24,0.24,of,AO F
+ar_5-a-6_kv_kv-afs-naliya_06082025-000000-1_EN-OL-RC-423_1,weather,weather,c,29.46,29.94,0.48,0.48,weather,W EH DH AH R
+ar_5-a-6_kv_kv-afs-naliya_06082025-000000-1_EN-OL-RC-423_1,or,or,c,30.0,30.33,0.33,0.33,or,AO R
+ar_5-a-6_kv_kv-afs-naliya_06082025-000000-1_EN-OL-RC-423_1,place,place,c,30.66,31.02,0.36,0.36,place,P L EY S
+ar_5-a-6_kv_kv-afs-naliya_06082025-000000-1_EN-OL-RC-423_1,that,that,c,31.98,32.49,0.51,0.51,that,DH AE T
+ar_5-a-6_kv_kv-afs-naliya_06082025-000000-1_EN-OL-RC-423_1,is,is,c,32.49,32.67,0.18,0.18,is,IH Z
+ar_5-a-6_kv_kv-afs-naliya_06082025-000000-1_EN-OL-RC-423_1,why,why,c,32.67,33.12,0.45,0.45,why,W HH AA Y
+ar_5-a-6_kv_kv-afs-naliya_06082025-000000-1_EN-OL-RC-423_1,sailors,sailors,c,33.18,33.81,0.63,0.63,sailors,S EY L AH R Z
+ar_5-a-6_kv_kv-afs-naliya_06082025-000000-1_EN-OL-RC-423_1,often,often,c,33.81,34.35,0.54,0.54,often,AO F AH N
+ar_5-a-6_kv_kv-afs-naliya_06082025-000000-1_EN-OL-RC-423_1,take,take,c,34.65,34.89,0.24,0.24,take,T EY K
+ar_5-a-6_kv_kv-afs-naliya_06082025-000000-1_EN-OL-RC-423_1,parrots,parrots,c,34.92,35.4,0.48,0.48,parrots,P AE R AH T S
+ar_5-a-6_kv_kv-afs-naliya_06082025-000000-1_EN-OL-RC-423_1,along,along,c,35.4,35.91,0.51,0.51,along,AH L AO NG
+ar_5-a-6_kv_kv-afs-naliya_06082025-000000-1_EN-OL-RC-423_1,when,when,c,36.12,36.54,0.42,0.42,when,W EH N
+ar_5-a-6_kv_kv-afs-naliya_06082025-000000-1_EN-OL-RC-423_1,they,they,c,36.54,36.84,0.3,0.3,they,DH EY
+ar_5-a-6_kv_kv-afs-naliya_06082025-000000-1_EN-OL-RC-423_1,go,go,c,37.44,37.68,0.24,0.24,go,G OW
+ar_5-a-6_kv_kv-afs-naliya_06082025-000000-1_EN-OL-RC-423_1,to,to,c,37.68,37.86,0.18,0.18,to,T UW
+ar_5-a-6_kv_kv-afs-naliya_06082025-000000-1_EN-OL-RC-423_1,sea,sea,c,37.86,38.16,0.3,0.3,sea,S IY
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,mahagiri,mahagiri,c,0.96,1.59,0.63,0.63,mahagiri,M AA HH AA G IH R IY
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,was,was,c,1.59,1.95,0.36,0.36,was,W AO Z
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,an,a,s,2.01,2.28,0.27,0.27,a,AE N
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,elephant,elephant,c,2.37,2.91,0.54,0.54,elephant,AE L IH F AE N T
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,who,who,c,3.42,3.81,0.39,0.39,who,HH UW
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,was,was,c,4.23,4.68,0.45,0.45,was,W AO Z
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,owned,own,s,4.83,5.16,0.33,0.33,own,OW N D
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,by,by,c,5.16,5.55,0.39,0.39,by,B AA EY
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,a,a,c,5.76,5.88,0.12,0.12,a,AH
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,merchant,merchant,c,5.88,6.36,0.48,0.48,merchant,M AH R CH EH N T
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,the,the,c,6.87,7.05,0.18,0.18,the,DH AH
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,merchant,merchant,c,7.05,7.62,0.57,0.57,merchant,M AH R CH EH N T
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,made,made,c,7.65,8.01,0.36,0.36,made,M EY D
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,a,a,c,8.04,8.19,0.15,0.15,a,AH
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,lot,lot,c,8.19,8.61,0.42,0.42,lot,L AO T
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,of,of,c,8.64,8.88,0.24,0.24,of,AO F
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,money,money,c,8.91,9.27,0.36,0.36,money,M AH N IY
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,by,by,c,9.27,9.51,0.24,0.24,by,B AA EY
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,putting,putting,c,9.51,9.93,0.42,0.42,putting,P UH T IH NG
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,mahagiri,mahagiri,c,9.93,10.65,0.72,0.72,mahagiri,M AA HH AA G IH R IY
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,to,to,c,10.89,11.04,0.15,0.15,to,T UW
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,work,work,c,11.04,11.31,0.27,0.27,work,W AH R K
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,the,the,c,11.67,11.82,0.15,0.15,the,DH AH
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,elephant,elephant,c,11.85,12.48,0.63,0.63,elephant,AE L IH F AE N T
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,was,<eps>,d,,,,,,W AO Z
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,sent,sent,c,13.08,13.56,0.48,0.48,sent,S EH N T
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,to,to,c,13.65,13.83,0.18,0.18,to,T UW
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,the,the,c,13.83,14.16,0.33,0.33,the,DH AH
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,forest,forest,c,14.19,14.7,0.51,0.51,forest,F AO R EH S T
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,to,to,c,14.82,14.97,0.15,0.15,to,T UW
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,carry,carry,c,14.97,15.39,0.42,0.42,carry,K AE R IY
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,heavy,heavy,c,15.39,15.75,0.36,0.36,heavy,HH EH V IY
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,logs,logs,c,15.75,16.26,0.51,0.51,logs,L AO G Z
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,of,of,c,16.32,16.59,0.27,0.27,of,AO F
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,wood,wood,c,16.65,16.92,0.27,0.27,wood,W UH D
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,sometimes,sometime,s,17.22,17.91,0.69,0.69,sometime,S AH M T AY M S
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,he,he,c,17.91,18.06,0.15,0.15,he,HH IY
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,carried,carried,c,18.06,18.63,0.57,0.57,carried,K AE R IY D
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,people,people,c,18.63,19.32,0.69,0.69,people,P IY P AH L
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,from,from,c,19.38,19.86,0.48,0.48,from,F R AO M
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,one,one,c,20.52,20.88,0.36,0.36,one,W AH N
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,place,place,c,20.88,21.3,0.42,0.42,place,P L EY S
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,to,to,c,21.3,21.54,0.24,0.24,to,T UW
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,another,another,c,21.54,22.11,0.57,0.57,another,AH N AH DH AH R
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,once,once,c,22.47,23.04,0.57,0.57,once,W AH N S
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,the,the,c,23.13,23.43,0.3,0.3,the,DH AH
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,people,people,c,23.43,23.97,0.54,0.54,people,P IY P AH L
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,of,of,c,23.97,24.3,0.33,0.33,of,AO F
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,a,a,c,24.48,24.63,0.15,0.15,a,AH
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,village,village,c,24.63,25.17,0.54,0.54,village,V IH L EY JH
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,wanted,wanted,c,25.47,26.07,0.6,0.6,wanted,W AO N T EH D
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,to,to,c,26.07,26.25,0.18,0.18,to,T UW
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,hold,hole,s,26.25,26.58,0.33,0.33,hole,HH OW L D
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,their,their,c,26.58,26.94,0.36,0.36,their,DH EY AH R
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,temple,temple,c,26.94,27.39,0.45,0.45,temple,T EH M P AH L
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,festival,festivals,s,27.39,28.11,0.72,0.72,festivals,F EH S T IH V AH L
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,the,the,c,28.47,28.59,0.12,0.12,the,DH AH
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,festival,festivals,s,28.59,29.37,0.78,0.78,festivals,F EH S T IH V AH L
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,could,could,c,29.52,29.82,0.3,0.3,could,K UH D
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,not,not,c,30.15,30.57,0.42,0.42,not,N AO T
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,start,start,c,30.57,31.05,0.48,0.48,start,S T AA R T
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,till,till,c,31.5,31.83,0.33,0.33,till,T IH L
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,the,the,c,31.86,32.01,0.15,0.15,the,DH AH
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,temple,temple,c,32.01,32.58,0.57,0.57,temple,T EH M P AH L
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,flag,flag,c,32.88,33.24,0.36,0.36,flag,F L AE G
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,was,was,c,33.24,33.54,0.3,0.3,was,W AO Z
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,put,put,c,33.54,33.84,0.3,0.3,put,P UH T
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,up,up,c,33.87,34.17,0.3,0.3,up,AH P
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,the,the,c,34.23,34.47,0.24,0.24,the,DH AH
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,temple,temple,c,34.53,35.1,0.57,0.57,temple,T EH M P AH L
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,had,had,c,35.1,35.46,0.36,0.36,had,HH AE D
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,the,the,c,35.46,35.61,0.15,0.15,the,DH AH
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,flag,flag,c,35.61,36.18,0.57,0.57,flag,F L AE G
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,but,but,c,36.18,36.45,0.27,0.27,but,B AH T
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,no,no,c,36.45,36.87,0.42,0.42,no,N OW
+ax_5-a-7_kv_kv-no3-colaba_06082025-000000-1_EN-OL-RC-434_1,flagpost,flagpost,c,37.08,37.83,0.75,0.75,flagpost,F L AE G P OW S T
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,and,and,c,1.02,1.38,0.36,0.36,and,AE N D
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,even,even,c,1.41,2.07,0.66,0.66,even,IY V EH N
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,though,though,c,2.13,2.46,0.33,0.33,though,DH OW
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,the,the,c,2.46,2.61,0.15,0.15,the,DH AH
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,parrot,parrot,c,2.73,3.36,0.63,0.63,parrot,P AE R AH T
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,is,<eps>,d,,,,,,IH Z
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,usually,usually,c,3.51,4.35,0.84,0.84,usually,Y UH JH UH AH L IY
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,found,found,c,4.8,5.25,0.45,0.45,found,F AW N D
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,in,in,c,5.25,5.46,0.21,0.21,in,IH N
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,hot,hot,c,5.46,5.85,0.39,0.39,hot,HH AO T
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,countries,countries,c,5.85,6.66,0.81,0.81,countries,K AH N T R IY Z
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,it,it,c,6.75,6.96,0.21,0.21,it,IH T
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,can,can,c,6.96,7.23,0.27,0.27,can,K AE N
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,manage,manage,c,7.23,7.92,0.69,0.69,manage,M AE N EH JH
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,quite,quite,c,7.95,8.4,0.45,0.45,quite,K W AY T
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,well,well,c,8.4,8.79,0.39,0.39,well,W EH L
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,even,even,c,9.36,9.84,0.48,0.48,even,IY V EH N
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,in,in,c,9.87,10.14,0.27,0.27,in,IH N
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,very,very,c,10.17,10.56,0.39,0.39,very,V EH R IY
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,cold,cold,c,10.56,10.89,0.33,0.33,cold,K OW L D
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,places,places,c,10.89,11.64,0.75,0.75,places,P L EY S IH S
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,parrots,parrot,s,11.88,12.51,0.63,0.63,parrot,P AE R AH T S
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,are,are,c,12.57,12.93,0.36,0.36,are,AA R
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,very,very,c,13.26,13.62,0.36,0.36,very,V EH R IY
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,brave,brave,c,13.62,14.01,0.39,0.39,brave,B R EY W
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,birds,birds,c,14.01,14.55,0.54,0.54,birds,B AH R D S
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,and,and,c,14.61,14.91,0.3,0.3,and,AE N D
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,will,will,c,14.91,15.15,0.24,0.24,will,W IH L
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,stay,stay,c,15.15,15.66,0.51,0.51,stay,S T EY
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,with,with,c,16.26,16.53,0.27,0.27,with,W IH DH
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,their,their,c,16.53,16.86,0.33,0.33,their,DH EY AH R
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,own,own,c,16.86,17.22,0.36,0.36,own,OW N
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,kind,kind,c,17.22,17.7,0.48,0.48,kind,K AY N D
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,in,in,c,17.76,18.0,0.24,0.24,in,IH N
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,times,times,c,18.0,18.48,0.48,0.48,times,T AY M Z
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,of,of,c,18.48,18.78,0.3,0.3,of,AO F
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,trouble,trouble,c,19.11,19.68,0.57,0.57,trouble,T R AH B AH L
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,if,if,c,19.83,20.07,0.24,0.24,if,IH F
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,some,some,c,20.07,20.58,0.51,0.51,some,S AH M
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,of,of,c,20.94,21.18,0.24,0.24,of,AO F
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,them,them,c,21.18,21.48,0.3,0.3,them,DH EH M
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,face,face,c,21.48,21.87,0.39,0.39,face,F EY S
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,danger,danger,c,21.87,22.62,0.75,0.75,danger,D EY N JH AH R
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,all,all,c,22.95,23.31,0.36,0.36,all,AO L
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,their,their,c,23.31,23.49,0.18,0.18,their,DH EY AH R
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,friends,friends,c,23.49,24.0,0.51,0.51,friends,F R EH N D S
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,[INS:come they],come they,i,24.12,25.35,1.23,0.69,come+they,
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,come,come,c,25.47,25.74,0.27,0.27,come,K AH M
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,to,to,c,25.74,25.86,0.12,0.12,to,T UW
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,their,their,c,25.86,26.13,0.27,0.27,their,DH EY AH R
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,help,help,c,26.13,26.58,0.45,0.45,help,HH EH L P
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,parrots,parrots,c,26.85,27.45,0.6,0.6,parrots,P AE R AH T S
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,are,are,c,27.51,27.75,0.24,0.24,are,AA R
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,like,like,c,27.75,28.11,0.36,0.36,like,L AY K
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,men,man,s,28.11,28.62,0.51,0.51,man,M EH N
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,in,<eps>,d,,,,,,IH N
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,the,the,c,28.95,29.25,0.3,0.3,the,DH AH
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,way,way,c,29.25,29.64,0.39,0.39,way,W EY
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,they,they,c,29.7,30.0,0.3,0.3,they,DH EY
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,talk,talk,c,30.0,30.48,0.48,0.48,talk,T AO K
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,and,and,c,30.75,31.14,0.39,0.39,and,AE N D
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,like,like,c,31.26,31.71,0.45,0.45,like,L AY K
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,monkeys,monkeys,c,31.8,32.55,0.75,0.75,monkeys,M AH N K IY Z
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,in,in,c,33.57,33.81,0.24,0.24,in,IH N
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,the,the,c,33.81,33.93,0.12,0.12,the,DH AH
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,way,way,c,33.93,34.23,0.3,0.3,way,W EY
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,they,they,c,34.23,34.44,0.21,0.21,they,DH EY
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,swing,swing,c,34.44,34.86,0.42,0.42,swing,S W IH NG
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,from,from,c,34.86,35.16,0.3,0.3,from,F R AO M
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,[INS:one],one,i,35.16,35.49,0.33,0.33,one,
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,tree,tree,c,35.49,35.91,0.42,0.42,tree,T R IY
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,to,to,c,36.72,36.87,0.15,0.15,to,T UW
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,tree,another,s,36.87,37.47,0.6,0.6,another,T R IY
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,upside,upside,c,39.69,40.26,0.57,0.57,upside,AH P S AY D
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,down,down,c,40.26,40.71,0.45,0.45,down,D AW N
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,and,and,c,40.98,41.31,0.33,0.33,and,AE N D
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,when,when,c,41.37,41.79,0.42,0.42,when,W EH N
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,they're,they're,c,41.97,42.45,0.48,0.48,they're,DH EY Y R
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,eating,eating,c,42.45,43.05,0.6,0.6,eating,IY T IH NG
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,they,they,c,43.32,43.65,0.33,0.33,they,DH EY
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,use,use,c,43.65,44.1,0.45,0.45,use,Y UW Z
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,their,their,c,44.1,44.4,0.3,0.3,their,DH EY AH R
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,feet,feet,c,44.4,44.79,0.39,0.39,feet,F IY T
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,almost,almost,c,44.82,45.48,0.66,0.66,almost,AO L M OW S T
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,like,like,c,45.48,45.81,0.33,0.33,like,L AY K
+ks_5-d-39_kv_kv-no1-afs-jalahalli_22082024-000000-1_EN-OL-RC-423_2,hands,hand,s,45.81,46.2,0.39,0.39,hand,HH AE N D S

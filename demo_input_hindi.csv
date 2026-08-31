@@ -1,0 +1,676 @@
+utterance_id,canonical_word,GT_decoded_word,GT_label,start_time,end_time,canonical_phone_seq,GT_wav2vec_phone_seq_clean,MT_decoded_costed_neglog
+/home/daplab/30006664/kv_allindia_dec2023/audios/vr_3-c-18_kv_kv-no2-eklinggarh-udaipur_04122023-000000-1_HI-KV-001_1.wav,एक,एक,c,2.34,2.67,ee k,ee k,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/vr_3-c-18_kv_kv-no2-eklinggarh-udaipur_04122023-000000-1_HI-KV-001_1.wav,राजा,राजा,c,2.67,3.15,r AA j AA,r AA j AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/vr_3-c-18_kv_kv-no2-eklinggarh-udaipur_04122023-000000-1_HI-KV-001_1.wav,था,था,c,3.15,3.42,th AA,th AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/vr_3-c-18_kv_kv-no2-eklinggarh-udaipur_04122023-000000-1_HI-KV-001_1.wav,उसका,उसका,c,3.42,4.02,uu s aa k AA,uu s aa k AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/vr_3-c-18_kv_kv-no2-eklinggarh-udaipur_04122023-000000-1_HI-KV-001_1.wav,एक,एक,c,4.02,4.35,ee k,ee k,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/vr_3-c-18_kv_kv-no2-eklinggarh-udaipur_04122023-000000-1_HI-KV-001_1.wav,बडा,बडा,c,4.35,4.74,b aa D AA,b aa D AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/vr_3-c-18_kv_kv-no2-eklinggarh-udaipur_04122023-000000-1_HI-KV-001_1.wav,सा,सा,c,4.74,5.16,s AA,s AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/vr_3-c-18_kv_kv-no2-eklinggarh-udaipur_04122023-000000-1_HI-KV-001_1.wav,राज्य,राज्य,c,5.52,6.03,r AA j y,r AA j y,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/vr_3-c-18_kv_kv-no2-eklinggarh-udaipur_04122023-000000-1_HI-KV-001_1.wav,था,था,c,6.03,6.3,th AA,th AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/vr_3-c-18_kv_kv-no2-eklinggarh-udaipur_04122023-000000-1_HI-KV-001_1.wav,एक,एक,c,6.3,6.6,ee k,ee k,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/vr_3-c-18_kv_kv-no2-eklinggarh-udaipur_04122023-000000-1_HI-KV-001_1.wav,दिन,दिन,c,6.63,6.96,d ii n,T II d UU,5.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/vr_3-c-18_kv_kv-no2-eklinggarh-udaipur_04122023-000000-1_HI-KV-001_1.wav,उसे,उसने,s,6.96,7.62,uu s ee,UU s aa r ee,4.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/vr_3-c-18_kv_kv-no2-eklinggarh-udaipur_04122023-000000-1_HI-KV-001_1.wav,देश,देश,c,7.89,8.34,d ee sh,d ee sh,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/vr_3-c-18_kv_kv-no2-eklinggarh-udaipur_04122023-000000-1_HI-KV-001_1.wav,घूमने,घूमने,c,8.34,9.12,gh UU m aa n ee,gh UU m aa n ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/vr_3-c-18_kv_kv-no2-eklinggarh-udaipur_04122023-000000-1_HI-KV-001_1.wav,का,का,c,9.63,9.87,k AA,k AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/vr_3-c-18_kv_kv-no2-eklinggarh-udaipur_04122023-000000-1_HI-KV-001_1.wav,विचार,विचार,c,9.87,10.53,w ii c AA r,w ii c AA r,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/vr_3-c-18_kv_kv-no2-eklinggarh-udaipur_04122023-000000-1_HI-KV-001_1.wav,आया,आया,c,10.62,11.13,AA y AA,AA y AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/vr_3-c-18_kv_kv-no2-eklinggarh-udaipur_04122023-000000-1_HI-KV-001_1.wav,और,और,c,12.36,12.6,OO r,OO r,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/vr_3-c-18_kv_kv-no2-eklinggarh-udaipur_04122023-000000-1_HI-KV-001_1.wav,उसने,उसने,c,12.6,13.05,uu s aa n ee,uu s aa n ee,2.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/vr_3-c-18_kv_kv-no2-eklinggarh-udaipur_04122023-000000-1_HI-KV-001_1.wav,देश,देश,c,13.05,13.47,d ee sh,d ee sh,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/vr_3-c-18_kv_kv-no2-eklinggarh-udaipur_04122023-000000-1_HI-KV-001_1.wav,भ्रमन,भ्रमार,s,13.47,14.16,<UNK>,bh r aa m AA N,7.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/vr_3-c-18_kv_kv-no2-eklinggarh-udaipur_04122023-000000-1_HI-KV-001_1.wav,की,की,c,14.19,14.43,k II,k II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/vr_3-c-18_kv_kv-no2-eklinggarh-udaipur_04122023-000000-1_HI-KV-001_1.wav,योजना,योजना,c,14.43,15.06,y oo j aa n AA,y oo j aa n AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/vr_3-c-18_kv_kv-no2-eklinggarh-udaipur_04122023-000000-1_HI-KV-001_1.wav,बनाई,बनाई,c,15.06,15.57,b aa n AA II,b aa n AA II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/vr_3-c-18_kv_kv-no2-eklinggarh-udaipur_04122023-000000-1_HI-KV-001_1.wav,और,और,c,16.02,16.35,OO r,OO r,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/vr_3-c-18_kv_kv-no2-eklinggarh-udaipur_04122023-000000-1_HI-KV-001_1.wav,घूमने,घूमने,c,16.35,17.13,gh UU m aa n ee,gh UU m aa n ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/vr_3-c-18_kv_kv-no2-eklinggarh-udaipur_04122023-000000-1_HI-KV-001_1.wav,निकल,निकल,c,17.13,17.76,n ii k aa l,n ii k aa l,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/vr_3-c-18_kv_kv-no2-eklinggarh-udaipur_04122023-000000-1_HI-KV-001_1.wav,पडा,पडा,c,18.15,18.57,<UNK>,p aa D AA,4.74464614119166
+/home/daplab/30006664/kv_allindia_dec2023/audios/vr_3-c-18_kv_kv-no2-eklinggarh-udaipur_04122023-000000-1_HI-KV-001_1.wav,जब,जब,c,18.57,18.87,j aa b,j aa b,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/vr_3-c-18_kv_kv-no2-eklinggarh-udaipur_04122023-000000-1_HI-KV-001_1.wav,वह,वह,c,18.87,19.32,w aa hh,w aa hh,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/vr_3-c-18_kv_kv-no2-eklinggarh-udaipur_04122023-000000-1_HI-KV-001_1.wav,यात्रा,यात्रा,c,19.32,19.92,y AA t r AA,y AA t r AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/vr_3-c-18_kv_kv-no2-eklinggarh-udaipur_04122023-000000-1_HI-KV-001_1.wav,से,से,c,19.92,20.19,s ee,s ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/vr_3-c-18_kv_kv-no2-eklinggarh-udaipur_04122023-000000-1_HI-KV-001_1.wav,लौट,लौट,c,20.19,20.64,l OO T,l OO T,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/vr_3-c-18_kv_kv-no2-eklinggarh-udaipur_04122023-000000-1_HI-KV-001_1.wav,कर,कर,c,20.64,20.94,k aa r,k aa r,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/vr_3-c-18_kv_kv-no2-eklinggarh-udaipur_04122023-000000-1_HI-KV-001_1.wav,अपने,अपने,c,20.94,21.42,aa p aa n ee,aa p aa n ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/vr_3-c-18_kv_kv-no2-eklinggarh-udaipur_04122023-000000-1_HI-KV-001_1.wav,महल,महल,c,21.75,22.17,m aa hh aa l,m aa hh aa l,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/vr_3-c-18_kv_kv-no2-eklinggarh-udaipur_04122023-000000-1_HI-KV-001_1.wav,आया,आया,c,22.17,22.59,AA y AA,AA y AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/vr_3-c-18_kv_kv-no2-eklinggarh-udaipur_04122023-000000-1_HI-KV-001_1.wav,उसने,उसने,c,22.59,23.31,uu s aa n ee,uu s aa n ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/vr_3-c-18_kv_kv-no2-eklinggarh-udaipur_04122023-000000-1_HI-KV-001_1.wav,अपने,अपने,c,23.67,24.39,aa p aa n ee,aa p aa n ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/vr_3-c-18_kv_kv-no2-eklinggarh-udaipur_04122023-000000-1_HI-KV-001_1.wav,मंत्रियों,मित्रों,s,24.87,25.62,m aa q t r ii y oo q,m ii t r oo q,5.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/vr_3-c-18_kv_kv-no2-eklinggarh-udaipur_04122023-000000-1_HI-KV-001_1.wav,से,से,c,25.62,26.34,s ee,s ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/vr_3-c-18_kv_kv-no2-eklinggarh-udaipur_04122023-000000-1_HI-KV-001_1.wav,पैरों,पैरों,c,26.85,27.42,p ee r oo q,p ee r oo q,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/vr_3-c-18_kv_kv-no2-eklinggarh-udaipur_04122023-000000-1_HI-KV-001_1.wav,में,में,c,27.45,27.69,m ee q,m ee q,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/vr_3-c-18_kv_kv-no2-eklinggarh-udaipur_04122023-000000-1_HI-KV-001_1.wav,दर्द,दर्द,c,27.69,28.11,d aa r d,d aa r d,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/vr_3-c-18_kv_kv-no2-eklinggarh-udaipur_04122023-000000-1_HI-KV-001_1.wav,होने,होने,c,28.11,28.77,hh oo n ee,hh oo n ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/vr_3-c-18_kv_kv-no2-eklinggarh-udaipur_04122023-000000-1_HI-KV-001_1.wav,की,की,c,28.77,29.19,k II,k II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/vr_3-c-18_kv_kv-no2-eklinggarh-udaipur_04122023-000000-1_HI-KV-001_1.wav,शिकायत,शिकायत,c,30.45,31.38,sh ii k AA y aa t,sh ii k AA y aa t,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/vr_3-c-18_kv_kv-no2-eklinggarh-udaipur_04122023-000000-1_HI-KV-001_1.wav,की,की,c,31.38,31.71,k II,k II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/vr_3-c-18_kv_kv-no2-eklinggarh-udaipur_04122023-000000-1_HI-KV-001_1.wav,राजा,राजा,c,31.71,32.25,r AA j AA,r AA j AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/vr_3-c-18_kv_kv-no2-eklinggarh-udaipur_04122023-000000-1_HI-KV-001_1.wav,का,का,c,32.25,32.67,k AA,k AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/vr_3-c-18_kv_kv-no2-eklinggarh-udaipur_04122023-000000-1_HI-KV-001_1.wav,कहना,कहना,c,32.97,33.69,k aa hh aa n AA,k aa hh aa n AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/vr_3-c-18_kv_kv-no2-eklinggarh-udaipur_04122023-000000-1_HI-KV-001_1.wav,था,था,c,34.08,34.47,th AA,th AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/vr_3-c-18_kv_kv-no2-eklinggarh-udaipur_04122023-000000-1_HI-KV-001_1.wav,कि,कि,c,34.47,34.83,k ii,k ii,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/vr_3-c-18_kv_kv-no2-eklinggarh-udaipur_04122023-000000-1_HI-KV-001_1.wav,मार्ग,गरम,s,34.83,35.19,m AA r g,g aa r,5.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/vr_3-c-18_kv_kv-no2-eklinggarh-udaipur_04122023-000000-1_HI-KV-001_1.wav,में,मे,s,35.43,35.64,m ee q,w ee,3.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/vr_3-c-18_kv_kv-no2-eklinggarh-udaipur_04122023-000000-1_HI-KV-001_1.wav,जो,जो,c,35.64,35.97,j oo,j oo,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/vr_3-c-18_kv_kv-no2-eklinggarh-udaipur_04122023-000000-1_HI-KV-001_1.wav,कंकड,कंकड,c,35.97,36.6,<UNK>,k aa q k aa D,5.80133717363437
+/home/daplab/30006664/kv_allindia_dec2023/audios/vr_3-c-18_kv_kv-no2-eklinggarh-udaipur_04122023-000000-1_HI-KV-001_1.wav,पत्थर,पत्थर,c,36.6,37.23,p aa t th aa r,p aa t th aa r,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/vr_3-c-18_kv_kv-no2-eklinggarh-udaipur_04122023-000000-1_HI-KV-001_1.wav,थे,थे,c,37.23,37.74,th ee,th ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/vr_3-c-18_kv_kv-no2-eklinggarh-udaipur_04122023-000000-1_HI-KV-001_1.wav,वे,वे,c,37.74,38.1,w ee,w ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/vr_3-c-18_kv_kv-no2-eklinggarh-udaipur_04122023-000000-1_HI-KV-001_1.wav,मेरे,मेरे,c,38.49,39.03,m ee r ee,m ee r ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/vr_3-c-18_kv_kv-no2-eklinggarh-udaipur_04122023-000000-1_HI-KV-001_1.wav,पैरों,पैरों,c,39.03,39.54,p ee r oo q,p ee r oo q,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/vr_3-c-18_kv_kv-no2-eklinggarh-udaipur_04122023-000000-1_HI-KV-001_1.wav,में,में,c,39.57,39.75,m ee q,m ee q,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/vr_3-c-18_kv_kv-no2-eklinggarh-udaipur_04122023-000000-1_HI-KV-001_1.wav,चुभ,चुभ,c,39.75,40.05,c uu bh,c uu m,2.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/vr_3-c-18_kv_kv-no2-eklinggarh-udaipur_04122023-000000-1_HI-KV-001_1.wav,गए,गए,c,40.05,40.44,g ee,g ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/vr_3-c-18_kv_kv-no2-eklinggarh-udaipur_04122023-000000-1_HI-KV-001_1.wav,और,और,c,40.83,41.13,OO r,OO r,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/vr_3-c-18_kv_kv-no2-eklinggarh-udaipur_04122023-000000-1_HI-KV-001_1.wav,इसके,इसके,c,41.52,42.0,ii s aa k ee,ii s aa k ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/vr_3-c-18_kv_kv-no2-eklinggarh-udaipur_04122023-000000-1_HI-KV-001_1.wav,लिए,लिए,c,42.0,42.33,l ii ee,l ii ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/vr_3-c-18_kv_kv-no2-eklinggarh-udaipur_04122023-000000-1_HI-KV-001_1.wav,कुछ,कुछ,c,42.33,42.75,k uu ch,k uu ch,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/vr_3-c-18_kv_kv-no2-eklinggarh-udaipur_04122023-000000-1_HI-KV-001_1.wav,इंतजाम,इंतजार,s,43.11,43.89,ii q t aa j AA m,ii q t aa j AA r,2.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/vr_3-c-18_kv_kv-no2-eklinggarh-udaipur_04122023-000000-1_HI-KV-001_1.wav,करना,करना,c,43.89,44.37,k aa r aa n AA,k aa r aa n AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/vr_3-c-18_kv_kv-no2-eklinggarh-udaipur_04122023-000000-1_HI-KV-001_1.wav,चाहिए,चाहिए,c,44.37,44.88,c AA hh ii ee,c AA hh ii ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/hy_3-c-9_kv_kv-rdso-lucknow_04122023-000000-1_HI-KV-002_1.wav,सालों,सालों,c,0.99,2.07,s AA l oo q,s AA l oo q,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/hy_3-c-9_kv_kv-rdso-lucknow_04122023-000000-1_HI-KV-002_1.wav,पहले,पेहेले,s,2.25,2.85,p aa hh aa l ee,p aa hh aa l ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/hy_3-c-9_kv_kv-rdso-lucknow_04122023-000000-1_HI-KV-002_1.wav,एक,एक,c,2.85,3.33,ee k,ee k,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/hy_3-c-9_kv_kv-rdso-lucknow_04122023-000000-1_HI-KV-002_1.wav,घंटाघर,घंटाघर,c,3.42,4.59,gh aa q T AA gh aa r,gh aa q T AA gh aa r,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/hy_3-c-9_kv_kv-rdso-lucknow_04122023-000000-1_HI-KV-002_1.wav,में,में,c,4.59,5.13,m ee q,m ee q,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/hy_3-c-9_kv_kv-rdso-lucknow_04122023-000000-1_HI-KV-002_1.wav,टीकू,टीकू,c,5.13,6.0,T II k UU,T II q k UU,1.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/hy_3-c-9_kv_kv-rdso-lucknow_04122023-000000-1_HI-KV-002_1.wav,चिड़िया,चिड़िया,c,6.33,6.96,c ii D ii y AA,c ii D ii y AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/hy_3-c-9_kv_kv-rdso-lucknow_04122023-000000-1_HI-KV-002_1.wav,अपने,अपने,c,6.96,7.83,aa p aa n ee,aa p aa n ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/hy_3-c-9_kv_kv-rdso-lucknow_04122023-000000-1_HI-KV-002_1.wav,माता,माता,c,7.83,8.34,m AA t AA,m AA t AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/hy_3-c-9_kv_kv-rdso-lucknow_04122023-000000-1_HI-KV-002_1.wav,पिता,पिता,c,8.34,8.85,p ii t AA,p ii t AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/hy_3-c-9_kv_kv-rdso-lucknow_04122023-000000-1_HI-KV-002_1.wav,और,और,c,8.88,9.36,OO r,OO r,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/hy_3-c-9_kv_kv-rdso-lucknow_04122023-000000-1_HI-KV-002_1.wav,पांच,पांच,c,9.39,9.84,<UNK>,p AA q c,4.74051274733245
+/home/daplab/30006664/kv_allindia_dec2023/audios/hy_3-c-9_kv_kv-rdso-lucknow_04122023-000000-1_HI-KV-002_1.wav,भाइयों,भाइयों,c,9.84,10.47,bh AA ii y oo q,bh AA ii y oo q,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/hy_3-c-9_kv_kv-rdso-lucknow_04122023-000000-1_HI-KV-002_1.wav,के,के,c,11.04,11.25,k ee,k ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/hy_3-c-9_kv_kv-rdso-lucknow_04122023-000000-1_HI-KV-002_1.wav,साथ,साथ,c,11.25,11.7,s AA th,s AA th,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/hy_3-c-9_kv_kv-rdso-lucknow_04122023-000000-1_HI-KV-002_1.wav,रहती,रेहेती,s,12.03,12.57,r aa hh aa t II,r aa hh aa t II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/hy_3-c-9_kv_kv-rdso-lucknow_04122023-000000-1_HI-KV-002_1.wav,थी,थी,c,12.57,13.05,th II,th II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/hy_3-c-9_kv_kv-rdso-lucknow_04122023-000000-1_HI-KV-002_1.wav,टीकू,टीकू,c,13.5,14.13,T II k UU,T II q k UU,1.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/hy_3-c-9_kv_kv-rdso-lucknow_04122023-000000-1_HI-KV-002_1.wav,चिड़िया,चिड़िया,c,14.34,14.85,c ii D ii y AA,c ii D ii y AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/hy_3-c-9_kv_kv-rdso-lucknow_04122023-000000-1_HI-KV-002_1.wav,छोटी,छोटी,c,14.85,15.39,ch oo T II,ch oo T II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/hy_3-c-9_kv_kv-rdso-lucknow_04122023-000000-1_HI-KV-002_1.wav,सी,सी,c,15.39,15.66,s II,s II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/hy_3-c-9_kv_kv-rdso-lucknow_04122023-000000-1_HI-KV-002_1.wav,थी,थी,c,15.66,16.08,th II,th II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/hy_3-c-9_kv_kv-rdso-lucknow_04122023-000000-1_HI-KV-002_1.wav,उसके,उसके,c,16.62,17.13,uu s aa k ee,uu s aa k ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/hy_3-c-9_kv_kv-rdso-lucknow_04122023-000000-1_HI-KV-002_1.wav,पंख,पंख,c,17.13,17.61,p aa q kh,p aa q kh,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/hy_3-c-9_kv_kv-rdso-lucknow_04122023-000000-1_HI-KV-002_1.wav,मुलायम,मुलायम,c,17.61,18.27,m uu l AA y aa m,m uu l AA y aa m,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/hy_3-c-9_kv_kv-rdso-lucknow_04122023-000000-1_HI-KV-002_1.wav,थे,थे,c,18.27,18.63,th ee,th ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/hy_3-c-9_kv_kv-rdso-lucknow_04122023-000000-1_HI-KV-002_1.wav,उसकी,उसकी,c,19.11,20.13,uu s aa k II,uu s aa k II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/hy_3-c-9_kv_kv-rdso-lucknow_04122023-000000-1_HI-KV-002_1.wav,मां,मां,c,20.13,20.7,<UNK>,m AA,3.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/hy_3-c-9_kv_kv-rdso-lucknow_04122023-000000-1_HI-KV-002_1.wav,ने,ने,c,20.97,21.54,n ee,n ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/hy_3-c-9_kv_kv-rdso-lucknow_04122023-000000-1_HI-KV-002_1.wav,उसे,उसे,c,21.57,22.05,uu s ee,uu s ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/hy_3-c-9_kv_kv-rdso-lucknow_04122023-000000-1_HI-KV-002_1.wav,घंटाघर,घंटाघर,c,22.05,23.07,gh aa q T AA gh aa r,gh aa q T AA gh aa r,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/hy_3-c-9_kv_kv-rdso-lucknow_04122023-000000-1_HI-KV-002_1.wav,की,की,c,23.07,23.37,k II,k II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/hy_3-c-9_kv_kv-rdso-lucknow_04122023-000000-1_HI-KV-002_1.wav,ताल,ताल,c,23.37,23.88,t AA l,t AA l,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/hy_3-c-9_kv_kv-rdso-lucknow_04122023-000000-1_HI-KV-002_1.wav,पर,पर,c,23.88,24.33,p aa r,p aa r,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/hy_3-c-9_kv_kv-rdso-lucknow_04122023-000000-1_HI-KV-002_1.wav,चहकना,चहकना,c,24.87,25.8,c aa hh aa k aa n AA,c aa hh aa k aa n AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/hy_3-c-9_kv_kv-rdso-lucknow_04122023-000000-1_HI-KV-002_1.wav,सिखाया,सिखाया,c,25.83,26.61,s ii kh AA y AA,s ii kh AA y AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/hy_3-c-9_kv_kv-rdso-lucknow_04122023-000000-1_HI-KV-002_1.wav,था,था,c,26.61,27.15,th AA,th AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/hy_3-c-9_kv_kv-rdso-lucknow_04122023-000000-1_HI-KV-002_1.wav,घंटाघर,घंटाघर,c,27.63,28.68,gh aa q T AA gh aa r,gh aa q T AA gh aa r,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/hy_3-c-9_kv_kv-rdso-lucknow_04122023-000000-1_HI-KV-002_1.wav,के,के,c,28.68,28.92,k ee,k ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/hy_3-c-9_kv_kv-rdso-lucknow_04122023-000000-1_HI-KV-002_1.wav,पास,पास,c,28.92,29.58,p AA s,p AA s,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/hy_3-c-9_kv_kv-rdso-lucknow_04122023-000000-1_HI-KV-002_1.wav,ही,ही,c,29.88,30.12,hh II,hh II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/hy_3-c-9_kv_kv-rdso-lucknow_04122023-000000-1_HI-KV-002_1.wav,एक,एक,c,30.15,30.51,ee k,ee k,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/hy_3-c-9_kv_kv-rdso-lucknow_04122023-000000-1_HI-KV-002_1.wav,घर,घर,c,30.51,30.87,gh aa r,gh aa r,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/hy_3-c-9_kv_kv-rdso-lucknow_04122023-000000-1_HI-KV-002_1.wav,था,था,c,30.87,31.32,th AA,th AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/hy_3-c-9_kv_kv-rdso-lucknow_04122023-000000-1_HI-KV-002_1.wav,जिसमें,जिसमें,c,31.68,32.34,j ii s aa m ee q,j ii s aa m ee q,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/hy_3-c-9_kv_kv-rdso-lucknow_04122023-000000-1_HI-KV-002_1.wav,पक्षियों,पक्षियों,c,32.58,33.63,p aa k sh ii y oo q,p aa k sh ii y oo q,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/hy_3-c-9_kv_kv-rdso-lucknow_04122023-000000-1_HI-KV-002_1.wav,से,से,c,33.81,34.29,s ee,s ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/hy_3-c-9_kv_kv-rdso-lucknow_04122023-000000-1_HI-KV-002_1.wav,प्यार,प्यार,c,34.29,34.74,p y AA r,p y AA r,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/hy_3-c-9_kv_kv-rdso-lucknow_04122023-000000-1_HI-KV-002_1.wav,करने,करने,c,34.74,35.28,k aa r aa n ee,k aa r aa n ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/hy_3-c-9_kv_kv-rdso-lucknow_04122023-000000-1_HI-KV-002_1.wav,वाली,वाली,c,35.28,35.76,w AA l II,w AA l II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/hy_3-c-9_kv_kv-rdso-lucknow_04122023-000000-1_HI-KV-002_1.wav,एक,एक,c,35.76,36.03,ee k,ee k,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/hy_3-c-9_kv_kv-rdso-lucknow_04122023-000000-1_HI-KV-002_1.wav,महिला,महिला,c,36.03,36.45,m aa hh ii l AA,m aa hh ii l AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/hy_3-c-9_kv_kv-rdso-lucknow_04122023-000000-1_HI-KV-002_1.wav,रहती,रेहेती,s,36.45,36.9,r aa hh aa t II,r aa hh aa t II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/hy_3-c-9_kv_kv-rdso-lucknow_04122023-000000-1_HI-KV-002_1.wav,थी,थी,c,36.9,37.29,th II,th II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/hy_3-c-9_kv_kv-rdso-lucknow_04122023-000000-1_HI-KV-002_1.wav,वह,वह,c,37.83,38.16,w aa hh,w aa hh,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/hy_3-c-9_kv_kv-rdso-lucknow_04122023-000000-1_HI-KV-002_1.wav,टीकू,टीकू,c,38.16,38.82,T II k UU,T II q k UU,1.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/hy_3-c-9_kv_kv-rdso-lucknow_04122023-000000-1_HI-KV-002_1.wav,चिड़िया,चिड़िया,c,39.18,39.84,c ii D ii y AA,c ii D ii y AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/hy_3-c-9_kv_kv-rdso-lucknow_04122023-000000-1_HI-KV-002_1.wav,और,और,c,39.87,40.41,OO r,OO r,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/hy_3-c-9_kv_kv-rdso-lucknow_04122023-000000-1_HI-KV-002_1.wav,उसके,उसके,c,40.44,40.92,uu s aa k ee,uu s aa k ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/hy_3-c-9_kv_kv-rdso-lucknow_04122023-000000-1_HI-KV-002_1.wav,परिवार,परिवार,c,40.92,41.52,p aa r ii w AA r,p aa r ii w AA r,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/hy_3-c-9_kv_kv-rdso-lucknow_04122023-000000-1_HI-KV-002_1.wav,के,के,c,41.52,41.67,k ee,k ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/hy_3-c-9_kv_kv-rdso-lucknow_04122023-000000-1_HI-KV-002_1.wav,लिए,लिए,c,41.67,42.0,l ii ee,l ii ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/hy_3-c-9_kv_kv-rdso-lucknow_04122023-000000-1_HI-KV-002_1.wav,रोज,रोज,c,42.0,42.48,r oo j,r oo j,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/hy_3-c-9_kv_kv-rdso-lucknow_04122023-000000-1_HI-KV-002_1.wav,रोटी,रोटी,c,42.48,42.93,r oo T II,r oo T II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/hy_3-c-9_kv_kv-rdso-lucknow_04122023-000000-1_HI-KV-002_1.wav,का,का,c,42.93,43.14,k AA,k AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/hy_3-c-9_kv_kv-rdso-lucknow_04122023-000000-1_HI-KV-002_1.wav,टुकड़ा,टुकड़ा,c,43.14,43.74,T uu k aa D AA,T uu k aa D AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/hy_3-c-9_kv_kv-rdso-lucknow_04122023-000000-1_HI-KV-002_1.wav,डालती,डालती,c,44.04,44.64,D AA l aa t II,D AA l aa t II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/hy_3-c-9_kv_kv-rdso-lucknow_04122023-000000-1_HI-KV-002_1.wav,थी,थी,c,44.64,45.03,th II,th II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ds_3-c-7_kv_kv-beml-nagar-kolar_04122023-000000-1_HI-SW-PB-301_2.wav,एक,एक,c,0.99,1.38,ee k,ee k,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ds_3-c-7_kv_kv-beml-nagar-kolar_04122023-000000-1_HI-SW-PB-301_2.wav,दिन,दिन,c,1.38,1.92,d ii n,d ii n,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ds_3-c-7_kv_kv-beml-nagar-kolar_04122023-000000-1_HI-SW-PB-301_2.wav,दीदी,दीदी,c,1.92,2.67,d II d II,d II d II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ds_3-c-7_kv_kv-beml-nagar-kolar_04122023-000000-1_HI-SW-PB-301_2.wav,मीमी,मीमी,c,2.67,3.36,m II m II,m II m II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ds_3-c-7_kv_kv-beml-nagar-kolar_04122023-000000-1_HI-SW-PB-301_2.wav,के,के,c,3.36,3.66,k ee,k ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ds_3-c-7_kv_kv-beml-nagar-kolar_04122023-000000-1_HI-SW-PB-301_2.wav,स्कूल,स्कूल,c,3.66,4.35,s k UU l,s k UU l,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ds_3-c-7_kv_kv-beml-nagar-kolar_04122023-000000-1_HI-SW-PB-301_2.wav,आईं,आईं,c,4.35,5.04,AA II q,AA II q,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ds_3-c-7_kv_kv-beml-nagar-kolar_04122023-000000-1_HI-SW-PB-301_2.wav,दीदी,दीदी,c,5.25,5.97,d II d II,d II d II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ds_3-c-7_kv_kv-beml-nagar-kolar_04122023-000000-1_HI-SW-PB-301_2.wav,टीचर,टीचर,c,5.97,6.75,T II c aa r,T II c aa r,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ds_3-c-7_kv_kv-beml-nagar-kolar_04122023-000000-1_HI-SW-PB-301_2.wav,नही,नही,c,6.75,7.32,n aa hh II,n aa hh II q,1.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ds_3-c-7_kv_kv-beml-nagar-kolar_04122023-000000-1_HI-SW-PB-301_2.wav,थी,ती,s,7.35,7.8,th II,th II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ds_3-c-7_kv_kv-beml-nagar-kolar_04122023-000000-1_HI-SW-PB-301_2.wav,और,और,c,8.1,8.64,OO r,OO r,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ds_3-c-7_kv_kv-beml-nagar-kolar_04122023-000000-1_HI-SW-PB-301_2.wav,वे,वे,c,8.64,9.15,w ee,w ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ds_3-c-7_kv_kv-beml-nagar-kolar_04122023-000000-1_HI-SW-PB-301_2.wav,पढ़ती,पढ़ती,c,9.15,10.02,p aa Dh aa t II,p aa Dh aa t II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ds_3-c-7_kv_kv-beml-nagar-kolar_04122023-000000-1_HI-SW-PB-301_2.wav,भी,भी,c,10.05,10.47,bh II,bh II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ds_3-c-7_kv_kv-beml-nagar-kolar_04122023-000000-1_HI-SW-PB-301_2.wav,नही,नही,c,10.47,11.07,n aa hh II,n aa hh II q,1.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ds_3-c-7_kv_kv-beml-nagar-kolar_04122023-000000-1_HI-SW-PB-301_2.wav,थी,ती,s,11.1,11.58,th II,th II q,1.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ds_3-c-7_kv_kv-beml-nagar-kolar_04122023-000000-1_HI-SW-PB-301_2.wav,वे,वे,c,11.82,12.18,w ee,w ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ds_3-c-7_kv_kv-beml-nagar-kolar_04122023-000000-1_HI-SW-PB-301_2.wav,बच्चों,बच्चों,c,12.18,12.99,b aa c c oo q,b aa c oo q,1.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ds_3-c-7_kv_kv-beml-nagar-kolar_04122023-000000-1_HI-SW-PB-301_2.wav,से,से,c,13.05,13.44,s ee,s ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ds_3-c-7_kv_kv-beml-nagar-kolar_04122023-000000-1_HI-SW-PB-301_2.wav,तो,तो,c,13.44,13.98,t oo,t oo,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ds_3-c-7_kv_kv-beml-nagar-kolar_04122023-000000-1_HI-SW-PB-301_2.wav,बड़ी,बड़ी,c,13.98,14.61,b aa D II,b aa D II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ds_3-c-7_kv_kv-beml-nagar-kolar_04122023-000000-1_HI-SW-PB-301_2.wav,थी,ती,s,14.64,15.06,th II,th II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ds_3-c-7_kv_kv-beml-nagar-kolar_04122023-000000-1_HI-SW-PB-301_2.wav,लेकिन,लेकिन,c,15.3,16.11,l ee k ii n,l ee k ii n,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ds_3-c-7_kv_kv-beml-nagar-kolar_04122023-000000-1_HI-SW-PB-301_2.wav,टीचर,टीचर,c,16.11,16.86,T II c aa r,T II c aa r,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ds_3-c-7_kv_kv-beml-nagar-kolar_04122023-000000-1_HI-SW-PB-301_2.wav,से,से,c,16.86,17.25,s ee,s ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ds_3-c-7_kv_kv-beml-nagar-kolar_04122023-000000-1_HI-SW-PB-301_2.wav,छोटी,छोटी,c,17.25,18.0,ch oo T II,ch oo T II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ds_3-c-7_kv_kv-beml-nagar-kolar_04122023-000000-1_HI-SW-PB-301_2.wav,ही,ही,c,18.0,18.3,hh II,hh II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ds_3-c-7_kv_kv-beml-nagar-kolar_04122023-000000-1_HI-SW-PB-301_2.wav,थी,ती,s,18.3,18.69,th II,th II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ds_3-c-7_kv_kv-beml-nagar-kolar_04122023-000000-1_HI-SW-PB-301_2.wav,दुबली,दुबली,c,19.11,19.89,d uu b aa l II,d uu b aa l II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ds_3-c-7_kv_kv-beml-nagar-kolar_04122023-000000-1_HI-SW-PB-301_2.wav,पतली,पतली,c,19.89,20.64,p aa t aa l II,p aa T t aa l II,1.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ds_3-c-7_kv_kv-beml-nagar-kolar_04122023-000000-1_HI-SW-PB-301_2.wav,सी,सी,c,20.64,21.39,s II,s II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ds_3-c-7_kv_kv-beml-nagar-kolar_04122023-000000-1_HI-SW-PB-301_2.wav,चमकीली,चमकीली,c,21.69,23.07,c aa m aa k II l II,c aa m aa k II l II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ds_3-c-7_kv_kv-beml-nagar-kolar_04122023-000000-1_HI-SW-PB-301_2.wav,आंखें,आंके,s,23.1,23.94,<UNK>,AA q k ee q,4.80057146119358
+/home/daplab/30006664/kv_allindia_dec2023/audios/ds_3-c-7_kv_kv-beml-nagar-kolar_04122023-000000-1_HI-SW-PB-301_2.wav,चेहरे,छेहरे,s,23.94,24.72,c ee hh aa r ee,c ee hh aa r ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ds_3-c-7_kv_kv-beml-nagar-kolar_04122023-000000-1_HI-SW-PB-301_2.wav,पर,पर,c,24.72,25.32,p aa r,p aa r,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ds_3-c-7_kv_kv-beml-nagar-kolar_04122023-000000-1_HI-SW-PB-301_2.wav,हल्की,हल्की,c,25.53,26.31,hh aa l k II,hh aa l k II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ds_3-c-7_kv_kv-beml-nagar-kolar_04122023-000000-1_HI-SW-PB-301_2.wav,सी,सी,c,26.31,26.85,s II,s II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ds_3-c-7_kv_kv-beml-nagar-kolar_04122023-000000-1_HI-SW-PB-301_2.wav,मुस्कान,मुस्कान,c,27.75,28.83,m uu s k AA n,m uu s k AA n,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ds_3-c-7_kv_kv-beml-nagar-kolar_04122023-000000-1_HI-SW-PB-301_2.wav,दीदी,दादी,s,28.83,29.64,d II d II,d AA d II,2.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ds_3-c-7_kv_kv-beml-nagar-kolar_04122023-000000-1_HI-SW-PB-301_2.wav,रोज़,रोज़,c,29.64,30.15,r oo j,r oo j,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ds_3-c-7_kv_kv-beml-nagar-kolar_04122023-000000-1_HI-SW-PB-301_2.wav,स्कूल,स्कूल,c,30.36,30.9,s k UU l,k UU l,1.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ds_3-c-7_kv_kv-beml-nagar-kolar_04122023-000000-1_HI-SW-PB-301_2.wav,आने,आने,c,30.96,31.68,AA n ee,AA n ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ds_3-c-7_kv_kv-beml-nagar-kolar_04122023-000000-1_HI-SW-PB-301_2.wav,लगी,लगी,c,31.68,32.34,l aa g II,l aa g II q,1.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ds_3-c-7_kv_kv-beml-nagar-kolar_04122023-000000-1_HI-SW-PB-301_2.wav,और,और,c,32.37,32.88,OO r,OO r,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ds_3-c-7_kv_kv-beml-nagar-kolar_04122023-000000-1_HI-SW-PB-301_2.wav,बच्चों,बच्चों,c,32.88,33.87,b aa c c oo q,b aa c oo q r,2.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ds_3-c-7_kv_kv-beml-nagar-kolar_04122023-000000-1_HI-SW-PB-301_2.wav,की,की,c,33.99,34.47,k II,k II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ds_3-c-7_kv_kv-beml-nagar-kolar_04122023-000000-1_HI-SW-PB-301_2.wav,दोस्त,दोस्त,c,34.77,35.37,d oo s t,d oo s t,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ds_3-c-7_kv_kv-beml-nagar-kolar_04122023-000000-1_HI-SW-PB-301_2.wav,बन,बन,c,35.37,35.76,b aa n,b aa n,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ds_3-c-7_kv_kv-beml-nagar-kolar_04122023-000000-1_HI-SW-PB-301_2.wav,गईं,कर,s,35.76,36.21,g II q,k aa r,6.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ds_3-c-7_kv_kv-beml-nagar-kolar_04122023-000000-1_HI-SW-PB-301_2.wav,और,और,c,36.21,36.63,OO r,OO r,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ds_3-c-7_kv_kv-beml-nagar-kolar_04122023-000000-1_HI-SW-PB-301_2.wav,टीचर,टीचर,c,36.66,37.41,T II c aa r,T II c aa r,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ds_3-c-7_kv_kv-beml-nagar-kolar_04122023-000000-1_HI-SW-PB-301_2.wav,की,की,c,37.41,37.71,k II,k II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ds_3-c-7_kv_kv-beml-nagar-kolar_04122023-000000-1_HI-SW-PB-301_2.wav,भी,बी,s,37.74,38.19,bh II,b II,2.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/dh_3-a-24_kv_kv-malkapuram_04122023-000000-1_HI-KV-001_1.wav,एक,<eps>,d,,,ee k,,
+/home/daplab/30006664/kv_allindia_dec2023/audios/dh_3-a-24_kv_kv-malkapuram_04122023-000000-1_HI-KV-001_1.wav,राजा,र,s,0.99,1.11,r AA j AA,j aa,4.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/dh_3-a-24_kv_kv-malkapuram_04122023-000000-1_HI-KV-001_1.wav,था,था,c,1.2,1.44,th AA,th AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/dh_3-a-24_kv_kv-malkapuram_04122023-000000-1_HI-KV-001_1.wav,उसका,उसका,c,1.44,1.92,uu s aa k AA,uu s aa k AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/dh_3-a-24_kv_kv-malkapuram_04122023-000000-1_HI-KV-001_1.wav,एक,एक,c,1.92,2.16,ee k,ee k,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/dh_3-a-24_kv_kv-malkapuram_04122023-000000-1_HI-KV-001_1.wav,बडा,बडा,c,2.16,2.67,b aa D AA,b aa D AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/dh_3-a-24_kv_kv-malkapuram_04122023-000000-1_HI-KV-001_1.wav,सा,सा,c,2.67,2.97,s AA,s AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/dh_3-a-24_kv_kv-malkapuram_04122023-000000-1_HI-KV-001_1.wav,राज्य,राज्य,c,2.97,3.48,r AA j y,r AA j y,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/dh_3-a-24_kv_kv-malkapuram_04122023-000000-1_HI-KV-001_1.wav,था,था,c,3.48,3.78,th AA,th AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/dh_3-a-24_kv_kv-malkapuram_04122023-000000-1_HI-KV-001_1.wav,एक,एक,c,7.56,7.95,ee k,ee k,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/dh_3-a-24_kv_kv-malkapuram_04122023-000000-1_HI-KV-001_1.wav,दिन,दिन,c,7.95,8.4,d ii n,d ii n,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/dh_3-a-24_kv_kv-malkapuram_04122023-000000-1_HI-KV-001_1.wav,उसे,उसे,c,9.36,9.84,uu s ee,uu s ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/dh_3-a-24_kv_kv-malkapuram_04122023-000000-1_HI-KV-001_1.wav,देश,देश,c,10.05,10.59,d ee sh,d ee sh,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/dh_3-a-24_kv_kv-malkapuram_04122023-000000-1_HI-KV-001_1.wav,घूमने,घूमने,c,10.59,11.16,gh UU m aa n ee,gh UU m aa n ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/dh_3-a-24_kv_kv-malkapuram_04122023-000000-1_HI-KV-001_1.wav,का,का,c,11.16,11.52,k AA,k AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/dh_3-a-24_kv_kv-malkapuram_04122023-000000-1_HI-KV-001_1.wav,विचार,विचार,c,11.67,12.21,w ii c AA r,w ii c AA r,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/dh_3-a-24_kv_kv-malkapuram_04122023-000000-1_HI-KV-001_1.wav,आया,आया,c,12.21,12.78,AA y AA,AA y AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/dh_3-a-24_kv_kv-malkapuram_04122023-000000-1_HI-KV-001_1.wav,और,और,c,13.05,13.44,OO r,OO r,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/dh_3-a-24_kv_kv-malkapuram_04122023-000000-1_HI-KV-001_1.wav,उसने,उसने,c,13.62,14.25,uu s aa n ee,uu s aa n ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/dh_3-a-24_kv_kv-malkapuram_04122023-000000-1_HI-KV-001_1.wav,देश,देश,c,14.46,14.94,d ee sh,d ee sh,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/dh_3-a-24_kv_kv-malkapuram_04122023-000000-1_HI-KV-001_1.wav,भ्रमन,भ्रमन,c,15.21,16.02,<UNK>,b r aa m aa N,7.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/dh_3-a-24_kv_kv-malkapuram_04122023-000000-1_HI-KV-001_1.wav,की,की,c,16.41,16.77,k II,k ii,2.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/dh_3-a-24_kv_kv-malkapuram_04122023-000000-1_HI-KV-001_1.wav,योजना,योजना,c,16.98,17.7,y oo j aa n AA,y oo j aa n AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/dh_3-a-24_kv_kv-malkapuram_04122023-000000-1_HI-KV-001_1.wav,बनाई,बनाई,c,17.7,18.42,b aa n AA II,b aa n AA II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/dh_3-a-24_kv_kv-malkapuram_04122023-000000-1_HI-KV-001_1.wav,और,और,c,18.45,18.81,OO r,OO r,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/dh_3-a-24_kv_kv-malkapuram_04122023-000000-1_HI-KV-001_1.wav,घूमने,घूमने,c,18.81,19.35,gh UU m aa n ee,gh UU m aa n ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/dh_3-a-24_kv_kv-malkapuram_04122023-000000-1_HI-KV-001_1.wav,निकल,निकल,c,19.35,20.01,n ii k aa l,n ii k aa l,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/dh_3-a-24_kv_kv-malkapuram_04122023-000000-1_HI-KV-001_1.wav,पडा,पडा,c,20.01,20.55,<UNK>,p aa D AA,4.74172893616739
+/home/daplab/30006664/kv_allindia_dec2023/audios/dh_3-a-24_kv_kv-malkapuram_04122023-000000-1_HI-KV-001_1.wav,जब,जब,c,20.94,21.36,j aa b,j aa b,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/dh_3-a-24_kv_kv-malkapuram_04122023-000000-1_HI-KV-001_1.wav,वह,वह,c,21.36,21.75,w aa hh,w aa hh,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/dh_3-a-24_kv_kv-malkapuram_04122023-000000-1_HI-KV-001_1.wav,यात्रा,यात्रा,c,21.75,22.38,y AA t r AA,y AA t r AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/dh_3-a-24_kv_kv-malkapuram_04122023-000000-1_HI-KV-001_1.wav,से,से,c,22.38,22.65,s ee,s ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/dh_3-a-24_kv_kv-malkapuram_04122023-000000-1_HI-KV-001_1.wav,लौट,लौट,c,22.65,23.16,l OO T,l OO T,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/dh_3-a-24_kv_kv-malkapuram_04122023-000000-1_HI-KV-001_1.wav,कर,कर,c,23.43,23.79,k aa r,k aa r,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/dh_3-a-24_kv_kv-malkapuram_04122023-000000-1_HI-KV-001_1.wav,अपने,अपने,c,23.82,24.33,aa p aa n ee,aa p aa n ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/dh_3-a-24_kv_kv-malkapuram_04122023-000000-1_HI-KV-001_1.wav,महल,महल,c,24.33,24.84,m aa hh aa l,m aa hh aa l,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/dh_3-a-24_kv_kv-malkapuram_04122023-000000-1_HI-KV-001_1.wav,आया,आया,c,24.84,25.32,AA y AA,AA y AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/dh_3-a-24_kv_kv-malkapuram_04122023-000000-1_HI-KV-001_1.wav,उसने,उसने,c,25.32,25.95,uu s aa n ee,uu s aa n ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/dh_3-a-24_kv_kv-malkapuram_04122023-000000-1_HI-KV-001_1.wav,अपने,अपने,c,26.19,26.64,aa p aa n ee,aa p aa n ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/dh_3-a-24_kv_kv-malkapuram_04122023-000000-1_HI-KV-001_1.wav,मंत्रियों,मंत्रियों,c,26.64,27.36,m aa q t r ii y oo q,m aa q t r ii y oo q,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/dh_3-a-24_kv_kv-malkapuram_04122023-000000-1_HI-KV-001_1.wav,से,से,c,27.36,27.75,s ee,s ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/dh_3-a-24_kv_kv-malkapuram_04122023-000000-1_HI-KV-001_1.wav,पैरों,पैरों,c,27.75,28.38,p ee r oo q,p ee r oo q,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/dh_3-a-24_kv_kv-malkapuram_04122023-000000-1_HI-KV-001_1.wav,में,में,c,28.38,28.71,m ee q,m ee q,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/dh_3-a-24_kv_kv-malkapuram_04122023-000000-1_HI-KV-001_1.wav,दर्द,दर्द,c,29.1,29.61,d aa r d,d aa r d,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/dh_3-a-24_kv_kv-malkapuram_04122023-000000-1_HI-KV-001_1.wav,होने,होने,c,29.61,30.21,hh oo n ee,hh oo n ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/dh_3-a-24_kv_kv-malkapuram_04122023-000000-1_HI-KV-001_1.wav,की,की,c,30.21,30.51,k II,k II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/dh_3-a-24_kv_kv-malkapuram_04122023-000000-1_HI-KV-001_1.wav,शिकायत,शिकायत,c,30.66,31.47,sh ii k AA y aa t,sh ii k AA y aa t,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/dh_3-a-24_kv_kv-malkapuram_04122023-000000-1_HI-KV-001_1.wav,की,की,c,31.5,31.89,k II,k ee,2.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/dh_3-a-24_kv_kv-malkapuram_04122023-000000-1_HI-KV-001_1.wav,राजा,राजा,c,33.66,34.17,r AA j AA,r AA j AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/dh_3-a-24_kv_kv-malkapuram_04122023-000000-1_HI-KV-001_1.wav,का,का,c,34.17,34.41,k AA,k AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/dh_3-a-24_kv_kv-malkapuram_04122023-000000-1_HI-KV-001_1.wav,कहना,कहना,c,34.41,35.07,k aa hh aa n AA,k aa hh aa n AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/dh_3-a-24_kv_kv-malkapuram_04122023-000000-1_HI-KV-001_1.wav,था,था,c,35.52,35.91,th AA,th AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/dh_3-a-24_kv_kv-malkapuram_04122023-000000-1_HI-KV-001_1.wav,कि,कि,c,35.91,36.3,k ii,k ii,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/dh_3-a-24_kv_kv-malkapuram_04122023-000000-1_HI-KV-001_1.wav,मार्ग,मार्ग,c,36.63,37.26,m AA r g,m AA r g,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/dh_3-a-24_kv_kv-malkapuram_04122023-000000-1_HI-KV-001_1.wav,में,में,c,37.26,37.68,m ee q,m ee q,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/dh_3-a-24_kv_kv-malkapuram_04122023-000000-1_HI-KV-001_1.wav,जो,जो,c,38.07,38.55,j oo,j oo,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/dh_3-a-24_kv_kv-malkapuram_04122023-000000-1_HI-KV-001_1.wav,कंकड,कंकड,c,39.15,39.81,<UNK>,k aa q k aa D,5.80136789320264
+/home/daplab/30006664/kv_allindia_dec2023/audios/dh_3-a-24_kv_kv-malkapuram_04122023-000000-1_HI-KV-001_1.wav,पत्थर,पत्थर,c,40.14,40.86,p aa t th aa r,p aa t th aa r,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/dh_3-a-24_kv_kv-malkapuram_04122023-000000-1_HI-KV-001_1.wav,थे,थे,c,42.69,43.05,th ee,th ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/dh_3-a-24_kv_kv-malkapuram_04122023-000000-1_HI-KV-001_1.wav,वे,वे,c,43.29,43.68,w ee,w ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/dh_3-a-24_kv_kv-malkapuram_04122023-000000-1_HI-KV-001_1.wav,मेरे,मेरे,c,43.68,44.25,m ee r ee,m ee r ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/dh_3-a-24_kv_kv-malkapuram_04122023-000000-1_HI-KV-001_1.wav,पैरों,पैरों,c,44.25,44.88,p ee r oo q,p ee r oo q,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/dh_3-a-24_kv_kv-malkapuram_04122023-000000-1_HI-KV-001_1.wav,में,में,c,44.88,45.21,m ee q,m ee q,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/dh_3-a-24_kv_kv-malkapuram_04122023-000000-1_HI-KV-001_1.wav,चुभ,चुभ,c,45.45,45.72,c uu bh,c uu bh,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/dh_3-a-24_kv_kv-malkapuram_04122023-000000-1_HI-KV-001_1.wav,गए,गए,c,45.72,46.17,g ee,g ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/dh_3-a-24_kv_kv-malkapuram_04122023-000000-1_HI-KV-001_1.wav,और,और,c,46.17,46.59,OO r,OO r,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/dh_3-a-24_kv_kv-malkapuram_04122023-000000-1_HI-KV-001_1.wav,इसके,इसके,c,47.01,47.7,ii s aa k ee,ii s aa k ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/dh_3-a-24_kv_kv-malkapuram_04122023-000000-1_HI-KV-001_1.wav,लिए,लिए,c,47.7,48.27,l ii ee,l ii ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/dh_3-a-24_kv_kv-malkapuram_04122023-000000-1_HI-KV-001_1.wav,कुछ,कुछ,c,48.45,48.87,k uu ch,k uu ch,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/dh_3-a-24_kv_kv-malkapuram_04122023-000000-1_HI-KV-001_1.wav,इंतजाम,इंतजाम,c,48.93,49.83,ii q t aa j AA m,ii q t aa j AA m,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/dh_3-a-24_kv_kv-malkapuram_04122023-000000-1_HI-KV-001_1.wav,करना,करना,c,49.83,50.31,k aa r aa n AA,k aa r aa n AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/dh_3-a-24_kv_kv-malkapuram_04122023-000000-1_HI-KV-001_1.wav,चाहिए,चाहिए,c,50.31,51.06,c AA hh ii ee,c AA hh ii ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ay_3-c-6_kv_kv-afs-bareilly_04122023-000000-1_HI-KV-001_2.wav,कुछ,कुछ,c,0.99,1.29,k uu ch,k uu ch,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ay_3-c-6_kv_kv-afs-bareilly_04122023-000000-1_HI-KV-001_2.wav,देर,देर,c,1.29,1.59,d ee r,d ee r,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ay_3-c-6_kv_kv-afs-bareilly_04122023-000000-1_HI-KV-001_2.wav,विचार,विचार,c,1.59,2.13,w ii c AA r,w ii c AA r,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ay_3-c-6_kv_kv-afs-bareilly_04122023-000000-1_HI-KV-001_2.wav,करने,करने,c,2.13,2.58,k aa r aa n ee,k aa r aa n ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ay_3-c-6_kv_kv-afs-bareilly_04122023-000000-1_HI-KV-001_2.wav,के,के,c,2.58,2.88,k ee,k ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ay_3-c-6_kv_kv-afs-bareilly_04122023-000000-1_HI-KV-001_2.wav,बाद,बाद,c,2.88,3.27,b AA d,b AA d,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ay_3-c-6_kv_kv-afs-bareilly_04122023-000000-1_HI-KV-001_2.wav,उसने,उसने,c,3.3,3.9,uu s aa n ee,uu s aa n ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ay_3-c-6_kv_kv-afs-bareilly_04122023-000000-1_HI-KV-001_2.wav,अपने,अपने,c,4.23,4.86,aa p aa n ee,aa p aa n ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ay_3-c-6_kv_kv-afs-bareilly_04122023-000000-1_HI-KV-001_2.wav,सैनिकों,सैनिक_में,s,5.64,6.75,s ee n ii k oo q,s ee n ii k m ee q,2.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ay_3-c-6_kv_kv-afs-bareilly_04122023-000000-1_HI-KV-001_2.wav,व,<eps>,d,,,w,,4.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ay_3-c-6_kv_kv-afs-bareilly_04122023-000000-1_HI-KV-001_2.wav,मंत्रियों,मंत्रियों,c,7.11,8.01,m aa q t r ii y oo q,m aa q t r ii y oo q,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ay_3-c-6_kv_kv-afs-bareilly_04122023-000000-1_HI-KV-001_2.wav,को,को,c,8.46,8.82,k oo,k oo,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ay_3-c-6_kv_kv-afs-bareilly_04122023-000000-1_HI-KV-001_2.wav,आदेश,आदेश,c,8.85,9.57,AA d ee sh,AA d ee sh,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ay_3-c-6_kv_kv-afs-bareilly_04122023-000000-1_HI-KV-001_2.wav,दिया,दिया,c,10.08,10.62,d ii y AA,d ii y AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ay_3-c-6_kv_kv-afs-bareilly_04122023-000000-1_HI-KV-001_2.wav,कि,कि,c,10.65,10.95,k ii,k ii,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ay_3-c-6_kv_kv-afs-bareilly_04122023-000000-1_HI-KV-001_2.wav,देश,देस,s,10.95,11.46,d ee sh,d ee sh,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ay_3-c-6_kv_kv-afs-bareilly_04122023-000000-1_HI-KV-001_2.wav,की,की,c,11.46,11.91,k II,k II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ay_3-c-6_kv_kv-afs-bareilly_04122023-000000-1_HI-KV-001_2.wav,संपूर्न,संपूर्न,c,13.26,14.07,<UNK>,s aa q p UU r N,7.74172893616739
+/home/daplab/30006664/kv_allindia_dec2023/audios/ay_3-c-6_kv_kv-afs-bareilly_04122023-000000-1_HI-KV-001_2.wav,सडकें,सडकें,c,14.52,15.84,s aa D aa k ee q,s aa D aa k ee q,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ay_3-c-6_kv_kv-afs-bareilly_04122023-000000-1_HI-KV-001_2.wav,चमडे,चमडे,c,17.25,17.88,c aa m aa D ee,c aa m aa D ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ay_3-c-6_kv_kv-afs-bareilly_04122023-000000-1_HI-KV-001_2.wav,से,से,c,18.18,18.54,s ee,s ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ay_3-c-6_kv_kv-afs-bareilly_04122023-000000-1_HI-KV-001_2.wav,ढक,ढक,c,19.62,20.22,Dh aa k,Dh aa k,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ay_3-c-6_kv_kv-afs-bareilly_04122023-000000-1_HI-KV-001_2.wav,दी,दी,c,20.7,21.09,d II,d II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ay_3-c-6_kv_kv-afs-bareilly_04122023-000000-1_HI-KV-001_2.wav,जाएं,जाएं,c,21.09,21.51,j AA ee q,j AA ee q,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ay_3-c-6_kv_kv-afs-bareilly_04122023-000000-1_HI-KV-001_2.wav,राजा,राजा,c,21.51,22.02,r AA j AA,r AA j AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ay_3-c-6_kv_kv-afs-bareilly_04122023-000000-1_HI-KV-001_2.wav,का,के,s,22.02,22.35,k AA,k ee,2.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ay_3-c-6_kv_kv-afs-bareilly_04122023-000000-1_HI-KV-001_2.wav,ऐसा,ऐसा,c,22.35,22.98,ee s AA,ee s AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ay_3-c-6_kv_kv-afs-bareilly_04122023-000000-1_HI-KV-001_2.wav,आदेश,आदेश,c,24.48,25.17,AA d ee sh,AA d ee sh,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ay_3-c-6_kv_kv-afs-bareilly_04122023-000000-1_HI-KV-001_2.wav,सुनकर,शुनकर,s,25.17,25.83,s uu n aa k aa r,s uu n aa k aa r,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ay_3-c-6_kv_kv-afs-bareilly_04122023-000000-1_HI-KV-001_2.wav,सब,सब,c,26.22,26.58,s aa b,s aa b,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ay_3-c-6_kv_kv-afs-bareilly_04122023-000000-1_HI-KV-001_2.wav,सकते,सकते,c,26.58,27.3,s aa k aa t ee,s aa k aa t ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ay_3-c-6_kv_kv-afs-bareilly_04122023-000000-1_HI-KV-001_2.wav,में,में,c,27.75,28.17,m ee q,m ee q,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ay_3-c-6_kv_kv-afs-bareilly_04122023-000000-1_HI-KV-001_2.wav,आ,आ,c,28.89,29.25,AA,AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ay_3-c-6_kv_kv-afs-bareilly_04122023-000000-1_HI-KV-001_2.wav,गए,गए,c,29.28,29.7,g ee,g ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ay_3-c-6_kv_kv-afs-bareilly_04122023-000000-1_HI-KV-001_2.wav,लेकिन,लेकिन,c,29.94,30.54,l ee k ii n,l ee k ii n,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ay_3-c-6_kv_kv-afs-bareilly_04122023-000000-1_HI-KV-001_2.wav,किसी,किसी,c,30.54,31.02,k ii s II,k ii s II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ay_3-c-6_kv_kv-afs-bareilly_04122023-000000-1_HI-KV-001_2.wav,ने,ने,c,31.02,31.32,n ee,n ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ay_3-c-6_kv_kv-afs-bareilly_04122023-000000-1_HI-KV-001_2.wav,भी,भी,c,31.32,31.59,bh II,bh II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ay_3-c-6_kv_kv-afs-bareilly_04122023-000000-1_HI-KV-001_2.wav,मना,मना,c,31.59,32.04,m aa n AA,m aa n AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ay_3-c-6_kv_kv-afs-bareilly_04122023-000000-1_HI-KV-001_2.wav,करने,करने,c,32.46,33.06,k aa r aa n ee,k aa r aa n ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ay_3-c-6_kv_kv-afs-bareilly_04122023-000000-1_HI-KV-001_2.wav,की,की,c,33.36,33.87,k II,k,1.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ay_3-c-6_kv_kv-afs-bareilly_04122023-000000-1_HI-KV-001_2.wav,हिम्मत,हिम्मत,c,34.17,34.71,hh ii m m aa t,hh ii m aa t,1.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ay_3-c-6_kv_kv-afs-bareilly_04122023-000000-1_HI-KV-001_2.wav,नही,नही,c,34.71,35.13,n aa hh II,n aa hh II q,1.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ay_3-c-6_kv_kv-afs-bareilly_04122023-000000-1_HI-KV-001_2.wav,दिखाई,दिखाई,c,35.13,35.64,d ii kh AA II,d ii kh AA II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ay_3-c-6_kv_kv-afs-bareilly_04122023-000000-1_HI-KV-001_2.wav,यह,यह,c,35.64,36.09,y aa hh,y aa hh,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ay_3-c-6_kv_kv-afs-bareilly_04122023-000000-1_HI-KV-001_2.wav,तो,तो,c,36.42,36.78,t oo,t oo,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ay_3-c-6_kv_kv-afs-bareilly_04122023-000000-1_HI-KV-001_2.wav,निश्चित,निछत,s,38.19,39.09,n ii sh c ii t,n ii sh c ii t,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ay_3-c-6_kv_kv-afs-bareilly_04122023-000000-1_HI-KV-001_2.wav,ही,ही,c,39.51,39.84,hh II,hh II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ay_3-c-6_kv_kv-afs-bareilly_04122023-000000-1_HI-KV-001_2.wav,था,था,c,39.84,40.41,th AA,th AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ay_3-c-6_kv_kv-afs-bareilly_04122023-000000-1_HI-KV-001_2.wav,कि,कि,c,40.56,40.86,k ii,k ii,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ay_3-c-6_kv_kv-afs-bareilly_04122023-000000-1_HI-KV-001_2.wav,इस,इस,c,40.92,41.22,ii s,ii s,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ay_3-c-6_kv_kv-afs-bareilly_04122023-000000-1_HI-KV-001_2.wav,काम,काम,c,41.22,41.67,k AA m,k AA m,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ay_3-c-6_kv_kv-afs-bareilly_04122023-000000-1_HI-KV-001_2.wav,के,के,c,41.67,41.91,k ee,k ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ay_3-c-6_kv_kv-afs-bareilly_04122023-000000-1_HI-KV-001_2.wav,लिए,लिए,c,41.91,42.27,l ii ee,l ii ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ay_3-c-6_kv_kv-afs-bareilly_04122023-000000-1_HI-KV-001_2.wav,बहुत,बहुत,c,42.3,42.72,b aa hh uu t,b aa hh uu,1.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ay_3-c-6_kv_kv-afs-bareilly_04122023-000000-1_HI-KV-001_2.wav,सारे,सारे,c,43.17,43.86,s AA r ee,s AA r ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ay_3-c-6_kv_kv-afs-bareilly_04122023-000000-1_HI-KV-001_2.wav,रुपए,रुपए,c,44.04,44.55,r uu p ee,r uu p ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ay_3-c-6_kv_kv-afs-bareilly_04122023-000000-1_HI-KV-001_2.wav,की,की,c,44.55,44.85,k II,k ii,2.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ay_3-c-6_kv_kv-afs-bareilly_04122023-000000-1_HI-KV-001_2.wav,जरूरत,जरूरत,c,44.85,45.51,j aa r UU r aa t,j aa r UU r aa t,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ay_3-c-6_kv_kv-afs-bareilly_04122023-000000-1_HI-KV-001_2.wav,थी,थी,c,45.51,45.81,th II,th II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ay_3-c-6_kv_kv-afs-bareilly_04122023-000000-1_HI-KV-001_2.wav,लेकिन,लेकिन,c,45.81,46.41,l ee k ii n,l ee k ii n,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ay_3-c-6_kv_kv-afs-bareilly_04122023-000000-1_HI-KV-001_2.wav,फिर,फिर,c,46.41,46.68,ph ii r,ph ii r,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ay_3-c-6_kv_kv-afs-bareilly_04122023-000000-1_HI-KV-001_2.wav,भी,भी,c,46.68,46.98,bh II,bh II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ay_3-c-6_kv_kv-afs-bareilly_04122023-000000-1_HI-KV-001_2.wav,किसी,किसी,c,47.4,47.88,k ii s II,k ii s II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ay_3-c-6_kv_kv-afs-bareilly_04122023-000000-1_HI-KV-001_2.wav,ने,ने,c,47.88,48.3,n ee,n ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ay_3-c-6_kv_kv-afs-bareilly_04122023-000000-1_HI-KV-001_2.wav,कुछ,कुछ,c,48.66,48.96,k uu ch,k uu ch,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ay_3-c-6_kv_kv-afs-bareilly_04122023-000000-1_HI-KV-001_2.wav,नही,नही,c,48.96,49.26,n aa hh II,n aa hh II q,1.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ay_3-c-6_kv_kv-afs-bareilly_04122023-000000-1_HI-KV-001_2.wav,कहा,कहा,c,49.26,49.68,k aa hh AA,k aa hh AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/au_3-a-4_kv_kv-no3-bhopal_04122023-000000-1_HI-KV-002_1.wav,सालों,सालों,c,0.39,1.77,s AA l oo q,s AA l oo q,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/au_3-a-4_kv_kv-no3-bhopal_04122023-000000-1_HI-KV-002_1.wav,पहले,पहले,c,1.8,2.28,p aa hh aa l ee,p aa hh aa l ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/au_3-a-4_kv_kv-no3-bhopal_04122023-000000-1_HI-KV-002_1.wav,एक,एक,c,2.28,2.61,ee k,ee k,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/au_3-a-4_kv_kv-no3-bhopal_04122023-000000-1_HI-KV-002_1.wav,घंटाघर,घर,s,3.54,3.69,gh aa q T AA gh aa r,,6.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/au_3-a-4_kv_kv-no3-bhopal_04122023-000000-1_HI-KV-002_1.wav,में,में,c,4.32,4.62,m ee q,m ee q,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/au_3-a-4_kv_kv-no3-bhopal_04122023-000000-1_HI-KV-002_1.wav,टीकू,टीकू,c,5.85,6.75,T II k UU,T II k UU,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/au_3-a-4_kv_kv-no3-bhopal_04122023-000000-1_HI-KV-002_1.wav,चिड़िया,चिड़िया,c,6.75,7.38,c ii D ii y AA,c ii D ii y AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/au_3-a-4_kv_kv-no3-bhopal_04122023-000000-1_HI-KV-002_1.wav,अपने,अपने,c,7.38,7.95,aa p aa n ee,aa p aa n ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/au_3-a-4_kv_kv-no3-bhopal_04122023-000000-1_HI-KV-002_1.wav,माता,माता,c,8.25,8.7,m AA t AA,m AA t AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/au_3-a-4_kv_kv-no3-bhopal_04122023-000000-1_HI-KV-002_1.wav,पिता,पिता,c,8.7,9.39,p ii t AA,p ii t AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/au_3-a-4_kv_kv-no3-bhopal_04122023-000000-1_HI-KV-002_1.wav,और,और,c,9.66,10.08,OO r,OO r,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/au_3-a-4_kv_kv-no3-bhopal_04122023-000000-1_HI-KV-002_1.wav,पांच,पांच,c,10.47,10.92,<UNK>,p AA q c,4.74464614119166
+/home/daplab/30006664/kv_allindia_dec2023/audios/au_3-a-4_kv_kv-no3-bhopal_04122023-000000-1_HI-KV-002_1.wav,भाइयों,भाइयों,c,10.92,11.52,bh AA ii y oo q,bh AA ii y oo q,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/au_3-a-4_kv_kv-no3-bhopal_04122023-000000-1_HI-KV-002_1.wav,के,के,c,12.03,12.33,k ee,k ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/au_3-a-4_kv_kv-no3-bhopal_04122023-000000-1_HI-KV-002_1.wav,साथ,साथ,c,12.33,12.87,s AA th,s AA th,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/au_3-a-4_kv_kv-no3-bhopal_04122023-000000-1_HI-KV-002_1.wav,रहती,रहती,c,13.17,13.71,r aa hh aa t II,r aa hh aa t II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/au_3-a-4_kv_kv-no3-bhopal_04122023-000000-1_HI-KV-002_1.wav,थी,थी,c,13.71,14.07,th II,th II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/au_3-a-4_kv_kv-no3-bhopal_04122023-000000-1_HI-KV-002_1.wav,टीकू,टीकू,c,14.49,15.06,T II k UU,T II q k UU,1.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/au_3-a-4_kv_kv-no3-bhopal_04122023-000000-1_HI-KV-002_1.wav,चिड़िया,चिड़िया,c,15.06,15.63,c ii D ii y AA,c ii D ii y AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/au_3-a-4_kv_kv-no3-bhopal_04122023-000000-1_HI-KV-002_1.wav,छोटी,छोटे,s,15.63,16.35,ch oo T II,ch oo T ee,2.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/au_3-a-4_kv_kv-no3-bhopal_04122023-000000-1_HI-KV-002_1.wav,सी,सी,c,16.56,17.16,s II,s II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/au_3-a-4_kv_kv-no3-bhopal_04122023-000000-1_HI-KV-002_1.wav,थी,थी,c,17.46,17.85,th II,th II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/au_3-a-4_kv_kv-no3-bhopal_04122023-000000-1_HI-KV-002_1.wav,उसके,उसके,c,18.45,19.08,uu s aa k ee,uu s aa k ee,2.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/au_3-a-4_kv_kv-no3-bhopal_04122023-000000-1_HI-KV-002_1.wav,पंख,पंख,c,19.08,19.59,p aa q kh,p aa q kh,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/au_3-a-4_kv_kv-no3-bhopal_04122023-000000-1_HI-KV-002_1.wav,मुलायम,मुलायम,c,19.59,20.4,m uu l AA y aa m,m uu l AA y aa m,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/au_3-a-4_kv_kv-no3-bhopal_04122023-000000-1_HI-KV-002_1.wav,थे,थे,c,20.55,20.91,th ee,th ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/au_3-a-4_kv_kv-no3-bhopal_04122023-000000-1_HI-KV-002_1.wav,उसकी,उसके,s,21.21,21.81,uu s aa k II,uu s aa k ee,2.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/au_3-a-4_kv_kv-no3-bhopal_04122023-000000-1_HI-KV-002_1.wav,मां,<eps>,d,,,<UNK>,,
+/home/daplab/30006664/kv_allindia_dec2023/audios/au_3-a-4_kv_kv-no3-bhopal_04122023-000000-1_HI-KV-002_1.wav,ने,<eps>,d,,,n ee,,
+/home/daplab/30006664/kv_allindia_dec2023/audios/au_3-a-4_kv_kv-no3-bhopal_04122023-000000-1_HI-KV-002_1.wav,उसे,<eps>,d,,,uu s ee,,
+/home/daplab/30006664/kv_allindia_dec2023/audios/au_3-a-4_kv_kv-no3-bhopal_04122023-000000-1_HI-KV-002_1.wav,घंटाघर,<eps>,d,,,gh aa q T AA gh aa r,,
+/home/daplab/30006664/kv_allindia_dec2023/audios/au_3-a-4_kv_kv-no3-bhopal_04122023-000000-1_HI-KV-002_1.wav,की,<eps>,d,,,k II,,
+/home/daplab/30006664/kv_allindia_dec2023/audios/au_3-a-4_kv_kv-no3-bhopal_04122023-000000-1_HI-KV-002_1.wav,ताल,<eps>,d,,,t AA l,,
+/home/daplab/30006664/kv_allindia_dec2023/audios/au_3-a-4_kv_kv-no3-bhopal_04122023-000000-1_HI-KV-002_1.wav,पर,<eps>,d,,,p aa r,,
+/home/daplab/30006664/kv_allindia_dec2023/audios/au_3-a-4_kv_kv-no3-bhopal_04122023-000000-1_HI-KV-002_1.wav,चहकना,<eps>,d,,,c aa hh aa k aa n AA,,
+/home/daplab/30006664/kv_allindia_dec2023/audios/au_3-a-4_kv_kv-no3-bhopal_04122023-000000-1_HI-KV-002_1.wav,सिखाया,<eps>,d,,,s ii kh AA y AA,,
+/home/daplab/30006664/kv_allindia_dec2023/audios/au_3-a-4_kv_kv-no3-bhopal_04122023-000000-1_HI-KV-002_1.wav,था,<eps>,d,,,th AA,,
+/home/daplab/30006664/kv_allindia_dec2023/audios/au_3-a-4_kv_kv-no3-bhopal_04122023-000000-1_HI-KV-002_1.wav,घंटाघर,<eps>,d,,,gh aa q T AA gh aa r,,
+/home/daplab/30006664/kv_allindia_dec2023/audios/au_3-a-4_kv_kv-no3-bhopal_04122023-000000-1_HI-KV-002_1.wav,के,<eps>,d,,,k ee,,
+/home/daplab/30006664/kv_allindia_dec2023/audios/au_3-a-4_kv_kv-no3-bhopal_04122023-000000-1_HI-KV-002_1.wav,पास,<eps>,d,,,p AA s,,
+/home/daplab/30006664/kv_allindia_dec2023/audios/au_3-a-4_kv_kv-no3-bhopal_04122023-000000-1_HI-KV-002_1.wav,ही,<eps>,d,,,hh II,,
+/home/daplab/30006664/kv_allindia_dec2023/audios/au_3-a-4_kv_kv-no3-bhopal_04122023-000000-1_HI-KV-002_1.wav,एक,<eps>,d,,,ee k,,
+/home/daplab/30006664/kv_allindia_dec2023/audios/au_3-a-4_kv_kv-no3-bhopal_04122023-000000-1_HI-KV-002_1.wav,घर,घर,c,21.81,22.26,gh aa r,gh aa r,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/au_3-a-4_kv_kv-no3-bhopal_04122023-000000-1_HI-KV-002_1.wav,था,था,c,22.89,23.31,th AA,th AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/au_3-a-4_kv_kv-no3-bhopal_04122023-000000-1_HI-KV-002_1.wav,जिसमें,जिसमें,c,23.31,24.48,j ii s aa m ee q,j ii s aa m ee q,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/au_3-a-4_kv_kv-no3-bhopal_04122023-000000-1_HI-KV-002_1.wav,पक्षियों,पक्षियों,c,24.84,25.71,p aa k sh ii y oo q,p aa k sh ii y oo q,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/au_3-a-4_kv_kv-no3-bhopal_04122023-000000-1_HI-KV-002_1.wav,से,से,c,25.71,26.07,s ee,s ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/au_3-a-4_kv_kv-no3-bhopal_04122023-000000-1_HI-KV-002_1.wav,प्यार,प्यार,c,26.07,26.58,p y AA r,p y AA r,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/au_3-a-4_kv_kv-no3-bhopal_04122023-000000-1_HI-KV-002_1.wav,करने,करने,c,26.91,27.45,k aa r aa n ee,k aa r aa n ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/au_3-a-4_kv_kv-no3-bhopal_04122023-000000-1_HI-KV-002_1.wav,वाली,वाली,c,27.45,27.93,w AA l II,w AA l II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/au_3-a-4_kv_kv-no3-bhopal_04122023-000000-1_HI-KV-002_1.wav,एक,एक,c,27.93,28.2,ee k,ee k,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/au_3-a-4_kv_kv-no3-bhopal_04122023-000000-1_HI-KV-002_1.wav,महिला,महिला,c,28.2,28.86,m aa hh ii l AA,m aa hh ii l AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/au_3-a-4_kv_kv-no3-bhopal_04122023-000000-1_HI-KV-002_1.wav,रहती,रहती,c,29.55,30.12,r aa hh aa t II,r aa hh aa t II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/au_3-a-4_kv_kv-no3-bhopal_04122023-000000-1_HI-KV-002_1.wav,थी,थी,c,30.12,30.57,th II,th II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/au_3-a-4_kv_kv-no3-bhopal_04122023-000000-1_HI-KV-002_1.wav,वह,वह,c,30.69,31.29,w aa hh,w aa hh,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/au_3-a-4_kv_kv-no3-bhopal_04122023-000000-1_HI-KV-002_1.wav,टीकू,टीकू,c,31.32,31.89,T II k UU,T II q k UU,1.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/au_3-a-4_kv_kv-no3-bhopal_04122023-000000-1_HI-KV-002_1.wav,चिड़िया,चिड़िया,c,31.89,32.46,c ii D ii y AA,c ii D ii y AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/au_3-a-4_kv_kv-no3-bhopal_04122023-000000-1_HI-KV-002_1.wav,और,<eps>,d,,,OO r,,1.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/au_3-a-4_kv_kv-no3-bhopal_04122023-000000-1_HI-KV-002_1.wav,उसके,उसके,c,32.82,33.3,uu s aa k ee,uu s aa k ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/au_3-a-4_kv_kv-no3-bhopal_04122023-000000-1_HI-KV-002_1.wav,परिवार,परिवार,c,33.3,34.05,p aa r ii w AA r,p aa r ii w AA r,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/au_3-a-4_kv_kv-no3-bhopal_04122023-000000-1_HI-KV-002_1.wav,के,के,c,34.41,34.68,k ee,k ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/au_3-a-4_kv_kv-no3-bhopal_04122023-000000-1_HI-KV-002_1.wav,लिए,लिए,c,34.68,35.19,l ii ee,l ii ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/au_3-a-4_kv_kv-no3-bhopal_04122023-000000-1_HI-KV-002_1.wav,रोज,रोज,c,35.67,36.15,r oo j,r oo j,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/au_3-a-4_kv_kv-no3-bhopal_04122023-000000-1_HI-KV-002_1.wav,रोटी,रोटी,c,36.15,36.66,r oo T II,r oo T II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/au_3-a-4_kv_kv-no3-bhopal_04122023-000000-1_HI-KV-002_1.wav,का,का,c,36.66,36.87,k AA,k AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/au_3-a-4_kv_kv-no3-bhopal_04122023-000000-1_HI-KV-002_1.wav,टुकड़ा,टुकड़ा,c,36.87,37.32,T uu k aa D AA,T uu k aa D AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/au_3-a-4_kv_kv-no3-bhopal_04122023-000000-1_HI-KV-002_1.wav,डालती,डालती,c,37.32,37.92,D AA l aa t II,D AA l aa t II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/au_3-a-4_kv_kv-no3-bhopal_04122023-000000-1_HI-KV-002_1.wav,थी,थी,c,37.92,38.34,th II,th II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/as_3-a-3_kv_kv-shajapur_04122023-000000-1_HI-SW-PB-301_1.wav,मीमी,मीमी,c,0.96,1.56,m II m II,m II m II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/as_3-a-3_kv_kv-shajapur_04122023-000000-1_HI-SW-PB-301_1.wav,एक,एक,c,1.56,1.77,ee k,ee k,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/as_3-a-3_kv_kv-shajapur_04122023-000000-1_HI-SW-PB-301_1.wav,छोटी,छोटी,c,1.77,2.37,ch oo T II,ch oo T II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/as_3-a-3_kv_kv-shajapur_04122023-000000-1_HI-SW-PB-301_1.wav,सी,सी,c,2.4,2.82,s II,ii s II,1.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/as_3-a-3_kv_kv-shajapur_04122023-000000-1_HI-SW-PB-301_1.wav,लड़की,लड़की,c,3.03,3.78,l aa D aa k II,l aa D aa k II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/as_3-a-3_kv_kv-shajapur_04122023-000000-1_HI-SW-PB-301_1.wav,थी,थी,c,3.78,4.2,th II,th II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/as_3-a-3_kv_kv-shajapur_04122023-000000-1_HI-SW-PB-301_1.wav,जो,जो,c,4.59,5.13,j oo,j oo,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/as_3-a-3_kv_kv-shajapur_04122023-000000-1_HI-SW-PB-301_1.wav,एक,एक,c,5.13,5.43,ee k,ee,1.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/as_3-a-3_kv_kv-shajapur_04122023-000000-1_HI-SW-PB-301_1.wav,भीड़,भीड़,c,6.27,6.69,bh II D,bh II D,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/as_3-a-3_kv_kv-shajapur_04122023-000000-1_HI-SW-PB-301_1.wav,भाड़,भाड़,c,6.69,7.08,bh AA D,bh AA D,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/as_3-a-3_kv_kv-shajapur_04122023-000000-1_HI-SW-PB-301_1.wav,वाले,वाले,c,7.08,7.5,w AA l ee,w AA l ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/as_3-a-3_kv_kv-shajapur_04122023-000000-1_HI-SW-PB-301_1.wav,शहर,शहर,c,7.5,7.98,sh aa hh aa r,sh aa hh aa r,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/as_3-a-3_kv_kv-shajapur_04122023-000000-1_HI-SW-PB-301_1.wav,में,में,c,7.98,8.19,m ee q,m ee q,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/as_3-a-3_kv_kv-shajapur_04122023-000000-1_HI-SW-PB-301_1.wav,रहती,रहती,c,8.19,8.73,r aa hh aa t II,r aa hh aa t II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/as_3-a-3_kv_kv-shajapur_04122023-000000-1_HI-SW-PB-301_1.wav,थी,थी,c,8.73,9.09,th II,th II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/as_3-a-3_kv_kv-shajapur_04122023-000000-1_HI-SW-PB-301_1.wav,उसे,उसे,c,9.54,10.26,uu s ee,uu s ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/as_3-a-3_kv_kv-shajapur_04122023-000000-1_HI-SW-PB-301_1.wav,कहानियां,कहानियां,c,10.41,11.01,<UNK>,k aa hh AA n ii y AA q,8.80057146119358
+/home/daplab/30006664/kv_allindia_dec2023/audios/as_3-a-3_kv_kv-shajapur_04122023-000000-1_HI-SW-PB-301_1.wav,बहुत,बहुत,c,11.01,11.4,b aa hh uu t,b aa hh oo uu t,1.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/as_3-a-3_kv_kv-shajapur_04122023-000000-1_HI-SW-PB-301_1.wav,पसंद,पसंद,c,11.4,11.88,p aa s aa q d,p aa s aa q d,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/as_3-a-3_kv_kv-shajapur_04122023-000000-1_HI-SW-PB-301_1.wav,थी,थी,c,11.88,12.21,th II,th II q,1.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/as_3-a-3_kv_kv-shajapur_04122023-000000-1_HI-SW-PB-301_1.wav,पर,पर,c,12.69,13.29,p aa r,p aa r,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/as_3-a-3_kv_kv-shajapur_04122023-000000-1_HI-SW-PB-301_1.wav,उसे,उसे,c,13.5,13.98,uu s ee,uu s ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/as_3-a-3_kv_kv-shajapur_04122023-000000-1_HI-SW-PB-301_1.wav,कहानियां,कहानियां,c,13.98,14.64,<UNK>,k aa hh AA n ii y AA q,8.80057146119358
+/home/daplab/30006664/kv_allindia_dec2023/audios/as_3-a-3_kv_kv-shajapur_04122023-000000-1_HI-SW-PB-301_1.wav,सुनाने,सुनाने,c,14.64,15.27,s uu n AA n ee,s uu n AA n ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/as_3-a-3_kv_kv-shajapur_04122023-000000-1_HI-SW-PB-301_1.wav,के,के,c,15.27,15.51,k ee,k ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/as_3-a-3_kv_kv-shajapur_04122023-000000-1_HI-SW-PB-301_1.wav,लिए,लिए,c,15.51,15.93,l ii ee,l ii ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/as_3-a-3_kv_kv-shajapur_04122023-000000-1_HI-SW-PB-301_1.wav,किसी,किसी,c,16.17,16.59,k ii s II,k ii s II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/as_3-a-3_kv_kv-shajapur_04122023-000000-1_HI-SW-PB-301_1.wav,के,के,c,16.59,16.86,k ee,k ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/as_3-a-3_kv_kv-shajapur_04122023-000000-1_HI-SW-PB-301_1.wav,पास,पास,c,16.89,17.28,p AA s,p AA s,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/as_3-a-3_kv_kv-shajapur_04122023-000000-1_HI-SW-PB-301_1.wav,समय,समय,c,17.28,17.67,s aa m aa y,s aa m aa y,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/as_3-a-3_kv_kv-shajapur_04122023-000000-1_HI-SW-PB-301_1.wav,नही,नही,c,17.67,18.0,n aa hh II,n aa hh II q,1.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/as_3-a-3_kv_kv-shajapur_04122023-000000-1_HI-SW-PB-301_1.wav,था,था,c,18.0,18.36,th AA,th AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/as_3-a-3_kv_kv-shajapur_04122023-000000-1_HI-SW-PB-301_1.wav,मीमी,मीमी,c,18.69,19.2,m II m II,m II m II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/as_3-a-3_kv_kv-shajapur_04122023-000000-1_HI-SW-PB-301_1.wav,ने,ने,c,19.2,19.62,n ee,n ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/as_3-a-3_kv_kv-shajapur_04122023-000000-1_HI-SW-PB-301_1.wav,जिससे,जिस्से,s,20.13,20.85,j ii s aa s ee,j ii s aa s ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/as_3-a-3_kv_kv-shajapur_04122023-000000-1_HI-SW-PB-301_1.wav,भी,भी,c,20.88,21.36,bh II,bh II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/as_3-a-3_kv_kv-shajapur_04122023-000000-1_HI-SW-PB-301_1.wav,कहानियां,कहानियां,c,21.57,22.26,<UNK>,k aa hh AA n ii y AA q,8.80057146119358
+/home/daplab/30006664/kv_allindia_dec2023/audios/as_3-a-3_kv_kv-shajapur_04122023-000000-1_HI-SW-PB-301_1.wav,सुनाने,सुनाने,c,22.26,22.98,s uu n AA n ee,s uu n AA n ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/as_3-a-3_kv_kv-shajapur_04122023-000000-1_HI-SW-PB-301_1.wav,की,की,c,22.98,23.37,k II,k II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/as_3-a-3_kv_kv-shajapur_04122023-000000-1_HI-SW-PB-301_1.wav,बात,बात,c,23.61,24.03,b AA t,b AA t,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/as_3-a-3_kv_kv-shajapur_04122023-000000-1_HI-SW-PB-301_1.wav,कही,कही,c,24.03,24.54,k aa hh II,k aa hh II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/as_3-a-3_kv_kv-shajapur_04122023-000000-1_HI-SW-PB-301_1.wav,उनके,उसके,s,24.93,25.59,uu n aa k ee,uu s aa k ee,2.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/as_3-a-3_kv_kv-shajapur_04122023-000000-1_HI-SW-PB-301_1.wav,पास,पास,c,25.59,26.16,p AA s,p AA s,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/as_3-a-3_kv_kv-shajapur_04122023-000000-1_HI-SW-PB-301_1.wav,कहानियां,कहानियां,c,26.34,27.06,<UNK>,k aa hh AA n ii y AA q,8.80057146119358
+/home/daplab/30006664/kv_allindia_dec2023/audios/as_3-a-3_kv_kv-shajapur_04122023-000000-1_HI-SW-PB-301_1.wav,सुनाने,सुनाने,c,27.06,27.84,s uu n AA n ee,s uu n AA n ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/as_3-a-3_kv_kv-shajapur_04122023-000000-1_HI-SW-PB-301_1.wav,की,की,c,27.84,28.23,k II,k II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/as_3-a-3_kv_kv-shajapur_04122023-000000-1_HI-SW-PB-301_1.wav,फ़ुर्सत,फ़ुर्सत,c,28.44,28.98,ph uu r s aa t,ph uu r s aa t,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/as_3-a-3_kv_kv-shajapur_04122023-000000-1_HI-SW-PB-301_1.wav,नही,नही,c,28.98,29.4,n aa hh II,n aa hh II q,1.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/as_3-a-3_kv_kv-shajapur_04122023-000000-1_HI-SW-PB-301_1.wav,थी,थी,c,29.4,29.76,th II,th II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/as_3-a-3_kv_kv-shajapur_04122023-000000-1_HI-SW-PB-301_1.wav,किसी,किसी,c,30.18,30.72,k ii s II,k ii s II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/as_3-a-3_kv_kv-shajapur_04122023-000000-1_HI-SW-PB-301_1.wav,के,के,c,30.72,31.11,k ee,k ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/as_3-a-3_kv_kv-shajapur_04122023-000000-1_HI-SW-PB-301_1.wav,पास,पास,c,31.5,31.95,p AA s,p AA s,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/as_3-a-3_kv_kv-shajapur_04122023-000000-1_HI-SW-PB-301_1.wav,मीमी,मीमी,c,31.95,32.55,m II m II,m II m II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/as_3-a-3_kv_kv-shajapur_04122023-000000-1_HI-SW-PB-301_1.wav,के,के,c,32.55,32.91,k ee,k ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/as_3-a-3_kv_kv-shajapur_04122023-000000-1_HI-SW-PB-301_1.wav,लिए,लिए,c,32.91,33.27,l ii ee,l ii ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/as_3-a-3_kv_kv-shajapur_04122023-000000-1_HI-SW-PB-301_1.wav,समय,समय,c,33.27,33.69,s aa m aa y,s aa m aa y,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/as_3-a-3_kv_kv-shajapur_04122023-000000-1_HI-SW-PB-301_1.wav,नही,नही,c,33.69,34.05,n aa hh II,n aa hh II q,1.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/as_3-a-3_kv_kv-shajapur_04122023-000000-1_HI-SW-PB-301_1.wav,था,था,c,34.08,34.44,th AA,th AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/as_3-a-3_kv_kv-shajapur_04122023-000000-1_HI-SW-PB-301_1.wav,कहानियों,कहानि,s,34.65,35.34,k aa hh AA n ii y oo q,k aa hh AA n II,5.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/as_3-a-3_kv_kv-shajapur_04122023-000000-1_HI-SW-PB-301_1.wav,के,के,c,35.37,35.7,k ee,k ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/as_3-a-3_kv_kv-shajapur_04122023-000000-1_HI-SW-PB-301_1.wav,लिए,लिए,c,35.7,36.21,l ii ee,l ii ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/as_3-a-3_kv_kv-shajapur_04122023-000000-1_HI-SW-PB-301_1.wav,तो,तो,c,36.45,36.63,t oo,t oo,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/as_3-a-3_kv_kv-shajapur_04122023-000000-1_HI-SW-PB-301_1.wav,बिल्कुल,बिल्कुल,c,36.63,37.08,b ii l k uu l,b ii l k uu l,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/as_3-a-3_kv_kv-shajapur_04122023-000000-1_HI-SW-PB-301_1.wav,नही,नही,c,37.08,37.56,n aa hh II,n aa hh II q,1.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ap_3-a-8_kv_kv-khatima_04122023-000000-1_HI-KV-001_1.wav,एक,एक,c,0.99,1.29,ee k,ee k,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ap_3-a-8_kv_kv-khatima_04122023-000000-1_HI-KV-001_1.wav,राजा,राजा,c,1.29,1.74,r AA j AA,r AA j AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ap_3-a-8_kv_kv-khatima_04122023-000000-1_HI-KV-001_1.wav,था,था,c,1.74,2.07,th AA,th AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ap_3-a-8_kv_kv-khatima_04122023-000000-1_HI-KV-001_1.wav,उसका,उसका,c,2.07,2.52,uu s aa k AA,uu s aa k AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ap_3-a-8_kv_kv-khatima_04122023-000000-1_HI-KV-001_1.wav,एक,एक,c,2.52,2.79,ee k,ee k,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ap_3-a-8_kv_kv-khatima_04122023-000000-1_HI-KV-001_1.wav,बडा,बडा,c,2.79,3.12,b aa D AA,b aa D AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ap_3-a-8_kv_kv-khatima_04122023-000000-1_HI-KV-001_1.wav,सा,सा,c,3.12,3.36,s AA,s AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ap_3-a-8_kv_kv-khatima_04122023-000000-1_HI-KV-001_1.wav,राज्य,राज्य,c,3.36,3.87,r AA j y,r AA j y,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ap_3-a-8_kv_kv-khatima_04122023-000000-1_HI-KV-001_1.wav,था,था,c,3.87,4.2,th AA,th AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ap_3-a-8_kv_kv-khatima_04122023-000000-1_HI-KV-001_1.wav,एक,एक,c,4.5,4.77,ee k,ee k,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ap_3-a-8_kv_kv-khatima_04122023-000000-1_HI-KV-001_1.wav,दिन,दिन,c,4.77,5.04,d ii n,d ii n,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ap_3-a-8_kv_kv-khatima_04122023-000000-1_HI-KV-001_1.wav,उसे,उसे,c,5.04,5.37,uu s ee,uu s ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ap_3-a-8_kv_kv-khatima_04122023-000000-1_HI-KV-001_1.wav,देश,देस,s,5.37,5.7,d ee sh,d ee sh,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ap_3-a-8_kv_kv-khatima_04122023-000000-1_HI-KV-001_1.wav,घूमने,घूमने,c,6.06,6.54,gh UU m aa n ee,gh UU m aa n ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ap_3-a-8_kv_kv-khatima_04122023-000000-1_HI-KV-001_1.wav,का,का,c,6.54,6.78,k AA,k AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ap_3-a-8_kv_kv-khatima_04122023-000000-1_HI-KV-001_1.wav,विचार,विचार,c,6.78,7.26,w ii c AA r,w ii c AA r,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ap_3-a-8_kv_kv-khatima_04122023-000000-1_HI-KV-001_1.wav,आया,आया,c,7.29,7.74,AA y AA,AA y AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ap_3-a-8_kv_kv-khatima_04122023-000000-1_HI-KV-001_1.wav,और,और,c,7.74,8.1,OO r,OO r,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ap_3-a-8_kv_kv-khatima_04122023-000000-1_HI-KV-001_1.wav,उसने,उसने,c,8.1,8.55,uu s aa n ee,uu s aa n ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ap_3-a-8_kv_kv-khatima_04122023-000000-1_HI-KV-001_1.wav,देश,देस,s,8.55,8.88,d ee sh,d ee sh,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ap_3-a-8_kv_kv-khatima_04122023-000000-1_HI-KV-001_1.wav,भ्रमन,भ्रमन,c,9.18,9.93,<UNK>,bh r aa m aa N,7.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ap_3-a-8_kv_kv-khatima_04122023-000000-1_HI-KV-001_1.wav,की,की,c,10.26,10.53,k II,k II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ap_3-a-8_kv_kv-khatima_04122023-000000-1_HI-KV-001_1.wav,योजना,योजना,c,10.53,11.04,y oo j aa n AA,y oo j aa n AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ap_3-a-8_kv_kv-khatima_04122023-000000-1_HI-KV-001_1.wav,बनाई,बनाई,c,11.04,11.52,b aa n AA II,b aa n AA II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ap_3-a-8_kv_kv-khatima_04122023-000000-1_HI-KV-001_1.wav,और,और,c,11.52,11.82,OO r,OO r,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ap_3-a-8_kv_kv-khatima_04122023-000000-1_HI-KV-001_1.wav,घूमने,घूमने,c,11.82,12.27,gh UU m aa n ee,gh UU m aa n ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ap_3-a-8_kv_kv-khatima_04122023-000000-1_HI-KV-001_1.wav,निकल,निकल,c,12.27,12.66,n ii k aa l,n ii k aa l,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ap_3-a-8_kv_kv-khatima_04122023-000000-1_HI-KV-001_1.wav,पडा,पडा,c,12.66,13.05,<UNK>,p aa D AA,4.73765644044291
+/home/daplab/30006664/kv_allindia_dec2023/audios/ap_3-a-8_kv_kv-khatima_04122023-000000-1_HI-KV-001_1.wav,जब,जब,c,13.05,13.35,j aa b,j aa b,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ap_3-a-8_kv_kv-khatima_04122023-000000-1_HI-KV-001_1.wav,वह,वह,c,13.35,13.71,w aa hh,w aa hh,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ap_3-a-8_kv_kv-khatima_04122023-000000-1_HI-KV-001_1.wav,यात्रा,यात्रा,c,13.71,14.28,y AA t r AA,y AA t r AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ap_3-a-8_kv_kv-khatima_04122023-000000-1_HI-KV-001_1.wav,से,से,c,14.28,14.61,s ee,s ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ap_3-a-8_kv_kv-khatima_04122023-000000-1_HI-KV-001_1.wav,लौट,लौट,c,14.85,15.21,l OO T,l OO T,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ap_3-a-8_kv_kv-khatima_04122023-000000-1_HI-KV-001_1.wav,कर,कर,c,15.21,15.45,k aa r,k aa r,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ap_3-a-8_kv_kv-khatima_04122023-000000-1_HI-KV-001_1.wav,अपने,अपने,c,15.45,15.84,aa p aa n ee,aa p aa n ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ap_3-a-8_kv_kv-khatima_04122023-000000-1_HI-KV-001_1.wav,महल,महल,c,15.84,16.2,m aa hh aa l,m aa hh aa l,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ap_3-a-8_kv_kv-khatima_04122023-000000-1_HI-KV-001_1.wav,आया,आया,c,16.23,16.68,AA y AA,AA y AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ap_3-a-8_kv_kv-khatima_04122023-000000-1_HI-KV-001_1.wav,उसने,उसने,c,16.68,17.19,uu s aa n ee,uu s aa n ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ap_3-a-8_kv_kv-khatima_04122023-000000-1_HI-KV-001_1.wav,अपने,अपने,c,17.46,17.91,aa p aa n ee,aa p aa n ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ap_3-a-8_kv_kv-khatima_04122023-000000-1_HI-KV-001_1.wav,मंत्रियों,मंत्रियों,c,17.91,18.78,m aa q t r ii y oo q,m aa q t r ii y oo q,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ap_3-a-8_kv_kv-khatima_04122023-000000-1_HI-KV-001_1.wav,से,से,c,18.78,19.08,s ee,s ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ap_3-a-8_kv_kv-khatima_04122023-000000-1_HI-KV-001_1.wav,पैरों,पैरों,c,19.08,19.68,p ee r oo q,p ee r oo q,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ap_3-a-8_kv_kv-khatima_04122023-000000-1_HI-KV-001_1.wav,में,में,c,19.68,20.04,m ee q,m ee q,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ap_3-a-8_kv_kv-khatima_04122023-000000-1_HI-KV-001_1.wav,दर्द,दर्द,c,20.25,20.64,d aa r d,d aa r d,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ap_3-a-8_kv_kv-khatima_04122023-000000-1_HI-KV-001_1.wav,होने,होने,c,20.64,21.12,hh oo n ee,hh oo n ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ap_3-a-8_kv_kv-khatima_04122023-000000-1_HI-KV-001_1.wav,की,की,c,21.12,21.39,k II,k II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ap_3-a-8_kv_kv-khatima_04122023-000000-1_HI-KV-001_1.wav,शिकायत,सिकायत,s,21.39,22.02,sh ii k AA y aa t,sh ii k AA y aa t,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ap_3-a-8_kv_kv-khatima_04122023-000000-1_HI-KV-001_1.wav,की,की,c,22.08,22.32,k II,k II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ap_3-a-8_kv_kv-khatima_04122023-000000-1_HI-KV-001_1.wav,राजा,राजा,c,22.32,22.74,r AA j AA,r AA j AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ap_3-a-8_kv_kv-khatima_04122023-000000-1_HI-KV-001_1.wav,का,का,c,22.74,23.07,k AA,k AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ap_3-a-8_kv_kv-khatima_04122023-000000-1_HI-KV-001_1.wav,कहना,कहना,c,23.31,23.76,k aa hh aa n AA,k aa hh aa n AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ap_3-a-8_kv_kv-khatima_04122023-000000-1_HI-KV-001_1.wav,था,था,c,23.76,24.06,th AA,th AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ap_3-a-8_kv_kv-khatima_04122023-000000-1_HI-KV-001_1.wav,कि,कि,c,24.06,24.3,k ii,k ii,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ap_3-a-8_kv_kv-khatima_04122023-000000-1_HI-KV-001_1.wav,मार्ग,मार्ग,c,24.3,24.81,m AA r g,m AA r g,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ap_3-a-8_kv_kv-khatima_04122023-000000-1_HI-KV-001_1.wav,में,में,c,24.81,25.17,m ee q,m ee q,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ap_3-a-8_kv_kv-khatima_04122023-000000-1_HI-KV-001_1.wav,जो,जो,c,25.17,25.35,j oo,j oo,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ap_3-a-8_kv_kv-khatima_04122023-000000-1_HI-KV-001_1.wav,कंकड,कंकड,c,25.74,26.01,<UNK>,k aa D,2.80057146119358
+/home/daplab/30006664/kv_allindia_dec2023/audios/ap_3-a-8_kv_kv-khatima_04122023-000000-1_HI-KV-001_1.wav,पत्थर,पत्थर,c,26.22,26.73,p aa t th aa r,p aa t th aa r,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ap_3-a-8_kv_kv-khatima_04122023-000000-1_HI-KV-001_1.wav,थे,थे,c,26.73,27.06,th ee,th ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ap_3-a-8_kv_kv-khatima_04122023-000000-1_HI-KV-001_1.wav,वे,वे,c,27.06,27.33,w ee,w ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ap_3-a-8_kv_kv-khatima_04122023-000000-1_HI-KV-001_1.wav,मेरे,मेरे,c,27.33,27.75,m ee r ee,m ee r ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ap_3-a-8_kv_kv-khatima_04122023-000000-1_HI-KV-001_1.wav,पैरों,पैरों,c,27.75,28.38,p ee r oo q,t p ee r oo q,1.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ap_3-a-8_kv_kv-khatima_04122023-000000-1_HI-KV-001_1.wav,में,में,c,28.62,28.86,m ee q,m ee q,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ap_3-a-8_kv_kv-khatima_04122023-000000-1_HI-KV-001_1.wav,चुभ,चुभ,c,28.86,29.19,c uu bh,c uu bh,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ap_3-a-8_kv_kv-khatima_04122023-000000-1_HI-KV-001_1.wav,गए,गए,c,29.19,29.52,g ee,g ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ap_3-a-8_kv_kv-khatima_04122023-000000-1_HI-KV-001_1.wav,और,और,c,29.52,29.79,OO r,OO r,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ap_3-a-8_kv_kv-khatima_04122023-000000-1_HI-KV-001_1.wav,इसके,इसके,c,29.79,30.27,ii s aa k ee,r ii s aa k ee,1.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ap_3-a-8_kv_kv-khatima_04122023-000000-1_HI-KV-001_1.wav,लिए,लिए,c,30.27,30.6,l ii ee,l ii ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ap_3-a-8_kv_kv-khatima_04122023-000000-1_HI-KV-001_1.wav,कुछ,कुछ,c,30.6,30.84,k uu ch,k uu ch,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ap_3-a-8_kv_kv-khatima_04122023-000000-1_HI-KV-001_1.wav,इंतजाम,इंतजाम,c,30.84,31.77,ii q t aa j AA m,ii q t j AA m,1.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ap_3-a-8_kv_kv-khatima_04122023-000000-1_HI-KV-001_1.wav,करना,करना,c,31.77,32.16,k aa r aa n AA,k aa r aa n AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ap_3-a-8_kv_kv-khatima_04122023-000000-1_HI-KV-001_1.wav,चाहिए,चाहिए,c,32.16,32.76,c AA hh ii ee,c AA hh ii ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ak_3-b-49_kv_kv-drdo-kanchan-bagh_04122023-000000-1_HI-KV-002_2.wav,एक,एक,c,0.99,1.41,ee k,ee k,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ak_3-b-49_kv_kv-drdo-kanchan-bagh_04122023-000000-1_HI-KV-002_2.wav,दिन,दिन,c,1.41,1.86,d ii n,d ii n,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ak_3-b-49_kv_kv-drdo-kanchan-bagh_04122023-000000-1_HI-KV-002_2.wav,वह,वह,c,1.86,2.22,w aa hh,w aa,1.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ak_3-b-49_kv_kv-drdo-kanchan-bagh_04122023-000000-1_HI-KV-002_2.wav,बीमार,बीमार,c,2.22,2.79,b II m AA r,b II m AA r,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ak_3-b-49_kv_kv-drdo-kanchan-bagh_04122023-000000-1_HI-KV-002_2.wav,पड़,पड़,c,2.79,3.06,p aa D,p aa D,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ak_3-b-49_kv_kv-drdo-kanchan-bagh_04122023-000000-1_HI-KV-002_2.wav,गई,गई,c,3.09,3.39,g II,g II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ak_3-b-49_kv_kv-drdo-kanchan-bagh_04122023-000000-1_HI-KV-002_2.wav,और,और,c,3.39,3.75,OO r,OO r,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ak_3-b-49_kv_kv-drdo-kanchan-bagh_04122023-000000-1_HI-KV-002_2.wav,उसकी,उसकी,c,3.78,4.41,uu s aa k II,uu s aa k II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ak_3-b-49_kv_kv-drdo-kanchan-bagh_04122023-000000-1_HI-KV-002_2.wav,मौत,मौत,c,4.5,4.98,m OO t,m OO t,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ak_3-b-49_kv_kv-drdo-kanchan-bagh_04122023-000000-1_HI-KV-002_2.wav,हो,हो,c,4.98,5.22,hh oo,hh oo,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ak_3-b-49_kv_kv-drdo-kanchan-bagh_04122023-000000-1_HI-KV-002_2.wav,गई,गई,c,5.22,5.7,g II,g II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ak_3-b-49_kv_kv-drdo-kanchan-bagh_04122023-000000-1_HI-KV-002_2.wav,टीकू,टीकू,c,5.91,6.42,T II k UU,T II q k UU,1.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ak_3-b-49_kv_kv-drdo-kanchan-bagh_04122023-000000-1_HI-KV-002_2.wav,चिड़िया,चिड़िया,c,6.42,7.05,c ii D ii y AA,c ii D ii y AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ak_3-b-49_kv_kv-drdo-kanchan-bagh_04122023-000000-1_HI-KV-002_2.wav,और,और,c,7.08,7.47,OO r,OO r,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ak_3-b-49_kv_kv-drdo-kanchan-bagh_04122023-000000-1_HI-KV-002_2.wav,उसका,उसका,c,7.47,7.95,uu s aa k AA,uu s aa k AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ak_3-b-49_kv_kv-drdo-kanchan-bagh_04122023-000000-1_HI-KV-002_2.wav,पूरा,पूरा,c,7.95,8.49,p UU r AA,p UU r AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ak_3-b-49_kv_kv-drdo-kanchan-bagh_04122023-000000-1_HI-KV-002_2.wav,परिवार,परिवार,c,8.49,9.27,p aa r ii w AA r,p aa r ii w AA r,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ak_3-b-49_kv_kv-drdo-kanchan-bagh_04122023-000000-1_HI-KV-002_2.wav,उस,उस,c,9.81,10.29,uu s,uu s,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ak_3-b-49_kv_kv-drdo-kanchan-bagh_04122023-000000-1_HI-KV-002_2.wav,औरत,अवरत,s,10.59,11.25,OO r aa t,OO r aa t,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ak_3-b-49_kv_kv-drdo-kanchan-bagh_04122023-000000-1_HI-KV-002_2.wav,के,के,c,11.25,11.73,k ee,k ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ak_3-b-49_kv_kv-drdo-kanchan-bagh_04122023-000000-1_HI-KV-002_2.wav,खाने,खाने,c,12.24,12.84,kh AA n ee,kh AA n ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ak_3-b-49_kv_kv-drdo-kanchan-bagh_04122023-000000-1_HI-KV-002_2.wav,पर,पर,c,12.84,13.17,p aa r,p aa r,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ak_3-b-49_kv_kv-drdo-kanchan-bagh_04122023-000000-1_HI-KV-002_2.wav,निर्भर,निर्भर,c,13.17,13.86,n ii r bh aa r,n ii r bh aa r,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ak_3-b-49_kv_kv-drdo-kanchan-bagh_04122023-000000-1_HI-KV-002_2.wav,था,था,c,13.86,14.31,th AA,th AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ak_3-b-49_kv_kv-drdo-kanchan-bagh_04122023-000000-1_HI-KV-002_2.wav,अब,अब,c,15.63,16.08,aa b,aa b,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ak_3-b-49_kv_kv-drdo-kanchan-bagh_04122023-000000-1_HI-KV-002_2.wav,उनके,उनके,c,16.2,16.77,uu n aa k ee,uu n aa k ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ak_3-b-49_kv_kv-drdo-kanchan-bagh_04122023-000000-1_HI-KV-002_2.wav,पास,पास,c,16.77,17.37,p AA s,p AA s,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ak_3-b-49_kv_kv-drdo-kanchan-bagh_04122023-000000-1_HI-KV-002_2.wav,खाने,खाने,c,17.46,17.97,kh AA n ee,kh AA n ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ak_3-b-49_kv_kv-drdo-kanchan-bagh_04122023-000000-1_HI-KV-002_2.wav,के,के,c,17.97,18.15,k ee,k ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ak_3-b-49_kv_kv-drdo-kanchan-bagh_04122023-000000-1_HI-KV-002_2.wav,लिए,लिए,c,18.15,18.48,l ii ee,l ii ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ak_3-b-49_kv_kv-drdo-kanchan-bagh_04122023-000000-1_HI-KV-002_2.wav,कुछ,कुछ,c,18.48,18.84,k uu ch,k uu ch,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ak_3-b-49_kv_kv-drdo-kanchan-bagh_04122023-000000-1_HI-KV-002_2.wav,नही,नही,c,18.84,19.23,n aa hh II,n aa hh II q,1.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ak_3-b-49_kv_kv-drdo-kanchan-bagh_04122023-000000-1_HI-KV-002_2.wav,था,था,c,19.23,19.68,th AA,th AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ak_3-b-49_kv_kv-drdo-kanchan-bagh_04122023-000000-1_HI-KV-002_2.wav,और,और,c,20.01,20.37,OO r,OO r,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ak_3-b-49_kv_kv-drdo-kanchan-bagh_04122023-000000-1_HI-KV-002_2.wav,न,न,c,20.37,20.52,n,n,1.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ak_3-b-49_kv_kv-drdo-kanchan-bagh_04122023-000000-1_HI-KV-002_2.wav,ही,ही,c,20.76,21.18,hh II,hh II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ak_3-b-49_kv_kv-drdo-kanchan-bagh_04122023-000000-1_HI-KV-002_2.wav,वो,<eps>,d,,,w oo,,
+/home/daplab/30006664/kv_allindia_dec2023/audios/ak_3-b-49_kv_kv-drdo-kanchan-bagh_04122023-000000-1_HI-KV-002_2.wav,अपने,अपने,c,21.18,21.69,aa p aa n ee,aa p aa n ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ak_3-b-49_kv_kv-drdo-kanchan-bagh_04122023-000000-1_HI-KV-002_2.wav,लिए,लिए,c,21.69,22.05,l ii ee,l ii ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ak_3-b-49_kv_kv-drdo-kanchan-bagh_04122023-000000-1_HI-KV-002_2.wav,खाना,खाना,c,23.43,23.91,kh AA n AA,kh AA n AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ak_3-b-49_kv_kv-drdo-kanchan-bagh_04122023-000000-1_HI-KV-002_2.wav,जुटाने,जुटाने,c,23.91,24.54,j uu T AA n ee,j uu T AA n ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ak_3-b-49_kv_kv-drdo-kanchan-bagh_04122023-000000-1_HI-KV-002_2.wav,के,के,c,24.54,24.87,k ee,k ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ak_3-b-49_kv_kv-drdo-kanchan-bagh_04122023-000000-1_HI-KV-002_2.wav,लिए,लिए,c,24.87,25.35,l ii ee,l ii ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ak_3-b-49_kv_kv-drdo-kanchan-bagh_04122023-000000-1_HI-KV-002_2.wav,कुछ,कुछ,c,25.65,25.98,k uu ch,k uu ch,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ak_3-b-49_kv_kv-drdo-kanchan-bagh_04122023-000000-1_HI-KV-002_2.wav,करते,करते,c,27.03,27.54,k aa r aa t ee,k aa r aa t ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ak_3-b-49_kv_kv-drdo-kanchan-bagh_04122023-000000-1_HI-KV-002_2.wav,है,है,c,27.54,27.99,hh ee,hh ee q,1.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ak_3-b-49_kv_kv-drdo-kanchan-bagh_04122023-000000-1_HI-KV-002_2.wav,एक,एक,c,28.29,28.68,ee k,ee k,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ak_3-b-49_kv_kv-drdo-kanchan-bagh_04122023-000000-1_HI-KV-002_2.wav,दिन,दिन,c,28.68,29.07,d ii n,d ii n,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ak_3-b-49_kv_kv-drdo-kanchan-bagh_04122023-000000-1_HI-KV-002_2.wav,भूख,भूख,c,29.52,30.09,bh UU kh,bh UU kh,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ak_3-b-49_kv_kv-drdo-kanchan-bagh_04122023-000000-1_HI-KV-002_2.wav,से,से,c,30.09,30.66,s ee,kh s ee,1.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ak_3-b-49_kv_kv-drdo-kanchan-bagh_04122023-000000-1_HI-KV-002_2.wav,बेहाल,बेहाल,c,30.81,31.65,b ee hh AA l,b ee hh AA l,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ak_3-b-49_kv_kv-drdo-kanchan-bagh_04122023-000000-1_HI-KV-002_2.wav,होने,होने,c,31.98,32.52,hh oo n ee,hh oo n ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ak_3-b-49_kv_kv-drdo-kanchan-bagh_04122023-000000-1_HI-KV-002_2.wav,पर,पर,c,32.52,32.82,p aa r,p aa r,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ak_3-b-49_kv_kv-drdo-kanchan-bagh_04122023-000000-1_HI-KV-002_2.wav,टीकू,टीकू,c,32.82,33.33,T II k UU,T II q k UU,1.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ak_3-b-49_kv_kv-drdo-kanchan-bagh_04122023-000000-1_HI-KV-002_2.wav,चिड़िया,चिड़िया,c,33.33,34.05,c ii D ii y AA,c ii D ii y AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ak_3-b-49_kv_kv-drdo-kanchan-bagh_04122023-000000-1_HI-KV-002_2.wav,के,के,c,34.05,34.44,k ee,k ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ak_3-b-49_kv_kv-drdo-kanchan-bagh_04122023-000000-1_HI-KV-002_2.wav,पिता,पास,s,34.44,34.98,p ii t AA,p AA s,3.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ak_3-b-49_kv_kv-drdo-kanchan-bagh_04122023-000000-1_HI-KV-002_2.wav,ने,एक,s,35.01,35.4,n ee,ee k,2.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ak_3-b-49_kv_kv-drdo-kanchan-bagh_04122023-000000-1_HI-KV-002_2.wav,कीड़ों,कीड़ों,c,36.0,36.63,k II D oo q,k II D oo q,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ak_3-b-49_kv_kv-drdo-kanchan-bagh_04122023-000000-1_HI-KV-002_2.wav,का,का,c,36.63,37.14,k AA,k AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ak_3-b-49_kv_kv-drdo-kanchan-bagh_04122023-000000-1_HI-KV-002_2.wav,शिकार,फैसला,s,37.17,37.86,sh ii k AA r,ph ee s aa l AA,9.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ak_3-b-49_kv_kv-drdo-kanchan-bagh_04122023-000000-1_HI-KV-002_2.wav,करने,करने,c,37.86,38.25,k aa r aa n ee,k aa r aa n ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ak_3-b-49_kv_kv-drdo-kanchan-bagh_04122023-000000-1_HI-KV-002_2.wav,का,का,c,38.25,38.4,k AA,k AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ak_3-b-49_kv_kv-drdo-kanchan-bagh_04122023-000000-1_HI-KV-002_2.wav,फैसला,शिकार,s,38.4,39.06,ph ee s aa l AA,sh ii k AA r,9.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ak_3-b-49_kv_kv-drdo-kanchan-bagh_04122023-000000-1_HI-KV-002_2.wav,किया,किया,c,39.78,40.29,k ii y AA,k ii y AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ah_3-b-2_kv_kv-afs-begumpet_04122023-000000-1_HI-KV-001_1.wav,एक,एक,c,0.99,1.23,ee k,ee k,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ah_3-b-2_kv_kv-afs-begumpet_04122023-000000-1_HI-KV-001_1.wav,राजा,राजा,c,1.23,1.65,r AA j AA,r AA j AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ah_3-b-2_kv_kv-afs-begumpet_04122023-000000-1_HI-KV-001_1.wav,था,था,c,1.65,1.89,th AA,AA,1.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ah_3-b-2_kv_kv-afs-begumpet_04122023-000000-1_HI-KV-001_1.wav,उसका,उसका,c,1.98,2.46,uu s aa k AA,uu ii s aa k AA,1.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ah_3-b-2_kv_kv-afs-begumpet_04122023-000000-1_HI-KV-001_1.wav,एक,एक,c,2.46,2.73,ee k,ee k,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ah_3-b-2_kv_kv-afs-begumpet_04122023-000000-1_HI-KV-001_1.wav,बडा,बडा,c,2.73,3.12,b aa D AA,b aa D AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ah_3-b-2_kv_kv-afs-begumpet_04122023-000000-1_HI-KV-001_1.wav,सा,सा,c,3.12,3.36,s AA,s AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ah_3-b-2_kv_kv-afs-begumpet_04122023-000000-1_HI-KV-001_1.wav,राज्य,राज्य,c,3.36,3.87,r AA j y,r AA j y,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ah_3-b-2_kv_kv-afs-begumpet_04122023-000000-1_HI-KV-001_1.wav,था,था,c,3.87,4.14,th AA,th AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ah_3-b-2_kv_kv-afs-begumpet_04122023-000000-1_HI-KV-001_1.wav,एक,एक,c,4.32,4.65,ee k,ee k,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ah_3-b-2_kv_kv-afs-begumpet_04122023-000000-1_HI-KV-001_1.wav,दिन,दिन,c,4.65,4.95,d ii n,d ii n,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ah_3-b-2_kv_kv-afs-begumpet_04122023-000000-1_HI-KV-001_1.wav,उसे,उसे,c,4.98,5.37,uu s ee,uu s ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ah_3-b-2_kv_kv-afs-begumpet_04122023-000000-1_HI-KV-001_1.wav,देश,देश,c,5.37,5.79,d ee sh,d ee sh,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ah_3-b-2_kv_kv-afs-begumpet_04122023-000000-1_HI-KV-001_1.wav,घूमने,घूमने,c,5.79,6.24,gh UU m aa n ee,gh UU m aa n ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ah_3-b-2_kv_kv-afs-begumpet_04122023-000000-1_HI-KV-001_1.wav,का,का,c,6.24,6.45,k AA,k AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ah_3-b-2_kv_kv-afs-begumpet_04122023-000000-1_HI-KV-001_1.wav,विचार,विचार,c,6.45,7.08,w ii c AA r,w ii c AA r,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ah_3-b-2_kv_kv-afs-begumpet_04122023-000000-1_HI-KV-001_1.wav,आया,आया,c,7.11,7.56,AA y AA,AA y AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ah_3-b-2_kv_kv-afs-begumpet_04122023-000000-1_HI-KV-001_1.wav,और,और,c,7.77,8.04,OO r,OO r,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ah_3-b-2_kv_kv-afs-begumpet_04122023-000000-1_HI-KV-001_1.wav,उसने,उसने,c,8.04,8.43,uu s aa n ee,uu s aa n ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ah_3-b-2_kv_kv-afs-begumpet_04122023-000000-1_HI-KV-001_1.wav,देश,देश,c,8.43,9.09,d ee sh,d ee sh,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ah_3-b-2_kv_kv-afs-begumpet_04122023-000000-1_HI-KV-001_1.wav,भ्रमन,भ्रमन,c,11.76,12.39,<UNK>,bh r aa m aa N,7.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ah_3-b-2_kv_kv-afs-begumpet_04122023-000000-1_HI-KV-001_1.wav,की,की,c,12.39,12.63,k II,k II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ah_3-b-2_kv_kv-afs-begumpet_04122023-000000-1_HI-KV-001_1.wav,योजना,योजना,c,12.63,13.26,y oo j aa n AA,y oo j aa n AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ah_3-b-2_kv_kv-afs-begumpet_04122023-000000-1_HI-KV-001_1.wav,बनाई,बनाई,c,13.26,13.74,b aa n AA II,b aa n AA II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ah_3-b-2_kv_kv-afs-begumpet_04122023-000000-1_HI-KV-001_1.wav,और,और,c,13.86,14.16,OO r,OO r,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ah_3-b-2_kv_kv-afs-begumpet_04122023-000000-1_HI-KV-001_1.wav,घूमने,घूमने,c,14.16,14.58,gh UU m aa n ee,gh UU m aa n ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ah_3-b-2_kv_kv-afs-begumpet_04122023-000000-1_HI-KV-001_1.wav,निकल,निकल,c,14.58,14.97,n ii k aa l,n ii k aa l,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ah_3-b-2_kv_kv-afs-begumpet_04122023-000000-1_HI-KV-001_1.wav,पडा,पडा,c,14.97,15.33,<UNK>,p aa D AA,4.7459836260833
+/home/daplab/30006664/kv_allindia_dec2023/audios/ah_3-b-2_kv_kv-afs-begumpet_04122023-000000-1_HI-KV-001_1.wav,जब,जब,c,15.33,15.69,j aa b,j aa b,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ah_3-b-2_kv_kv-afs-begumpet_04122023-000000-1_HI-KV-001_1.wav,वह,यह,s,15.69,15.96,w aa hh,y aa hh,2.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ah_3-b-2_kv_kv-afs-begumpet_04122023-000000-1_HI-KV-001_1.wav,यात्रा,यात्रा,c,15.96,16.56,y AA t r AA,y AA t r AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ah_3-b-2_kv_kv-afs-begumpet_04122023-000000-1_HI-KV-001_1.wav,से,से,c,16.56,16.77,s ee,s ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ah_3-b-2_kv_kv-afs-begumpet_04122023-000000-1_HI-KV-001_1.wav,लौट,लौट,c,16.77,17.37,l OO T,l OO T,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ah_3-b-2_kv_kv-afs-begumpet_04122023-000000-1_HI-KV-001_1.wav,कर,कर,c,17.64,17.88,k aa r,k aa r,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ah_3-b-2_kv_kv-afs-begumpet_04122023-000000-1_HI-KV-001_1.wav,अपने,अपने,c,17.88,18.24,aa p aa n ee,aa p aa n ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ah_3-b-2_kv_kv-afs-begumpet_04122023-000000-1_HI-KV-001_1.wav,महल,महल,c,18.24,18.75,m aa hh aa l,m AA hh aa l,2.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ah_3-b-2_kv_kv-afs-begumpet_04122023-000000-1_HI-KV-001_1.wav,आया,आया,c,18.75,19.08,AA y AA,AA y AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ah_3-b-2_kv_kv-afs-begumpet_04122023-000000-1_HI-KV-001_1.wav,उसने,उसने,c,19.08,19.65,uu s aa n ee,uu s aa n ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ah_3-b-2_kv_kv-afs-begumpet_04122023-000000-1_HI-KV-001_1.wav,अपने,अपने,c,19.65,20.07,aa p aa n ee,aa p aa n ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ah_3-b-2_kv_kv-afs-begumpet_04122023-000000-1_HI-KV-001_1.wav,मंत्रियों,मित्रीयों,s,20.07,20.88,m aa q t r ii y oo q,m ee t r ii y oo q,3.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ah_3-b-2_kv_kv-afs-begumpet_04122023-000000-1_HI-KV-001_1.wav,से,से,c,21.12,21.81,s ee,s ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ah_3-b-2_kv_kv-afs-begumpet_04122023-000000-1_HI-KV-001_1.wav,पैरों,पैरों,c,21.84,22.44,p ee r oo q,p ee r oo q,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ah_3-b-2_kv_kv-afs-begumpet_04122023-000000-1_HI-KV-001_1.wav,में,में,c,22.44,22.8,m ee q,m ee q,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ah_3-b-2_kv_kv-afs-begumpet_04122023-000000-1_HI-KV-001_1.wav,दर्द,दर्द,c,22.8,23.19,d aa r d,d aa r d,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ah_3-b-2_kv_kv-afs-begumpet_04122023-000000-1_HI-KV-001_1.wav,होने,होने,c,23.19,23.61,hh oo n ee,hh oo n ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ah_3-b-2_kv_kv-afs-begumpet_04122023-000000-1_HI-KV-001_1.wav,की,की,c,23.61,23.79,k II,k II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ah_3-b-2_kv_kv-afs-begumpet_04122023-000000-1_HI-KV-001_1.wav,शिकायत,शिकायत,c,23.79,24.45,sh ii k AA y aa t,sh ii k AA y aa t,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ah_3-b-2_kv_kv-afs-begumpet_04122023-000000-1_HI-KV-001_1.wav,की,की,c,24.45,24.63,k II,k II,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ah_3-b-2_kv_kv-afs-begumpet_04122023-000000-1_HI-KV-001_1.wav,राजा,राजन,s,24.84,25.56,r AA j AA,r AA j AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ah_3-b-2_kv_kv-afs-begumpet_04122023-000000-1_HI-KV-001_1.wav,का,का,c,25.62,26.04,k AA,k AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ah_3-b-2_kv_kv-afs-begumpet_04122023-000000-1_HI-KV-001_1.wav,कहना,कहना,c,26.25,26.73,k aa hh aa n AA,k aa hh aa n AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ah_3-b-2_kv_kv-afs-begumpet_04122023-000000-1_HI-KV-001_1.wav,था,था,c,26.73,27.06,th AA,th AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ah_3-b-2_kv_kv-afs-begumpet_04122023-000000-1_HI-KV-001_1.wav,कि,कि,c,27.06,27.42,k ii,k ii,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ah_3-b-2_kv_kv-afs-begumpet_04122023-000000-1_HI-KV-001_1.wav,मार्ग,मर्ग,s,27.87,28.47,m AA r g,m aa r g,2.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ah_3-b-2_kv_kv-afs-begumpet_04122023-000000-1_HI-KV-001_1.wav,में,में,c,28.77,29.13,m ee q,m ee q,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ah_3-b-2_kv_kv-afs-begumpet_04122023-000000-1_HI-KV-001_1.wav,जो,जो,c,29.13,29.46,j oo,j oo,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ah_3-b-2_kv_kv-afs-begumpet_04122023-000000-1_HI-KV-001_1.wav,कंकड,कंकड,c,29.46,29.94,<UNK>,k aa q k aa D,5.80382189018274
+/home/daplab/30006664/kv_allindia_dec2023/audios/ah_3-b-2_kv_kv-afs-begumpet_04122023-000000-1_HI-KV-001_1.wav,पत्थर,पत्थर,c,29.94,30.48,p aa t th aa r,p aa t th aa r,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ah_3-b-2_kv_kv-afs-begumpet_04122023-000000-1_HI-KV-001_1.wav,थे,थे,c,30.48,30.84,th ee,th ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ah_3-b-2_kv_kv-afs-begumpet_04122023-000000-1_HI-KV-001_1.wav,वे,वे,c,30.84,31.14,w ee,w ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ah_3-b-2_kv_kv-afs-begumpet_04122023-000000-1_HI-KV-001_1.wav,मेरे,मेरे,c,31.14,31.5,m ee r ee,m ee r ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ah_3-b-2_kv_kv-afs-begumpet_04122023-000000-1_HI-KV-001_1.wav,पैरों,पैरों,c,31.5,32.1,p ee r oo q,p ee r oo q,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ah_3-b-2_kv_kv-afs-begumpet_04122023-000000-1_HI-KV-001_1.wav,में,में,c,32.1,32.34,m ee q,m ee q,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ah_3-b-2_kv_kv-afs-begumpet_04122023-000000-1_HI-KV-001_1.wav,चुभ,चुभ,c,32.37,32.67,c uu bh,c uu bh,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ah_3-b-2_kv_kv-afs-begumpet_04122023-000000-1_HI-KV-001_1.wav,गए,गए,c,32.67,32.94,g ee,g ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ah_3-b-2_kv_kv-afs-begumpet_04122023-000000-1_HI-KV-001_1.wav,और,और,c,33.15,33.48,OO r,OO r,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ah_3-b-2_kv_kv-afs-begumpet_04122023-000000-1_HI-KV-001_1.wav,इसके,इसके,c,33.51,33.93,ii s aa k ee,ii s aa k ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ah_3-b-2_kv_kv-afs-begumpet_04122023-000000-1_HI-KV-001_1.wav,लिए,लिए,c,33.93,34.41,l ii ee,l ii ee,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ah_3-b-2_kv_kv-afs-begumpet_04122023-000000-1_HI-KV-001_1.wav,कुछ,<eps>,d,,,k uu ch,,
+/home/daplab/30006664/kv_allindia_dec2023/audios/ah_3-b-2_kv_kv-afs-begumpet_04122023-000000-1_HI-KV-001_1.wav,इंतजाम,इंतजाम,c,34.47,35.13,ii q t aa j AA m,ii q t aa j AA m,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ah_3-b-2_kv_kv-afs-begumpet_04122023-000000-1_HI-KV-001_1.wav,करना,करना,c,35.13,35.49,k aa r aa n AA,k aa r aa n AA,0.0
+/home/daplab/30006664/kv_allindia_dec2023/audios/ah_3-b-2_kv_kv-afs-begumpet_04122023-000000-1_HI-KV-001_1.wav,चाहिए,चाहिए,c,35.85,36.33,c AA hh ii ee,c AA hh ii ee,0.0
