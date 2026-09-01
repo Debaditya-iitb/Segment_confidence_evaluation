@@ -42,6 +42,22 @@ python segment_features.py \
     --utt-col WavFileName
 ```
 
+### Code run examples
+~~~
+python3 segment_features.py     --lang en     --csv     demo/demo_input_english.csv     --out     demo_output_english.csv     --model   /home/daplab/30006664/Wav2vec_models_Raj/English_models/xlsr_IITM_FT_WPP_5     --wav-scp demo/demo_english_wav.scp     --utt-col WavFileName
+[EN] cost matrix (40, 40) from confusion_english_expt.npz (fit on 1218 pairs, laplace=0.1)
+[EN] 741 rows from demo_input_english.csv
+[EN] wav.scp: 10 entries
+[EN] model xlsr_IITM_FT_WPP_5 | vocab=46 blank=43 | device=cpu
+EN utterances: 100%|███████████████████████████████████████████████████████████████████████████████████████| 10/10 [02:02<00:00, 12.25s/it]
+
+[EN] segments scored      : 732
+[EN] no usable span       : 9
+[EN] no audio             : 0
+[EN] costed_neglog filled : 715
+[EN] phones unknown to the cost matrix: 0/4950 (0.00%)
+[EN] -> demo_output_english.csv
+~~~
 
 ### Input CSV
 
