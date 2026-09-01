@@ -42,6 +42,7 @@ python segment_features.py \
     --utt-col WavFileName
 ```
 
+~~~
 
 | flag | default | |
 |---|---|---|
@@ -53,6 +54,9 @@ python segment_features.py \
 | `--start-col` / `--end-col` | `start_time` / `end_time` | seconds |
 | `--canon-col` | `canonical_phone_seq` | `none` to skip the edit-distance columns |
 | `--matrix` | `.npz` | override the cost matrix |
+
+
+~~~
 
 ### Input CSV
 
