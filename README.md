@@ -1,40 +1,45 @@
-# Segment-level wav2vec2 features for reading-miscue analysis
+# Segment-level wav2vec2 features
 
-Given a CSV where each row is a **time segment** (a word, usually) and a
-wav2vec2 CTC checkpoint, this produces per row:
+Give it a CSV where each row is a **time segment** (a word, usually) and a
+wav2vec2 CTC checkpoint. It appends, per row, the phones the model decodes for
+that window, 33 confidence features, and the edit distance to the canonical
+pronunciation.
 
-| output | what it is |
+| appended column | what it is |
 |---|---|
-| `{HI,EN}_phone_seq_raw` / `_clean` | the phone sequence the model decodes for that window (`_clean` drops `*` and `SIL`) |
-| 33 confidence features | log-max-prob, entropy, and the Gibbs / Tsallis / Rényi families, each as `min` / `sum` / `mean` — including `entropy_gibbs_exp_min` |
-| `costed_neglog` | edit distance to the canonical pronunciation, with substitution and indel costs `-log P(hyp\|ref)` from a phone confusion matrix |
+| `{HI,EN}_phone_seq_raw` / `_clean` | the phone sequence decoded for that window (`_clean` drops `*` and `SIL`) |
+| `frame_start` / `frame_end` / `n_frames` | the logit frames the window mapped to |
+| 33 confidence features | log-max-prob, entropy, and the Gibbs / Tsallis / Rényi families, each as `min` / `sum` / `mean` |
+| `costed_neglog` | edit distance to the canonical, substitution and indel costs `-log P(hyp\|ref)` from a phone confusion matrix |
 | `lev_dist` | plain Levenshtein, for reference |
-
-All of it comes from **one forward pass per utterance** — segment windows are
-sliced out of the same logits rather than re-running the model per word.
-
-One script, one language per run, selected with `--lang`.
-
----
+| `n_canon_phones` / `n_hyp_phones` | lengths the distance was computed over |
 
 
 
 ## Run
 
+
+**Hindi** — its utterance column already holds absolute paths, so there is no
+`--wav-scp`, and every column name is the default :
 ```bash
-python segment_features.py --lang hi \
-    --csv  segments.csv \
-    --out  segments_with_features.csv \
+python segment_features.py \
+    --lang hi \
+    --csv   demo/demo_input_hindi.csv \
+    --out   demo_output_hindi_rerun.csv \
     --model /path/to/hindi_checkpoint
 ```
 
-English, with a `wav.scp` and a different utterance column:
+**English** — its CSV names the utterance column `WavFileName`, so this is the
+one run that needs `--utt-col`:
 
 ```bash
-python segment_features.py --lang en \
-    --csv segments.csv --out out.csv \
-    --model /path/to/english_checkpoint \
-    --wav-scp wav.scp --utt-col WavFileName
+python segment_features.py \
+    --lang en \
+    --csv     demo/demo_input_english.csv \
+    --out     demo_output_english_rerun.csv \
+    --model   model/xlsr_IITM_FT_WPP_5 \
+    --wav-scp demo/demo_english_wav.scp \
+    --utt-col WavFileName
 ```
 
 
@@ -71,36 +76,31 @@ demo_output_english.csv   741 rows, 52 cols   the same, plus outputs
 demo_english_wav.scp       10 lines           key -> audio path, for the English run
 ```
 
+## How the code works
 
+One file, `segment_features.py`, one language per run, selected with `--lang`.
+Per utterance:
 
-## Rebuilding the cost matrices
-
-
-
-```bash
-python segment_features.py --build-matrices \
-    --hindi-master  /path/to/master_file_word_level.csv \
-    --english-glob  '/path/to/grade_*_lm_analysis.csv'
-```
-
-Expected columns: Hindi `canonical_phone_seq` + `MT_decoded_wav2vec_phone_seq_clean`;
-English `reference_phones` + `prediction_phones_a0.0_b0.0`, `|`-separated by word.
-`SIL` / `*` / `|` are stripped and whole sequences are aligned — word counts
-agree on only ~30% of English utterances, so word-by-word alignment is not
-reliable.
-
-
----
-
-
-## Hardcoded by design
-
-`FRAME_DURATION = 0.02` (20 ms), `tau = 3`, `t = 0.25`, `LAPLACE_SMOOTH = 0.1`,
-`EPS = 1e-8`.
+1. Load the audio at 16 kHz and run **one forward pass** to get the logits.
+2. For each of that utterance's rows, slice the window
+   `[floor(start / 0.02) : ceil(end / 0.02)]` out of those logits, clamped to
+   the utterance. Every segment
+   is sliced from the same logits rather than re-running the model per word —
+   that is where the speed comes from.
+3. Greedy-decode the window: **collapse repeated frames first, drop the blank
+   second.** The reverse order can never emit a doubled phone, which matters for
+   Hindi geminates (`hh ii m m aa t`).
+4. Compute the 33 confidence features over the window's frames.
+5. Edit-distance the decoded phones against the canonical, drawing substitution
+   *and* indel costs from the confusion matrix.
 
 Blank is always read from `processor.tokenizer.pad_token_id`, never assumed to
 be id 0 — for these vocabularies id 0 is a real symbol (`aa` in Hindi, `*` in
 English) and the blank is the last id.
 
+Hardcoded by design: `FRAME_DURATION = 0.02` (20 ms), `tau = 3`, `t = 0.25`,
+`LAPLACE_SMOOTH = 0.1`, `EPS = 1e-8`.
 
-
+`matrices/*.npz` are the shipped phone-confusion matrices, one per language.
+They hold only aggregate phone-to-phone counts (42×42 Hindi, 40×40 English), so
+no utterance, speaker or school survives the aggregation.
