@@ -85,14 +85,11 @@ Per utterance:
 2. For each of that utterance's rows, slice the window
    `[floor(start / 0.02) : ceil(end / 0.02)]` out of those logits, clamped to
    the utterance. Every segment
-   is sliced from the same logits rather than re-running the model per word —
-   that is where the speed comes from.
+   is sliced from the same logits rather than re-running the model per word .
 3. Greedy-decode the window: **collapse repeated frames first, drop the blank
-   second.** The reverse order can never emit a doubled phone, which matters for
-   Hindi geminates (`hh ii m m aa t`).
+   second.**
 4. Compute the 33 confidence features over the window's frames.
-5. Edit-distance the decoded phones against the canonical, drawing substitution
-   *and* indel costs from the confusion matrix.
+
 
 Blank is always read from `processor.tokenizer.pad_token_id`, never assumed to
 be id 0 — for these vocabularies id 0 is a real symbol (`aa` in Hindi, `*` in
@@ -101,6 +98,6 @@ English) and the blank is the last id.
 Hardcoded by design: `FRAME_DURATION = 0.02` (20 ms), `tau = 3`, `t = 0.25`,
 `LAPLACE_SMOOTH = 0.1`, `EPS = 1e-8`.
 
-`matrices/*.npz` are the shipped phone-confusion matrices, one per language.
+`matrices/*.npz` are the phone-confusion matrices, one per language.
 They hold only aggregate phone-to-phone counts (42×42 Hindi, 40×40 English), so
 no utterance, speaker or school survives the aggregation.
