@@ -42,21 +42,6 @@ python segment_features.py \
     --utt-col WavFileName
 ```
 
-~~~
-
-| flag | default | |
-|---|---|---|
-| `--lang` | — | `hi` or `en`; picks the shipped cost matrix |
-| `--csv` / `--out` | — | input and output CSV |
-| `--model` | `$W2V_MODEL_HI` / `$W2V_MODEL_EN` | checkpoint directory |
-| `--wav-scp` | none | omit if the utterance column already holds a path |
-| `--utt-col` | `utterance_id` | |
-| `--start-col` / `--end-col` | `start_time` / `end_time` | seconds |
-| `--canon-col` | `canonical_phone_seq` | `none` to skip the edit-distance columns |
-| `--matrix` | `.npz` | override the cost matrix |
-
-
-~~~
 
 ### Input CSV
 
