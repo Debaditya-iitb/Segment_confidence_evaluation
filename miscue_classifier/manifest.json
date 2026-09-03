@@ -1,0 +1,60 @@
+{
+  "MT_decoded_ed1": {
+    "file": "models/miscue_clf_MT_decoded_ed1.joblib",
+    "features": [
+      "costed_neglog"
+    ],
+    "AUC": 0.82,
+    "AP": 0.3982,
+    "MR_at_5FPR": 42.3428,
+    "F1": 0.5,
+    "Precision": 0.4413,
+    "Recall": 0.5766,
+    "threshold": 0.8386,
+    "n_train": 123764
+  },
+  "MT_decoded_ed_conf2": {
+    "file": "models/miscue_clf_MT_decoded_ed_conf2.joblib",
+    "features": [
+      "costed_neglog",
+      "entropy_gibbs_exp_min"
+    ],
+    "AUC": 0.8961,
+    "AP": 0.4738,
+    "MR_at_5FPR": 38.903,
+    "F1": 0.522,
+    "Precision": 0.4557,
+    "Recall": 0.611,
+    "threshold": 0.8297,
+    "n_train": 123764
+  },
+  "Cano_decoded_ed1": {
+    "file": "models/miscue_clf_Cano_decoded_ed1.joblib",
+    "features": [
+      "costed_neglog"
+    ],
+    "AUC": 0.813,
+    "AP": 0.4047,
+    "MR_at_5FPR": 38.0846,
+    "F1": 0.5228,
+    "Precision": 0.4525,
+    "Recall": 0.6192,
+    "threshold": 0.8132,
+    "n_train": 123486
+  },
+  "Cano_decoded_ed_conf2": {
+    "file": "models/miscue_clf_Cano_decoded_ed_conf2.joblib",
+    "features": [
+      "costed_neglog",
+      "entropy_gibbs_exp_min"
+    ],
+    "AUC": 0.8893,
+    "AP": 0.4902,
+    "MR_at_5FPR": 36.9163,
+    "F1": 0.5301,
+    "Precision": 0.4571,
+    "Recall": 0.6308,
+    "threshold": 0.8036,
+    "n_train": 123486
+  }
+}
