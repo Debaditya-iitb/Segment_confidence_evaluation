@@ -4,7 +4,7 @@
     "task": "English reading-miscue detection, one decision per canonical word",
     "language": "English",
     "schema_version": "1.0",
-    "exported": "2026-09-07T01:11:28",
+    "exported": "2026-09-07T01:23:04",
     "built": "2026-09-07T00:55:37",
     "inputs": {
       "n_features": 2,
@@ -83,8 +83,8 @@
     },
     "cost_matrix": {
       "file": "matrices/confusion_english_KV_G345_foldavg.npz",
-      "sha256": "sha256:82acbe21b64ac845647e93a8a9872f38504e626b95380b613f866e5b7525aa78",
-      "bytes": 80855,
+      "sha256": "sha256:03461f4aa5ee39a5b3e19e1b895d7a290d01e2b4ca2fe14a2fedec6f234bf7b8",
+      "bytes": 81820,
       "key": "cost_neglog",
       "kind": "mean of 4 leave-one-fold-out cost_neglog matrices",
       "shape": [
