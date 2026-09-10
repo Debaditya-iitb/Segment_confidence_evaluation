@@ -1,0 +1,25 @@
+=================== STEP 1 - features ===================
+[EN] cost matrix (40, 40) from confusion_english_KV_G345_new_foldavg.npz (fit on 65356 pairs, laplace=0.1)
+[EN] 890 rows from demo_input_english.csv
+[EN] wav.scp: 12 entries
+[EN] model xlsr_IITM_FT_WPP_5_FT_NSO_MID_END_CTC_LOWEST_TOP_40_hr | vocab=46 blank=43 | device=cuda
+
+[EN] segments scored      : 877
+[EN] no usable span       : 13
+[EN] no audio             : 0
+[EN] costed_neglog filled : 876
+[EN] phones unknown to the cost matrix: 0/5963 (0.00%)
+[EN] -> demo/demo_english_features.csv
+
+=================== STEP 2 - classify ===================
+cost matrix: matrices/confusion_english_KV_G345_new_foldavg.npz (key cost_neglog)
+             the input's costed_neglog MUST come from this same matrix (segment_features.py --lang en, CONFUSION_NPZ), or the scale will not match.
+slim copy  : demo/demo_english_scored_slim.csv
+model      : miscue_clf_EN_new_foldavg_ed_conf2.joblib  features=['costed_neglog', 'entropy_gibbs_exp_min']
+threshold  : 0.845255  (5% FPR)
+override   : ASR label in {i,d} -> prob 1.0; ASR binary == 1 -> prob 1.0  [from label]
+             13 rows forced to prob 1.0 (1.46% of input)
+rows       : 890   (14 had a missing feature — handled natively by the tree)
+flagged    : 70 S (miscue) / 820 C (correct)   -> 7.87% flagged
+written to : demo/demo_english_scored.csv
+appended   : miscue_forced (1=forced by override), miscue_prob (probability), miscue_label (1=S / 0=C), miscue_pred (S/C)  — the last 4 columns
